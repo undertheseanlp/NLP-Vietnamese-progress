@@ -16,13 +16,13 @@ The training set consists of 75k manually word-segmented sentences (about 23 wor
   <tr>
     <td>RDRsegmenter</td>
     <td>97.90</td>
-    <td></td>
+    <td><a href="http://www.lrec-conf.org/proceedings/lrec2018/pdf/55.pdf">Nguyen et al. LREC'18</a></td>
     <td></td>
   </tr>
   <tr>
     <td>UETsegmenter</td>
     <td>97.87</td>
-    <td><a href="http://www.lrec-conf.org/proceedings/lrec2018/pdf/55.pdf">Nguyen et al. LREC'18</a></td>
+    <td></td>
     <td></td>
   </tr>
   <tr>
