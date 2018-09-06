@@ -6,19 +6,55 @@
 
 ### Leaderboard
 
+Restaurant Dataset
+
 <table>
   <tr>
     <th>Model</th>
-    <th>F1</th>
+    <th>Aspect (F1)</th>
+    <th>Aspect-Polarity (F1)</th>
     <th>Paper/Source</th>
     <th>Code</th>
   </tr>
   <tr>
-    <td>VnCoreNLP</td>
-    <td>73.39</td>
-    <td>79.02</td>
-    <td><a href="http://aclweb.org/anthology/N18-5012">Nguyen et al. NAACL'18</a></td>
-    <td><a href="https://github.com/vncorenlp/VnCoreNLP">Official</a></td>
+    <td>SVM</td>
+    <td>0.77</td>
+    <td>0.61</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>SVM</td>
+    <td>0.54</td>
+    <td>0.48</td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
+
+Hotel Dataset
+
+<table>
+  <tr>
+    <th>Model</th>
+    <th>Aspect (F1)</th>
+    <th>Aspect-Polarity (F1)</th>
+    <th>Paper/Source</th>
+    <th>Code</th>
+  </tr>
+  <tr>
+    <td>SVM</td>
+    <td>0.70</td>
+    <td>0.61</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>SVM</td>
+    <td>0.56</td>
+    <td>0.53</td>
+    <td></td>
+    <td></td>
   </tr>
 </table>
 
