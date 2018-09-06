@@ -22,7 +22,7 @@ The training set consists of 75k manually word-segmented sentences (about 23 wor
   <tr>
     <td>UETsegmenter</td>
     <td>97.87</td>
-    <td></td>
+    <td><a href="https://drive.google.com/file/d/1EEbEJCCieHD9yPBDHr2VP_k_6-qCjdjL/view?usp=sharing">Nguyen et al. RIVF'16</a></td>
     <td></td>
   </tr>
   <tr>
