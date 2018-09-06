@@ -1,14 +1,16 @@
-# Named Entity Recognition
+# Sentiment Analysis
 
-## VLSP 2018
+## VLSP 2018 Shared Task: Aspect Based Sentiment Analysis
 
-## VLSP 2016
+* :scroll: [VLSP 2018 Shared Task: Aspect Based Sentiment Analysis paper](https://drive.google.com/file/d/1C3l2n2Jicwzc0aoBLoyA5zIdczHpcy5R/view?usp=sharing)
+
+### Leaderboard
 
 <table>
   <tr>
     <th>Model</th>
     <th>F1</th>
-    <th>Paper / Source </th>
+    <th>Paper/Source</th>
     <th>Code</th>
   </tr>
   <tr>
@@ -19,3 +21,6 @@
     <td><a href="https://github.com/vncorenlp/VnCoreNLP">Official</a></td>
   </tr>
 </table>
+
+## VLSP 2016 Shared Task: Sentiment Analysis
+
