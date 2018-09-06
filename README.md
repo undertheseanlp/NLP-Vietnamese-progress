@@ -8,14 +8,14 @@ It aims to cover both traditional and core NLP tasks such as dependency parsing 
 
 ### Table of contents
 
-* [**Preprocess**](#preprocess) / [**Sentence Boundary Disambiguation**](#sentence-boundary-disambiguation) / [**Language Detection**](#language-detection) / [**Spelling Correction**](#spelling-correction)
+* **Preprocess** / **Sentence Boundary Disambiguation** / **Language Detection** / **Spelling Correction**(#spelling-correction)
 * [**Word Segmentation**](#word-segmentation) / [**Part-of-Speech Tagging**](#part-of-speech-tagging) / [**Chunking**](#chunking) / [**Parsing**](#parsing)
-* [**Representation**](#representation)
-* [**Text Classification**](#text-classification) / [**Sentiment Analysis**](#sentiment-analysis)
-* [**Named Entity Recognition**](#named-entity-recognition) / [**Relationship Extraction**](#relationship-extraction)
-* [**Coreference Resolution**](#coreference-resolution) / [**Slotfilling**](#slotfilling) / [**Entity Linking**](#entity-linking)
-* [**Knowledge Representation and Reasoning**](#knowledge-representation-and-reasoning)
-* [**Semantics**](#semantics) / [**Semantic Role Labeling**](#semantic-role-labeling)
+* **Representation**
+* **Text Classification** / **Sentiment Analysis**
+* **Named Entity Recognition** / **Relationship Extraction**
+* **Coreference Resolution** / **Slotfilling** / **Entity Linking**
+* **Knowledge Representation and Reasoning**
+* **Semantics** / **Semantic Role Labeling**
 * [**Machine Translation**](tasks/machine_translation.md) / [**Automatic Summarization**](#automatic-summarization)
 * [**Language Generation**](#language-generation) / [**Question Answering**](#question-answering) / [**Dialog Systems and Chatbots**](#dialogue-systems-and-chatbots)
 * [**Automatic Speech Recognition**](#automatic-speech-recognition) / [**Text To Speech**](#text-to-speech)
