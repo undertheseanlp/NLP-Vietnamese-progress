@@ -20,7 +20,7 @@ Example:
 <table>
   <tr>
     <th>Model</th>
-    <th>Score</th>
+    <th>F1</th>
     <th>Paper/Source</th>
     <th>Code</th>
   </tr>
@@ -59,7 +59,7 @@ Test data: 2,831 test sentences from the VLSP 2016 NER shared task.
 <table>
   <tr>
     <th>Model</th>
-    <th>Score</th>
+    <th>F1</th>
     <th>Paper/Source</th>
     <th>Code</th>
   </tr>
