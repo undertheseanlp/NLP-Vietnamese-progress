@@ -10,10 +10,10 @@ Example:
 
 ### Contents
 
-* [VLSP 2018](#vlsp-2018-named-entity-recognition)
-* [VLSP 2016](#vlsp-2016-named-entity-recognition)
+* [VLSP 2018 Shared Task: Named Entity Recognition](#vlsp-2018-named-entity-recognition)
+* [VLSP 2016 Shared Task: Named Entity Recognition](#vlsp-2016-named-entity-recognition)
 
-## VLSP 2018: Named Entity Recognition
+## VLSP 2018 Shared Task: Named Entity Recognition
 
 ### Leaderboard
 
@@ -45,7 +45,7 @@ Example:
 </table>
 
 
-## VLSP 2016: Named Entity Recognition
+## VLSP 2016 Shared Task: Named Entity Recognition
 
 16,861 sentences for training and development from the VLSP 2016 NER shared task:
 
