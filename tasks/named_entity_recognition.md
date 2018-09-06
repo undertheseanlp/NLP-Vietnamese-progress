@@ -8,7 +8,7 @@ Example:
 | --- | ---| --- | --- |
 | B-PER | I-PER | O | B-LOC |
 
-## Contents
+**Contents**
 
 * [VLSP 2018](#vlsp-2018)
 * [VLSP 2016](#vlsp-2016)
