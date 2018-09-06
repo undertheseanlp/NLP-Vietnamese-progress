@@ -7,7 +7,7 @@
     <th>Model</th>
     <th>LAS</th>
     <th>UAS</th>
-    <th>Paper / Source </th>
+    <th>Paper/Source</th>
     <th>Code</th>
   </tr>
   <tr>
