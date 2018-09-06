@@ -39,7 +39,7 @@ Example:
   <tr>
     <td>Dong et al. 2018</td>
     <td>66.07</td>
-    <td><a href="https://drive.google.com/file/d/10FPPK2dtGmG0iLlaSuCeclwfRa5G1mOE/view?usp=sharing">Luong et al. VLSP'18</a></td>
+    <td><a href="https://drive.google.com/file/d/10FPPK2dtGmG0iLlaSuCeclwfRa5G1mOE/view?usp=sharing">Dong et al. VLSP'18</a></td>
     <td></td>
   </tr>
 </table>
