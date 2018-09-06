@@ -17,7 +17,7 @@ It aims to cover both traditional and core NLP tasks such as dependency parsing 
 * ![](resources/book.png) Knowledge Representation and Reasoning
 * Semantics / Semantic Role Labeling
 * ![](resources/translation.png) [Machine Translation](tasks/machine_translation.md) / Automatic Summarization
-* Language Generation / Question Answering / Dialog Systems and Chatbots
+* ![](resources/chatbot.png) Dialog Systems and Chatbots / Language Generation / Question Answering 
 * Automatic Speech Recognition / Text To Speech / [Speech Classification](tasks/speech_classification.md)
 * Optical Text Recognition
 
