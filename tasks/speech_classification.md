@@ -6,4 +6,4 @@ Identifying gender and regional accent from speech is essential for intelligent 
 
 **References**
 
-* :link: [https://challenge.zalo.ai/portal/voice](Zalo AI Challenge: Voice Gender Classification Website)
+* :link: [Zalo AI Challenge: Voice Gender Classification Website](https://challenge.zalo.ai/portal/voice)
