@@ -9,14 +9,14 @@ It aims to cover both traditional and core NLP tasks such as dependency parsing 
 ### Table of contents
 
 * Preprocess / Sentence Boundary Disambiguation / Language Detection / Spelling Correction
-* [**Word Segmentation**](#word-segmentation) / [**Part-of-Speech Tagging**](#part-of-speech-tagging) / [**Chunking**](#chunking) / [**Parsing**](#parsing)
+* Word Segmentation / Part-of-Speech Tagging / Chunking / Parsing
 * Representation
 * Text Classification / Sentiment Analysis
 * Named Entity Recognition / Relationship Extraction
 * Coreference Resolution / Slotfilling / Entity Linking
 * Knowledge Representation and Reasoning
 * Semantics / Semantic Role Labeling
-* Machine Translation / Automatic Summarization
+* [Machine Translation](tasks/machine_translation.md) / Automatic Summarization
 * Language Generation / Question Answering / Dialog Systems and Chatbots
 * Automatic Speech Recognition / Text To Speech
 * Optical Text Recognition
