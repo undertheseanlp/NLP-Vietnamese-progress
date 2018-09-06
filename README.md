@@ -8,18 +8,18 @@ It aims to cover both traditional and core NLP tasks such as dependency parsing 
 
 ### Table of contents
 
-* **Preprocess** / **Sentence Boundary Disambiguation** / **Language Detection** / **Spelling Correction**(#spelling-correction)
+* Preprocess / Sentence Boundary Disambiguation / Language Detection / Spelling Correction
 * [**Word Segmentation**](#word-segmentation) / [**Part-of-Speech Tagging**](#part-of-speech-tagging) / [**Chunking**](#chunking) / [**Parsing**](#parsing)
-* **Representation**
-* **Text Classification** / **Sentiment Analysis**
-* **Named Entity Recognition** / **Relationship Extraction**
-* **Coreference Resolution** / **Slotfilling** / **Entity Linking**
-* **Knowledge Representation and Reasoning**
-* **Semantics** / **Semantic Role Labeling**
-* [**Machine Translation**](tasks/machine_translation.md) / [**Automatic Summarization**](#automatic-summarization)
-* [**Language Generation**](#language-generation) / [**Question Answering**](#question-answering) / [**Dialog Systems and Chatbots**](#dialogue-systems-and-chatbots)
-* [**Automatic Speech Recognition**](#automatic-speech-recognition) / [**Text To Speech**](#text-to-speech)
-* [**Optical Text Recognition**](#optical-text-recognition)
+* Representation
+* Text Classification / Sentiment Analysis
+* Named Entity Recognition / Relationship Extraction
+* Coreference Resolution / Slotfilling / Entity Linking
+* Knowledge Representation and Reasoning
+* Semantics / Semantic Role Labeling
+* Machine Translation / Automatic Summarization
+* Language Generation / Question Answering / Dialog Systems and Chatbots
+* Automatic Speech Recognition / Text To Speech
+* Optical Text Recognition
 
 ### Contributing
 
