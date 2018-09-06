@@ -10,8 +10,8 @@ Example:
 
 ### Contents
 
-* [VLSP 2018 Shared Task: Named Entity Recognition](#vlsp-2018-named-entity-recognition)
-* [VLSP 2016 Shared Task: Named Entity Recognition](#vlsp-2016-named-entity-recognition)
+* [VLSP 2018 Shared Task: Named Entity Recognition](#vlsp-2018-shared-task-named-entity-recognition)
+* [VLSP 2016 Shared Task: Named Entity Recognition](#vlsp-2016-shared-task-named-entity-recognition)
 
 ## VLSP 2018 Shared Task: Named Entity Recognition
 
