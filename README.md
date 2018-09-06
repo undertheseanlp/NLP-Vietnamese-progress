@@ -12,7 +12,7 @@ It aims to cover both traditional and core NLP tasks such as dependency parsing 
 * ![](resources/tagging.png) [Word Segmentation](tasks/word_segmentation.md) / [Part-of-Speech Tagging](tasks/part_of_speech_tagging.md) / Chunking / [Parsing](tasks/parsing.md)
 * ![](resources/classification.png) Text Classification / [Sentiment Analysis](tasks/sentiment_analysis.md) / Representation
 * ![](resources/ner.png) [Named Entity Recognition](tasks/named_entity_recognition.md) / Relationship Extraction
-* ![](resources/entity_linking.png) Coreference Resolution / Slotfilling / Entity Linking
+* ![](resources/entity_linking.png) Coreference Resolution / Slot Filling / Entity Linking
 * ![](resources/semantic.png) Semantics / Semantic Role Labeling
 * ![](resources/book.png) Knowledge Representation and Reasoning
 * ![](resources/translation.png) [Machine Translation](tasks/machine_translation.md) / Automatic Summarization
