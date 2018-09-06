@@ -13,7 +13,7 @@ Example:
 * [VLSP 2018](#vlsp-2018)
 * [VLSP 2016](#vlsp-2016)
 
-## VLSP 2018
+## VLSP 2018: Named Entity Recognition
 
 ### Leaderboard
 
@@ -45,7 +45,7 @@ Example:
 </table>
 
 
-## VLSP 2016
+## VLSP 2016: Named Entity Recognition
 
 16,861 sentences for training and development from the VLSP 2016 NER shared task:
 
