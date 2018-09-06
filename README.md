@@ -12,7 +12,7 @@ It aims to cover both traditional and core NLP tasks such as dependency parsing 
 * Word Segmentation / Part-of-Speech Tagging / Chunking / Parsing
 * Representation
 * Text Classification / Sentiment Analysis
-* Named Entity Recognition / Relationship Extraction
+* [Named Entity Recognition](tasks/named_entity_recognition.md) / Relationship Extraction
 * Coreference Resolution / Slotfilling / Entity Linking
 * Knowledge Representation and Reasoning
 * Semantics / Semantic Role Labeling
