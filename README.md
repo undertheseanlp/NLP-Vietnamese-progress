@@ -1,4 +1,4 @@
-# Tracking Progress in Vietnamese NLP 
+# Tracking Progress in Vietnamese Natural Language Processing 
 
 ![](resources/icon.png)
 
