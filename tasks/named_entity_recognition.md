@@ -10,8 +10,8 @@ Example:
 
 ### Contents
 
-* [VLSP 2018](#vlsp-2018)
-* [VLSP 2016](#vlsp-2016)
+* [VLSP 2018](#vlsp-2018-named-entity-recognition)
+* [VLSP 2016](#vlsp-2016-named-entity-recognition)
 
 ## VLSP 2018: Named Entity Recognition
 
