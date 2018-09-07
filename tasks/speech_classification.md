@@ -6,6 +6,42 @@
 
 Identifying gender and regional accent from speech is essential for intelligent systems such as conversational chatbot, recommendation systems, smart home, and speech recognition. In this speech challenge, you will build a system to predict genders and regional accents of Vietnamese speakers using a diverse speech dataset.  The dataset consists of ~30K short speech signals recorded in an un-controlled environment.
 
+### Leaderboard
+
+<table>
+  <tr>
+    <th rowspan="2">Model</th>
+    <th colspan="2">Score</th>
+    <th rowspan="2">Paper/Source</th>
+    <th rowspan="2">Code</th>
+  </tr>
+  <tr>
+    <td>Private Test</td>
+    <td>Public Test</td>
+  </tr>
+  <tr>
+    <td>VietAI</td>
+    <td>0.847</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>AIS-HelloKitty</td>
+    <td>0.832</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>ZE</td>
+    <td>0.821</td>
+    <td></td>
+    <td></td>
+    <td><a href="https://github.com/tiepvupsu/zalo_voice">Official</a></td>
+  </tr>
+</table>
+
 ## Zalo AI Challenge: Music Genre Classification
 
 * :link: [Zalo AI Challenge: Voice Gender Classification Website](https://challenge.zalo.ai/portal/music)
@@ -17,3 +53,39 @@ In this challenge, you are to build a classifier to detect the correct genre of 
 A training set with labels is provided for your training. A test set with no category labels is also provided to test your trained classifiers against unseen data.
 
 For each song, the classifier will need to output the most matching genre. Teams are scored and ranked by the classification accuracy on the test set.
+
+### Leaderboard
+
+<table>
+  <tr>
+    <th rowspan="2">Model</th>
+    <th colspan="2">Score</th>
+    <th rowspan="2">Paper/Source</th>
+    <th rowspan="2">Code</th>
+  </tr>
+  <tr>
+    <td>Private Test</td>
+    <td>Public Test</td>
+  </tr>
+  <tr>
+    <td>DungNB</td>
+    <td>0.701</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Batip</td>
+    <td>0.681</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>toppan</td>
+    <td>0.652</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
