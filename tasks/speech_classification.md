@@ -91,7 +91,7 @@ For each song, the classifier will need to output the most matching genre. Teams
    <tr>
     <td>ZE</td>
     <td></td>
-    <td>0.78246</td>
+    <td>0.782</td>
     <td></td>
     <td><a href="https://github.com/tiepvupsu/zalo_voice">Official</a></td>
   </tr>
