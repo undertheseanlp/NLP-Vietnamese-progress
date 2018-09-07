@@ -22,14 +22,14 @@ Identifying gender and regional accent from speech is essential for intelligent 
   <tr>
     <td>VietAI</td>
     <td>0.847</td>
-    <td></td>
+    <td>0.817</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td>AIS-HelloKitty</td>
     <td>0.832</td>
-    <td></td>
+    <td>0.786</td>
     <td></td>
     <td></td>
   </tr>
@@ -70,22 +70,29 @@ For each song, the classifier will need to output the most matching genre. Teams
   <tr>
     <td>DungNB</td>
     <td>0.701</td>
-    <td></td>
+    <td>0.815</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td>Batip</td>
     <td>0.681</td>
-    <td></td>
+    <td>0.810</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td>toppan</td>
     <td>0.652</td>
+    <td>0.802</td>
     <td></td>
     <td></td>
+  </tr>
+   <tr>
+    <td>ZE</td>
     <td></td>
+    <td>0.78246</td>
+    <td></td>
+    <td><a href="https://github.com/tiepvupsu/zalo_voice">Official</a></td>
   </tr>
 </table>
