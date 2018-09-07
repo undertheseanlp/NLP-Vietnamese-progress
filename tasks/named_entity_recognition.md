@@ -47,6 +47,8 @@ Example:
 
 ## VLSP 2016 Shared Task: Named Entity Recognition
 
+* :scroll: [VLSP 2016 Shared Task: Named Entity Recognition paper](https://drive.google.com/file/d/18FuXxRM0slTeReQUCOj8IiToB5eqVQCT/view?usp=sharing)
+
 16,861 sentences for training and development from the VLSP 2016 NER shared task:
 
 * 14,861 sentences are used for training.
@@ -65,9 +67,39 @@ Test data: 2,831 test sentences from the VLSP 2016 NER shared task.
   </tr>
   <tr>
     <td>VnCoreNLP</td>
-    <td>88.55</td>
+    <td>88.55 *</td>
     <td><a href="http://aclweb.org/anthology/N18-5012">Nguyen et al. NAACL'18</a></td>
     <td><a href="https://github.com/vncorenlp/VnCoreNLP">Official</a></td>
+  </tr>
+  <tr>
+    <td>Token reguilar expression + Bidirectional Inference</td>
+    <td>88.78</td>
+    <td><a href="https://drive.google.com/file/d/1yepeBjeOCWmwMSrGwP-ewhxQBmPpyP0p/view?usp=sharing">Le et al. VLSP'16</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>CRF</td>
+    <td>84.08</td>
+    <td><a href="https://drive.google.com/file/d/1I5HStrMQ9zfcppBN9MpzJmlEFaNCikSR/view?usp=sharing">Nguyen et al. VLSP'16</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Stack LSTM</td>
+    <td>83.80</td>
+    <td><a href="https://drive.google.com/file/d/16M0Ry_dHFOY5njVhqy4NV0G2-bfTq6Qt/view?usp=sharing">Nguyen et al. VLSP'16</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Bi-LSTM CRF</td>
+    <td>83.25</td>
+    <td><a href="https://drive.google.com/file/d/16M0Ry_dHFOY5njVhqy4NV0G2-bfTq6Qt/view?usp=sharing">Nguyen et al. VLSP'16</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>CRF</td>
+    <td>78.38</td>
+    <td><a href="https://drive.google.com/file/d/1vg9Bvu6HgiO7KDiKKAPZz9dL3VmlON1I/view?usp=sharing">Le et al. VLSP'16</a></td>
+    <td></td>
   </tr>
 </table>
 
