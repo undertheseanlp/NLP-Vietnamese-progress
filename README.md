@@ -9,7 +9,7 @@ It aims to cover both traditional and core NLP tasks such as dependency parsing 
 ### Table of contents
 
 * ![](resources/preprocess_1.png) Preprocess / Sentence Boundary Disambiguation / Language Detection / [Spelling Correction](tasks/spelling_correction.md)
-* ![](resources/tagging.png) [Word Segmentation](tasks/word_segmentation.md) / [Part-of-Speech Tagging](tasks/part_of_speech_tagging.md) / Chunking / [Parsing](tasks/parsing.md)
+* ![](resources/tagging.png) [Word Segmentation](tasks/word_segmentation.md) / [Part-of-Speech Tagging](tasks/part_of_speech_tagging.md) / [Chunking](tasks/chunking.md) / [Parsing](tasks/parsing.md)
 * ![](resources/classification.png) Text Classification / [Sentiment Analysis](tasks/sentiment_analysis.md) / Representation
 * ![](resources/ner.png) [Named Entity Recognition](tasks/named_entity_recognition.md) / Relationship Extraction / Event Extraction
 * ![](resources/entity_linking.png) Coreference Resolution / Slot Filling / Entity Linking
