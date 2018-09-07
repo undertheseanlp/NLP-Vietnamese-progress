@@ -80,7 +80,7 @@ Test data: 2,831 test sentences from the VLSP 2016 NER shared task.
   <tr>
     <td>CRF</td>
     <td>84.08</td>
-    <td><a href="https://drive.google.com/file/d/1I5HStrMQ9zfcppBN9MpzJmlEFaNCikSR/view?usp=sharing">Nguyen et al. VLSP'16</a></td>
+    <td><a href="https://drive.google.com/file/d/1n4JMtHLsIgaeiAtjPncg64BVumykbHsL/view?usp=sharing">Nguyen et al. VLSP'16</a></td>
     <td></td>
   </tr>
   <tr>
