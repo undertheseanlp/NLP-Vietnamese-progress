@@ -76,29 +76,41 @@ A review can be very complex with different sentiments on various objects. There
 <table>
   <tr>
     <th>Model</th>
-    <th>Aspect (F1)</th>
-    <th>Aspect-Polarity (F1)</th>
+    <th>F1</th>
     <th>Paper/Source</th>
     <th>Code</th>
   </tr>
   <tr>
-    <td>SVM</td>
-    <td>0.77</td>
-    <td>0.61</td>
-    <td><a href="https://drive.google.com/file/d/1I2U2AinR5kfz1gjZRgfgsRQwqZEo7-od/view?usp=sharing">Dang et al. VLSP'18</a></td>
+   <td>Perceptron/SVM/Maxent</td>
+    <td>80.05</td>
+    <td><a href="https://drive.google.com/file/d/1ffh5tcG0e5dzjprT07GGiOHzmbUV569-/view?usp=sharing">Pham et al. VLSP'16</a></td>
+    <td></td>
+  </tr>
+  <tr>
+   <td>SVM/MLNN/LSTM</td>
+    <td>71.44</td>
+    <td><a href="https://drive.google.com/file/d/1s7CdShhyOhR7STQx-tJ3jOXtPWr4gBMk/view?usp=sharing">Nguyen et al. VLSP'16</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Ensemble: Random forest, SVM, Naive Bayes</td>
+    <td>71.22</td>
+    <td><a href="https://drive.google.com/file/d/1V87Z0Jjgt47nqcN8BaDLU5TLAqzUn1pN/view?usp=sharing">Pham et al. VLSP'16</a></td>
     <td></td>
   </tr>
   <tr>
     <td>SVM</td>
-    <td>0.54</td>
-    <td>0.48</td>
-    <td><a href="https://drive.google.com/file/d/1-3HYFHjDv1R-H5HOIC9es1Xd-gBEtcZ9/view?usp=sharing">Nguyen et al. VLSP'18</a></td>
+    <td>67.54</td>
+    <td><a href="https://drive.google.com/file/d/1ADMRNIaHUG-XFqJbSs2OmKg9DxrNGcQ3/view?usp=sharing">Ngo et al. VLSP'16</a></td>
+    <td></td>
+  </tr>
+  <tr>
+   <td>SVM/MLNN</td>
+    <td>67.23</td>
+    <td><a href="https://drive.google.com/file/d/15FSX0s1K_CCjlDbxHpWcnbGCQfIcV_u8/view?usp=sharing">Tran et al. VLSP'16</a></td>
     <td></td>
   </tr>
 </table>
-
-
-
 
 ## Miscellaneous
 
