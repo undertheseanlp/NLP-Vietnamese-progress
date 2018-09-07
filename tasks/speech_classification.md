@@ -3,6 +3,7 @@
 ## Zalo AI Challenge: Voice Gender Classification
 
 * :link: [Zalo AI Challenge: Voice Gender Classification Website](https://challenge.zalo.ai/portal/voice)
+* :file_folder: [Zalo AI Challenge: Voice Gender Classification Data](https://challenge.zalo.ai/portal/voice/data)
 
 Identifying gender and regional accent from speech is essential for intelligent systems such as conversational chatbot, recommendation systems, smart home, and speech recognition. In this speech challenge, you will build a system to predict genders and regional accents of Vietnamese speakers using a diverse speech dataset.  The dataset consists of ~30K short speech signals recorded in an un-controlled environment.
 
@@ -52,6 +53,7 @@ Identifying gender and regional accent from speech is essential for intelligent 
 ## Zalo AI Challenge: Music Genre Classification
 
 * :link: [Zalo AI Challenge: Voice Gender Classification Website](https://challenge.zalo.ai/portal/music)
+* :file_folder: [Zalo AI Challenge: Voice Gender Classification Data](https://challenge.zalo.ai/portal/music/data)
 
 Music Genre classification is a difficult and interesting challenge. A good classification is very helpful for smart music storage, music recommendation, music search. Despite of their usefulness, there are not many good music classifiers yet, especially for Vietnamese songs.
 
