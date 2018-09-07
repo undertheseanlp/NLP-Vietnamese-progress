@@ -14,7 +14,7 @@ The training set consists of 75k manually word-segmented sentences (about 23 wor
   <tr>
     <th>Model</th>
     <th>Score</th>
-    <th>Paper / Source </th>
+    <th>Paper/Source </th>
     <th>Code</th>
   </tr>
   <tr>
