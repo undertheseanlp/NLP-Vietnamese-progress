@@ -58,6 +58,8 @@ Test data: 2,831 test sentences from the VLSP 2016 NER shared task.
 
 ### Leaderboard
 
+Without golden POS and chunking tags
+
 <table>
   <tr>
     <th>Model</th>
@@ -70,6 +72,18 @@ Test data: 2,831 test sentences from the VLSP 2016 NER shared task.
     <td>88.55 *</td>
     <td><a href="http://aclweb.org/anthology/N18-5012">Nguyen et al. NAACL'18</a></td>
     <td><a href="https://github.com/vncorenlp/VnCoreNLP">Official</a></td>
+  </tr>
+  <tr>
+</table>
+
+With golden POS and chunking tags
+
+<table>
+  <tr>
+    <th>Model</th>
+    <th>F1</th>
+    <th>Paper/Source</th>
+    <th>Code</th>
   </tr>
   <tr>
     <td>Token reguilar expression + Bidirectional Inference</td>
