@@ -40,6 +40,13 @@ Identifying gender and regional accent from speech is essential for intelligent 
     <td></td>
     <td><a href="https://github.com/tiepvupsu/zalo_voice">Official</a></td>
   </tr>
+    <tr>
+    <td>pbcquoc</td>
+    <td></td>
+    <td>0.678</td>
+    <td></td>
+    <td><a href="https://github.com/pbcquoc/voice_zaloai">Official</a></td>
+  </tr>
 </table>
 
 ## Zalo AI Challenge: Music Genre Classification
