@@ -8,7 +8,7 @@ It aims to cover both traditional and core NLP tasks such as dependency parsing 
 
 ### Table of contents
 
-*  Sentence Boundary Disambiguation / Language Detection / [Spelling Correction](tasks/spelling_correction.md)
+* ![](resources/preprocess_1.png) Sentence Boundary Disambiguation / Language Detection / [Spelling Correction](tasks/spelling_correction.md)
 * ![](resources/tagging.png) [Word Segmentation](tasks/word_segmentation.md) / [Part-of-Speech Tagging](tasks/part_of_speech_tagging.md) / [Chunking](tasks/chunking.md) / [Parsing](tasks/parsing.md)
 * ![](resources/classification.png) [Text Classification](tasks/text_classification.md) / [Sentiment Analysis](tasks/sentiment_analysis.md) / [Representation](tasks/representation.md)
 * ![](resources/ner.png) [Named Entity Recognition](tasks/named_entity_recognition.md) / Relationship Extraction / Event Extraction
@@ -19,7 +19,7 @@ It aims to cover both traditional and core NLP tasks such as dependency parsing 
 * ![](resources/chatbot.png) Dialog Systems and Chatbots / Language Generation / Question Answering 
 * ![](resources/speak.png) [Automatic Speech Recognition](tasks/automatic_speech_recognition.md) / [Text To Speech](tasks/text_to_speech.md) / [Speech Classification](tasks/speech_classification.md)
 * ![](resources/ocr.png) Optical Text Recognition
-* ![](resources/preprocess_1.png) [Resources](tasks/resources.md)
+* [Resources](tasks/resources.md)
 
 ### Contributing
 
