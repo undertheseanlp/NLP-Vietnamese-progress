@@ -8,7 +8,7 @@
 
 **Open sources**
 
-* [suicao/Vn-Accent-Restorer (2017)] `python,tensorflow`
+* [suicao/Vn-Accent-Restorer (2017)](https://github.com/suicao/Vn-Accent-Restorer) `python,tensorflow`
 * [tienthanhdhcn/Vietnamese-Accent-Prediction (2016)](https://github.com/tienthanhdhcn/Vietnamese-Accent-Prediction) `java` 
 * [lebinh/vietnamese-accent-model (2016)](https://github.com/lebinh/vietnamese-accent-model) `python` 
 * [vunb/vntk](https://github.com/vunb/vntk (2016)) `nodejs` 
