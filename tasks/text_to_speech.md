@@ -45,3 +45,7 @@ In order to evaluate the quality of TTS systems, the test set contains 30 number
     <td></td>
   </tr>
 </table>
+
+## Miscellaneous
+
+* :dizzy: Services: [OpenFPT: Speech Synthesis (2017)](http://doc.openfpt.vn/#speech-synthesis), [ResponsiveVoice (2017)](https://responsivevoice.org/text-to-speech-languages/van-ban-de-noi-trong-tieng-viet/)

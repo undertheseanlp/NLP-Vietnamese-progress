@@ -35,3 +35,5 @@
 ## Miscellaneous
 
 * :scroll: Papers: [Nguyen et al. 2016](https://ieeexplore.ieee.org/document/7758049/), [Le et al. 2015](https://link.springer.com/chapter/10.1007/978-3-319-25660-3_22), [Nguyen et al. KSE'15](https://ieeexplore.ieee.org/document/7371762/)
+
+* :dizzy: Services: [OpenFPT: Vitk (2017)](http://doc.openfpt.vn/#vitk)

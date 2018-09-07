@@ -21,3 +21,7 @@ A Large-scale Vietnamese News Text Classification Corpus
     <td></td>
   </tr>
 </table>
+
+## Miscellaneous
+
+* :dizzy: Services: [OpenFPT: Name to Gender (2017)](http://doc.openfpt.vn/#vitk)
