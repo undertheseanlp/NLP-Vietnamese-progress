@@ -40,3 +40,9 @@ The test set was composed of 796 continuous wav files of news speech for a total
 ## Miscellaneous
 
 * :dizzy: Services: [OpenFPT: Speech Recognition (2017)](http://doc.openfpt.vn/#speech-recognition)
+
+:file_folder: **Dataset**
+
+* [Vietnamese Speech Recognition Corpus- (Mobile)- 144 Speaker](http://kingline.speechocean.com/exchange.php?id=3758&act=view) - 76.6 hours *by Speechocean (2017)* `data` `$`
+* [Vietnamese Speech Recognition Corpus-(In-Car)-300 Speakers](http://kingline.speechocean.com/exchange.php?id=3333&act=view) - 305 hours *by Speechocean (2017)* `data` `$`
+* [Globalphone Vietnamese](http://catalog.elra.info/product_info.php?products_id=1144) - 22.5 hours of read speech from 15 Vietnamese online newspapers *by ELRA (2012)* `data` `$`
