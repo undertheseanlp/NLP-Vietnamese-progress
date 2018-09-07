@@ -58,7 +58,7 @@ Test data: 2,831 test sentences from the VLSP 2016 NER shared task.
 
 ### Leaderboard
 
-Without golden POS and chunking tags
+Without gold POS and chunking tags
 
 <table>
   <tr>
@@ -76,7 +76,7 @@ Without golden POS and chunking tags
   <tr>
 </table>
 
-With golden POS and chunking tags
+With gold POS and chunking tags
 
 <table>
   <tr>
