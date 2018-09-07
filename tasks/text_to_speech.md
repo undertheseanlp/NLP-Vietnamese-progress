@@ -41,7 +41,7 @@ In order to evaluate the quality of TTS systems, the test set contains 30 number
     <td>3.46</td>
     <td>65.96</td>
     <td>72.51</td>
-    <td><a href="https://drive.google.com/file/d/1-gjj71afaoXOa2DKOiLitnHaQI5Bputi/view?usp=sharing">Nguyen et al. VLSP'18</a>Do et al. VLSP'18</td>
+    <td><a href="https://drive.google.com/file/d/1-gjj71afaoXOa2DKOiLitnHaQI5Bputi/view?usp=sharing">Do et al. VLSP'18</a></td>
     <td></td>
   </tr>
 </table>
