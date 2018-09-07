@@ -1,0 +1,23 @@
+# Text Classification
+
+## VNTC 
+
+* :scroll: [VNTC paper (Vu et al. RIVF'07)](http://docshare01.docshare.tips/files/4624/46242178.pdf)
+* :file_folder: [VNTC data](https://github.com/duyvuleo/VNTC)
+
+A Large-scale Vietnamese News Text Classification Corpus
+
+<table>
+  <tr>
+    <th>Model</th>
+    <th>Score</th>
+    <th>Paper / Source </th>
+    <th>Code</th>
+  </tr>
+  <tr>
+    <td>SVM Multi</td>
+    <td>96.21</td>
+    <td><a href="http://docshare01.docshare.tips/files/4624/46242178.pdf">Vu et al. RIVF'07</a></td>
+    <td></td>
+  </tr>
+</table>
