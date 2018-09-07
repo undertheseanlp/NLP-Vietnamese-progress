@@ -6,7 +6,7 @@
 
 * :dizzy: Services: [OpenFPT: Vietnamese Accentizer (2017)](http://doc.openfpt.vn/#vietnamese-accentizer)
 
-**:file_folder: Open sources**
+:file_folder: **Open sources**
 
 * [suicao/Vn-Accent-Restorer (2017)](https://github.com/suicao/Vn-Accent-Restorer) `python,tensorflow`
 * [tienthanhdhcn/Vietnamese-Accent-Prediction (2016)](https://github.com/tienthanhdhcn/Vietnamese-Accent-Prediction) `java` 
