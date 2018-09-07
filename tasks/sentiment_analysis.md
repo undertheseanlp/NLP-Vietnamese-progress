@@ -116,3 +116,9 @@ A review can be very complex with different sentiments on various objects. There
 
 * :scroll: Papers: [Pham et al. 2016](http://www.indjst.org/index.php/indjst/article/viewFile/93164/69662), [Ngo et al. SoICT'16](https://www.semanticscholar.org/paper/Cross-domain-sentiment-classification-with-word-and-Bach-Hai/41f67072e52ae0b4902a4ea7f98db521a3c3dd3b), [Pham et al. KSE'16](https://ieeexplore.ieee.org/document/7758052/), [Tran et al. 2016](http://www.indjst.org/index.php/indjst/article/viewFile/97360/71787), [Kieu et al. KSE'10](https://drive.google.com/file/d/1rYQYyAxEOabxKa7Y6C3TDuxLHDz7OD9P/view?usp=sharing)
 
+:file_folder: **Open sources**
+
+* [VnEmoLex (2017)](https://zenodo.org/record/801610#.WffTwp-WakD)`data`
+* [polyglot (2014-2017](http://polyglot.readthedocs.io/en/latest/Sentiment.html) `c++,java,python`
+* [pyurgent (2016)](https://github.com/tiendung/pyurgent) `python,data`
+* [VietSentiWordNet (2014)](https://github.com/magizbox/underthesea/wiki/VietSentiWordNet) `data`

@@ -25,3 +25,9 @@ A Large-scale Vietnamese News Text Classification Corpus
 ## Miscellaneous
 
 * :dizzy: Services: [OpenFPT: Name to Gender (2017)](http://doc.openfpt.vn/#vitk)
+
+:file_folder: **Open sources**
+
+* [suicao/transformer-text-classifier (2018)](https://github.com/suicao/transformer-text-classifier) `python`
+* [pth1993/vn_spam_sms_filtering (2017)](https://github.com/pth1993/vn_spam_sms_filtering) `python` 
+* [duyvuleo/VNTC (2007)](https://github.com/duyvuleo/VNTC) `data`
