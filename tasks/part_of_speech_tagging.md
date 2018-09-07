@@ -34,4 +34,16 @@ Test data: 2120 test sentences from the VLSP 2013 POS tagging shared task.
 
 * :scroll: Papers: [Nguyen et al. 2017](https://arxiv.org/pdf/1711.04951.pdf), [Ngo et al. 2016](https://arxiv.org/pdf/1412.4021.pdf), [Nguyen et al. 2014](http://www.aclweb.org/anthology/E14-2005), [Nguyen et al. 2011](https://link.springer.com/chapter/10.1007/978-3-642-19400-9_15), [Nguyen et al. 2011](http://ieeexplore.ieee.org/document/6063458/?reload=true), [Nguyen et al. 2010](http://www.aclweb.org/anthology/I11-1035), [Tran et al. 2009](https://www.researchgate.net/publication/309176280_Vietnamese_POS_Tagging_for_Social_Media_Text), [Phan et al. 2008](http://www.jaist.ac.jp/~bao/VLSP-text/ICTrda08/ICT08-VLSP-SP83.pdf), [Nguyen et al. 2006](http://www.vnulib.edu.vn:8000/dspace/bitstream/123456789/1801/1/sedev0206-02.pdf), [Nguyen et al. 2003](http://www.vietlex.com/xu-li-ngon-ngu/50-A_Case_Study_in_POS_Tagging_of_Vietnamese_Texts)
 
-* :dizzy: Services: [OpenFPT: Vitk (2017)](http://doc.openfpt.vn/#vitk)
+* :dizzy: Services: [OpenFPT: Vietnamese Accentizer (2017)](http://doc.openfpt.vn/#vietnamese-accentizer)
+
+:file_folder: **Open sources**
+
+* [vncorenlp/VnCoreNLP (2018)](https://github.com/vncorenlp/VnCoreNLP) `java`
+* [pth1993/NNVLP (2017)](https://github.com/pth1993/NNVLP) `python,bash`
+* [pyvi (2016)](https://pypi.python.org/pypi/pyvi) `python`
+* [Vitk (2016)](https://github.com/phuonglh/vn.vitk) `java`
+* [kanjirz50/viet-morphological-analysis-crf (2016)](https://github.com/kanjirz50/viet-morphological-analysis-crf), [demonstration](http://160.16.58.116/vietnamese/morph_crf) `python`
+* [lupanh/vTools (2015)](https://github.com/lupanh/vTools) `python`
+* [truongdo/vita (2015)](https://github.com/truongdo/vita) `c++`
+* [RDRPOSTagger (2013-2017)](http://rdrpostagger.sourceforge.net/) `python`
+* [vnTagger (2010)](http://vlsp.hpda.vn:8080/demo/?page=resources) `java`

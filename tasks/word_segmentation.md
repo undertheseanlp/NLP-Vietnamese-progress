@@ -43,7 +43,7 @@ The training set consists of 75k manually word-segmented sentences (about 23 wor
 
 * :dizzy: Services: [OpenFPT: Vitk (2017)](http://doc.openfpt.vn/#vitk)
 
-**Open sources**
+:file_folder: **Open sources**
 
 * [vncorenlp/VnCoreNLP (2018)](https://github.com/vncorenlp/VnCoreNLP) `java`
 * [datquocnguyen/RDRsegmenter (2017)](https://github.com/datquocnguyen/RDRsegmenter) `java`

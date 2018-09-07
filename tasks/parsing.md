@@ -37,3 +37,9 @@
 * :scroll: Papers: [Nguyen et al. 2016](https://ieeexplore.ieee.org/document/7758049/), [Le et al. 2015](https://link.springer.com/chapter/10.1007/978-3-319-25660-3_22), [Nguyen et al. KSE'15](https://ieeexplore.ieee.org/document/7371762/)
 
 * :dizzy: Services: [OpenFPT: Vitk (2017)](http://doc.openfpt.vn/#vitk)
+
+:file_folder: **Open sources**
+
+* [datquocnguyen/jPTDP (2017)](https://github.com/datquocnguyen/jPTDP) `java`
+* [phuonglh/vn.vitk (2016)](https://github.com/phuonglh/vn.vitk) `java`
+* [VnDP (2014)](http://vndp.sourceforge.net/) `java`
