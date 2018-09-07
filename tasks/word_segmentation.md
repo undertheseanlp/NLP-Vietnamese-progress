@@ -42,3 +42,17 @@ The training set consists of 75k manually word-segmented sentences (about 23 wor
 * :scroll: Papers: [Nguyen et al. 2017](https://arxiv.org/pdf/1709.06307.pdf), [Liu et al. 2017](https://www.researchgate.net/publication/315949021_Supervised_Ensemble_Learning_for_Vietnamese_Tokenization), [Liu et al. LREC'16](http://www.lrec-conf.org/proceedings/lrec2016/pdf/266_Paper.pdf), [Nguyen et al. 2016](http://ieeexplore.ieee.org/document/7852619/), [Nguyen et al. 2016](http://ieeexplore.ieee.org/document/7800279/), [Tran et al. 2015](http://ieeexplore.ieee.org/document/7049878/), [Tran et al. 2012](https://goo.gl/gkwj6d), [Let et al. 2010](http://link.springer.com/10.1007/978-3-642-12101-2_21), [Tran et al. 2010](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=katDGDYAAAAJ&citation_for_view=katDGDYAAAAJ:u-x6o8ySG0sC), [Pham et al. 2009](http://vnu.edu.vn/upload/scopus/232.pdf), [Le et al. 2008](http://ieeexplore.ieee.org/document/5361713/), [Nguyen et al. 2006](https://dspace.wul.waseda.ac.jp/dspace/handle/2065/29084)
 
 * :dizzy: Services: [OpenFPT: Vitk (2017)](http://doc.openfpt.vn/#vitk)
+
+**Open sources**
+
+* [vncorenlp/VnCoreNLP (2018)](https://github.com/vncorenlp/VnCoreNLP) `java`
+* [datquocnguyen/RDRsegmenter (2017)](https://github.com/datquocnguyen/RDRsegmenter) `java`
+* [UETsegmenter (2016)](https://github.com/phongnt570/UETsegmenter)  `java`
+* [Vitk (2016)](https://github.com/phuonglh/vn.vitk)`java`
+* [pyvi (2016)](https://pypi.python.org/pypi/pyvi) `python`
+* [truongdo/vita (2015)](https://github.com/truongdo/vita) `c++`
+* [vTools (2015)](https://github.com/lupanh/vTools) `python`
+* [manhtai/vietseg (2015)](https://github.com/manhtai/vietseg) `python`
+* [DongDu (2014)](https://github.com/rockkhuya/DongDu)`c++`
+* [Roy_VnTokenizer (2014)](https://github.com/roy-a/Roy_VnTokenizer) `python`
+* [vnTokenizer (2008)](http://vlsp.hpda.vn:8080/demo/?page=resources) `java`
