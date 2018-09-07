@@ -20,6 +20,6 @@ of other languages. For example, the English PropBank contains about 50,000 sent
     <td>Pham et al. 2015</td>
     <td>73.53</td>
     <td><a href="https://arxiv.org/pdf/1705.04038.pdf">Pham et al. 2015</a></td>
-    <td></td>
+    <td><a href="https://github.com/pth1993/vnSRL">Official</a></td>
   </tr>
 </table>

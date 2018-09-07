@@ -120,3 +120,12 @@ With gold POS and chunking tags
 ## Miscellaneous
 
 * :scroll: Papers: [Pham et al. PACLIC'17](https://arxiv.org/pdf/1705.10610.pdf), [Pham et al. IJCNLP'17](https://arxiv.org/pdf/1708.07241.pdf), [Pham et al. PACLIC'17](https://arxiv.org/pdf/1705.04044.pdf), [Le et al. KSE'17](https://arxiv.org/pdf/1708.09163.pdf), [Nguyen et al. 2010](https://pdfs.semanticscholar.org/931a/f0c14c6f32c7e6782cde1007fdddcd3e18c2.pdf?_ga=2.249289476.26579401.1520334621-721084246.1519381355), [Tran et al. 2007](https://pdfs.semanticscholar.org/32ec/df1774d24d2461615e5eb448668dfe2a8647.pdf?_ga=2.53162539.26579401.1520334621-721084246.1519381355), [Pham et al. 2007](https://www.semanticscholar.org/paper/Named-entity-recognition-in-Vietnamese-using-class-Thao-Tri/a6aeb599a261a5e077ad430a30b448d41a927132)
+
+:file_folder: **Open sources**
+
+* [vncorenlp/VnCoreNLP (2018)](https://github.com/vncorenlp/VnCoreNLP)`java`
+* [pth1993/NNVLP (2017)](https://github.com/pth1993/NNVLP) `python,bash`
+* [pth1993/vie-ner-lstm (2017)](https://github.com/pth1993/vie-ner-lstm) `python,keras` 
+* [ntson2002/lstm-crf-tagging (2017)](https://github.com/ntson2002/lstm-crf-tagging) `python,theano`
+* [polyglot (2014-2017)](http://polyglot.readthedocs.io/en/latest/NamedEntityRecognition.html) `c++,java,python`
+* [ai.vitk.ner (2017)](https://github.com/phuonglh/ai.vitk.ner) `scala,java`

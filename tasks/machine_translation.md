@@ -1,15 +1,12 @@
 # Machine Translation
 
-**IWSLT 2015 Evaluation Campaign** <sub><sup>12 results collected</sup></sub>
+## IWSLT 2015 Evaluation Campaign
 
 [IWSLT 2015](http://workshop2015.iwslt.org/): The IWSLT 2015 Evaluation Campaign featured three tracks: automatic speech recognition (ASR), spoken language translation (SLT), and machine translation (MT). For ASR we offered two tasks, on English and German, while for SLT and MT a number of tasks were proposed, involving English, German, French, Chinese, Czech, Thai, and Vietnamese.
 
+`TED Data En-Vi`: 131k sentences (train), 1080 sentences (tst2015) 
 
-## Datasets
-
-* `TED Data En-Vi`: 131k sentences (train), 1080 sentences (tst2015) 
-
-## Results
+### Leaderboard
 
 **TED: MT English-Vietnamese**
 
@@ -33,7 +30,7 @@
 | TUT       | 19.78  | 5.4559  | 62.69 | 2015 |
 | BASELINE  | 24.61  | 5.9259  | 59.32 | 2015 |
 
-## References
+**References**
 
 * `Task Description` **The IWSLT 2015 Evaluation Campaign** (2015), M. Cettolo et al. [[pdf](http://workshop2015.iwslt.org/downloads/IWSLT_2015_EP_0.pdf)]
 * `UNETI '15` **The English-Vietnamese Machine Translation System for IWSLT 2015** (2015), H. Tran et al. [[link](http://workshop2015.iwslt.org/downloads/IWSLT_2015_EP_3.pdf)]
@@ -43,3 +40,10 @@
 * `KIT '15` **The KIT Translation Systems for IWSLT 2015** (2015), T. Ha et al. [[pdf](http://workshop2015.iwslt.org/downloads/IWSLT_2015_EP_17.pdf)]
 * `JAIST '15` `UET '15` **The JAIST-UET-MITI Machine Translation Systems for IWSLT 2015** (2015), H. Trieu et al. [[pdf](http://workshop2015.iwslt.org/downloads/IWSLT_2015_EP_6.pdf)]
 * `SU '15` **Stanford Neural Machine Translation Systems for Spoken Language Domains** (2015), M. Luong et al. [[pdf](https://nlp.stanford.edu/pubs/luuongong-manning-iwslt15.pdf)]
+
+## Miscellaneous
+
+:file_folder: **Open sources**
+
+* [polyglot (2014-2017)](http://polyglot.readthedocs.io/en/latest/Transliteration.html) `c++,java,python`
+* [EVBCorpus (2016)](https://sourceforge.net/projects/evbc/) `data`
