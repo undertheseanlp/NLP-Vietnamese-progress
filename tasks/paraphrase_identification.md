@@ -1,5 +1,7 @@
 # Paraphrase Identification
 
+Also known as `Paraphrase Detection`
+
 ## Miscellaneous
 
 :scroll: **Papers**
