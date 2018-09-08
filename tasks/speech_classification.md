@@ -87,7 +87,7 @@ For each song, the classifier will need to output the most matching genre. Teams
     <td>Batip</td>
     <td>0.681</td>
     <td>0.810</td>
-    <td></td>
+    <td><a href="https://gitlab.com/bambootran89/zaloai-music">Official</a></td>
     <td></td>
   </tr>
   <tr>
