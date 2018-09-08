@@ -86,13 +86,19 @@ With gold POS and chunking tags
     <th>Code</th>
   </tr>
   <tr>
-    <td>Token reguilar expression + Bidirectional Inference</td>
+    <td>Token reguilar expression + ME (Bidirectional Inference)</td>
     <td>88.78</td>
     <td><a href="https://drive.google.com/file/d/1yepeBjeOCWmwMSrGwP-ewhxQBmPpyP0p/view?usp=sharing">Le et al. VLSP'16</a></td>
     <td></td>
   </tr>
   <tr>
-    <td>CRF</td>
+    <td>Bi-LSTM-CNN-CRF</td>
+    <td>88.59</td>
+    <td><a href="https://arxiv.org/pdf/1705.04044.pdf">Pham et al. PACLIC'17</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>ME + Beam Search</td>
     <td>84.08</td>
     <td><a href="https://drive.google.com/file/d/1n4JMtHLsIgaeiAtjPncg64BVumykbHsL/view?usp=sharing">Nguyen et al. VLSP'16</a></td>
     <td></td>
@@ -119,7 +125,11 @@ With gold POS and chunking tags
 
 ## Miscellaneous
 
-* :scroll: Papers: [Pham et al. PACLIC'17](https://arxiv.org/pdf/1705.10610.pdf), [Pham et al. IJCNLP'17](https://arxiv.org/pdf/1708.07241.pdf), [Pham et al. PACLIC'17](https://arxiv.org/pdf/1705.04044.pdf), [Le et al. KSE'17](https://arxiv.org/pdf/1708.09163.pdf), [Nguyen et al. 2010](https://pdfs.semanticscholar.org/931a/f0c14c6f32c7e6782cde1007fdddcd3e18c2.pdf?_ga=2.249289476.26579401.1520334621-721084246.1519381355), [Tran et al. 2007](https://pdfs.semanticscholar.org/32ec/df1774d24d2461615e5eb448668dfe2a8647.pdf?_ga=2.53162539.26579401.1520334621-721084246.1519381355), [Pham et al. 2007](https://www.semanticscholar.org/paper/Named-entity-recognition-in-Vietnamese-using-class-Thao-Tri/a6aeb599a261a5e077ad430a30b448d41a927132)
+* :scroll: **Papers**
+
+* [Pham et al. PACLIC'17](https://arxiv.org/pdf/1705.10610.pdf), [Pham et al. IJCNLP'17](https://arxiv.org/pdf/1708.07241.pdf), [Le et al. KSE'17](https://arxiv.org/pdf/1708.09163.pdf)
+* [Nguyen et al. 2010](https://pdfs.semanticscholar.org/931a/f0c14c6f32c7e6782cde1007fdddcd3e18c2.pdf?_ga=2.249289476.26579401.1520334621-721084246.1519381355)
+* [Tran et al. 2007](https://pdfs.semanticscholar.org/32ec/df1774d24d2461615e5eb448668dfe2a8647.pdf?_ga=2.53162539.26579401.1520334621-721084246.1519381355), [Pham et al. 2007](https://www.semanticscholar.org/paper/Named-entity-recognition-in-Vietnamese-using-class-Thao-Tri/a6aeb599a261a5e077ad430a30b448d41a927132)
 
 :file_folder: **Open sources**
 
