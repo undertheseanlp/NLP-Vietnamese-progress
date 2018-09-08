@@ -13,7 +13,7 @@ It aims to cover both traditional and core NLP tasks such as dependency parsing 
 * ![](resources/classification.png) [Text Classification](tasks/text_classification.md) / [Sentiment Analysis](tasks/sentiment_analysis.md) / [Representation](tasks/representation.md)
 * ![](resources/ner.png) [Named Entity Recognition](tasks/named_entity_recognition.md) / [Relationship Extraction](tasks/relationship_extraction.md) / [Event Extraction](tasks/event_extraction.md)
 * ![](resources/entity_linking.png) Coreference Resolution / Slot Filling / Entity Linking
-* ![](resources/semantic.png) Semantics / [Semantic Role Labeling](tasks/semantic_role_labeling.md) / [Paraphrase Identification](paraphrase_identification.md)
+* ![](resources/semantic.png) Semantics / [Semantic Role Labeling](tasks/semantic_role_labeling.md) / [Paraphrase Identification](tasks/paraphrase_identification.md)
 * ![](resources/book.png) Knowledge Representation and Reasoning
 * ![](resources/translation.png) [Machine Translation](tasks/machine_translation.md) / [Automatic Summarization](tasks/automatic_summarization.md)
 * ![](resources/chatbot.png) Dialog Systems and Chatbots / Language Generation / Question Answering 
