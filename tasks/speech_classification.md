@@ -91,7 +91,6 @@ For each song, the classifier will need to output the most matching genre. Teams
     <td><a href="https://gitlab.com/bambootran89/zaloai-music">Official</a></td>
   </tr>
   <tr>
-    
     <td>toppan</td>
     <td>0.652</td>
     <td>0.802</td>
