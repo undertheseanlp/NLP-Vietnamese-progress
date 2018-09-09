@@ -91,10 +91,11 @@ For each song, the classifier will need to output the most matching genre. Teams
     <td><a href="https://gitlab.com/bambootran89/zaloai-music">Official</a></td>
   </tr>
   <tr>
+    
     <td>toppan</td>
     <td>0.652</td>
     <td>0.802</td>
-    <td></td>
+    <td><a href="https://forum.machinelearningcoban.com/t/chia-s-zaloai-music-genre-classification-challenge/802">Write up</a></td>
     <td><a href="https://github.com/taprosoft/music-genre-classification">Official</a></td>
   </tr>
    <tr>
