@@ -3,6 +3,7 @@
 ## VNOnDB
 
 * :link: [ICFHR2018 Competition on Vietnamese Online Handwritten Text Recognition using VNOnDB](https://sites.google.com/view/icfhr2018-vohtr-vnondb)
+* :file_folder: [ICFHR2018 Competition on Vietnamese Online Handwritten Text Recognition Database (HANDS-VNOnDB2018)](http://tc11.cvc.uab.es/datasets/HANDS-VNOnDB2018_1/)
 
 ICFHR2018 Competition on Vietnamese Online Handwritten Text Recognition using HANDS-VNOnDB (VNOnDB in short) database is the first attempt to bring together researchers working on handwritten text recognition and provide them a proper benchmark to compare their approaches on the tasks of transcribing Vietnamese online handwritten text. The goal of this competition is to encourage the studies on Vietnamese online handwritten text recognition and analyze the different approaches of the participants. 
 
