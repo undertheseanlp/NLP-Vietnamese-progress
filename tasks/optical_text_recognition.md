@@ -159,7 +159,7 @@ In task 3, there are the handwritten text, which usually contains multiple text 
     <td></td>
   </tr>
   <tr>
-    <td>MyScritpTask3_3<br>Segmentation+FNN &amp; BLSTM+CTC with Post-processing for Paragraph<br>word-based trigram/VTB<br></td>
+    <td>MyScritpTask3_3<br>Segmentation+FNN &amp; BLSTM+CTC with Post-processing<br> for Paragraph word-based trigram/VTB<br></td>
     <td>0.4</td>
     <td>1.05</td>
     <td>3.69</td>
