@@ -96,7 +96,7 @@ In task 3, there are the handwritten text, which usually contains multiple text 
     <td></td>
   </tr>
    <tr>
-    <td>MyScriptTask2_2<br>Segmentation+FNN &amp; BLSTM+CTC<br><br>Syllable-based trigram/VTB + others<br></td>
+    <td>MyScriptTask2_2<br>Segmentation+FNN &amp; BLSTM+CTC<br>Syllable-based trigram/VTB + others<br></td>
     <td>1.57</td>
     <td>4.02</td>
     <td>1.71</td>
@@ -114,7 +114,7 @@ In task 3, there are the handwritten text, which usually contains multiple text 
     <td></td>
   </tr>
   <tr>
-    <td>GoogleTask2<br>Multi LSTM layers + CTC<br><br>Character &amp; word n-gram/Other<br></td>
+    <td>GoogleTask2<br>Multi LSTM layers + CTC<br>Character &amp; word n-gram/Other<br></td>
     <td>6.86</td>
     <td>19</td>
     <td>10.26</td>
@@ -141,7 +141,7 @@ In task 3, there are the handwritten text, which usually contains multiple text 
     <td>WER</td>
   </tr>
    <tr>
-    <td>MyScriptTask3_1<br>Segmentation+FNN &amp; BLSTM+CTC<br><br>word-based trigram/VTB<br></td>
+    <td>MyScriptTask3_1<br>Segmentation+FNN &amp; BLSTM+CTC<br>word-based trigram/VTB<br></td>
     <td>0.78</td>
     <td>1.38</td>
     <td>1.92</td>
