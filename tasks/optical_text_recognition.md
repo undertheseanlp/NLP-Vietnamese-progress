@@ -41,15 +41,15 @@ In task 3, there are the handwritten text, which usually contains multiple text 
     <td>WER</td>
   </tr>
   <tr>
-    <td>GoogleTask1<br>Multi LSTM layers + CTC/Character &amp; word n-gram<br></td>
-    <td>6.09</td>
-    <td>13.18</td>
-    <td>9.81</td>
-    <td>20.45</td>
+    <td>MyScriptTask1<br>Segmentation+Feedforward Neural Network (FNN) &amp; BLSTM+CTC<br>Syllable-based unigram VTB + others<br></td>
+    <td>2.91</td>
+    <td>6.46</td>
+    <td>6.01</td>
+    <td>12.66</td>
     <td></td>
     <td></td>
   </tr>
-  <tr>
+   <tr>
     <td>IVTOVTask1<br>2 BLSTM layers + CTC/Dictionary/VTB<br></td>
     <td>2.92</td>
     <td>6.47</td>
@@ -59,11 +59,119 @@ In task 3, there are the handwritten text, which usually contains multiple text 
     <td></td>
   </tr>
   <tr>
-    <td>MyScriptTask1<br>Segmentation+Feedforward Neural Network (FNN) &amp; BLSTM+CTC<br>Syllable-based unigram VTB + others<br></td>
-    <td>2.91</td>
-    <td>6.46</td>
-    <td>6.01</td>
-    <td>12.66</td>
+    <td>GoogleTask1<br>Multi LSTM layers + CTC/Character &amp; word n-gram<br></td>
+    <td>6.09</td>
+    <td>13.18</td>
+    <td>9.81</td>
+    <td>20.45</td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
+
+**Task 2: Text line level (VNOnDB-Line)**
+
+<table>
+  <tr>
+    <th rowspan="2"></th>
+    <th colspan="2">Public test set</th>
+    <th colspan="2">Secret test set</th>
+    <th rowspan="2">Paper/Source</th>
+    <th rowspan="2">Code</th>
+  </tr>
+  <tr>
+    <td>CER</td>
+    <td>WER</td>
+    <td>CER</td>
+    <td>WER</td>
+  </tr>
+   <tr>
+    <td>MyScriptTask2_1<br>Segmentation+ FNN &amp; BLSTM+CTC<br>Syllable-based trigram/VTB<br></td>
+    <td>1.02</td>
+    <td>2.02</td>
+    <td>1.02</td>
+    <td>3.39</td>
+    <td></td>
+    <td></td>
+  </tr>
+   <tr>
+    <td>MyScriptTask2_2<br>Segmentation+FNN &amp; BLSTM+CTC<br><br>Syllable-based trigram/VTB + others<br></td>
+    <td>1.57</td>
+    <td>4.02</td>
+    <td>1.71</td>
+    <td>5.16</td>
+    <td></td>
+    <td></td>
+  </tr>
+   <tr>
+    <td>IVTOVTask2<br>2 BLSTM layers + CTC/Dictionary/VTB<br></td>
+    <td>3.24</td>
+    <td>14.11</td>
+    <td>5.65</td>
+    <td>21.07</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>GoogleTask2<br>Multi LSTM layers + CTC<br><br>Character &amp; word n-gram/Other<br></td>
+    <td>6.86</td>
+    <td>19</td>
+    <td>10.26</td>
+    <td>27.05</td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
+
+**Task 3: Paragraph level (VNOnDB-Paragraph)**
+
+<table>
+  <tr>
+    <th rowspan="2"></th>
+    <th colspan="2">Public test set</th>
+    <th colspan="2">Secret test set</th>
+    <th rowspan="2">Paper/Source</th>
+    <th rowspan="2">Code</th>
+  </tr>
+  <tr>
+    <td>CER</td>
+    <td>WER</td>
+    <td>CER</td>
+    <td>WER</td>
+  </tr>
+   <tr>
+    <td>MyScriptTask3_1<br>Segmentation+FNN &amp; BLSTM+CTC<br><br>word-based trigram/VTB<br></td>
+    <td>0.78</td>
+    <td>1.38</td>
+    <td>1.92</td>
+    <td>5.81</td>
+    <td></td>
+    <td></td>
+  </tr>
+   <tr>
+    <td>MyScriptTask3_2<br>Segmentation+FNN &amp; BLSTM+CTC<br>syllable-based trigram/VTB + others<br></td>
+    <td>1.32</td>
+    <td>3.4</td>
+    <td>2.62</td>
+    <td>7.74</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>MyScritpTask3_3<br>Segmentation+FNN &amp; BLSTM+CTC with Post-processing for Paragraph<br>word-based trigram/VTB<br></td>
+    <td>0.4</td>
+    <td>1.05</td>
+    <td>3.69</td>
+    <td>7.84</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>IVTOVTask3<br>2 BLSTM layers + CTC/VTB/Dictionary<br></td>
+    <td>3.75</td>
+    <td>16.09</td>
+    <td>7.31</td>
+    <td>24.07</td>
     <td></td>
     <td></td>
   </tr>
