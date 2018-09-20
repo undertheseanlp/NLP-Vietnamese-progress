@@ -10,9 +10,64 @@ This competition (VNOnDB2018) is organized in the framework of the ICFHR 2018 co
 
 In order to share the ideas and systems for other researchers, we encourage all participants to present their approaches in a conference paper at ICFHR 2018 and also publish their source codes after the competition results have been announced. 
 
+**Task 1: Word level (VNOnDB-Word)**
+
+In task 1, the segmented handwritten words and their ground truth are provided. We verified and eliminated the words which contain the long-distance delayed strokes such as the delayed strokes written after finished other words, or even a sentence. Thus, task 1 is used to evaluate the performance of recognizers with short-distance delayed strokes since in this task, there are only short-distance delayed strokes.
+
+**Task 2: Text line level (VNOnDB-Line)**
+
+In task 2, the text lines and their ground truth are provided. In this task, there is both long-distance, and short-distance delayed strokes which is appropriate for evaluating the robustness of systems with different kinds of delayed strokes.
+
+**Task 3: Paragraph level (VNOnDB-Paragraph)**
+
+In task 3, there are the handwritten text, which usually contains multiple text lines, and the paragraph level ground truth, which is a long sequence of characters. Task 3 is suitable for measuring the limitation of recognition system on the long sequences with many delayed strokes.
+
 ### Leaderboard
 
-TBD
+**Task 1: Word level (VNOnDB-Word)**
+
+<table>
+  <tr>
+    <th rowspan="2"></th>
+    <th colspan="2">Public test set</th>
+    <th colspan="2">Secret test set</th>
+    <th rowspan="2">Paper/Source</th>
+    <th rowspan="2">Code</th>
+  </tr>
+  <tr>
+    <td>CER</td>
+    <td>WER</td>
+    <td>CER</td>
+    <td>WER</td>
+  </tr>
+  <tr>
+    <td>GoogleTask1<br>Multi LSTM layers + CTC/Character &amp; word n-gram<br></td>
+    <td>6.09</td>
+    <td>13.18</td>
+    <td>9.81</td>
+    <td>20.45</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>IVTOVTask1<br>2 BLSTM layers + CTC/Dictionary/VTB<br></td>
+    <td>2.92</td>
+    <td>6.47</td>
+    <td>7.31</td>
+    <td>15.38</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>MyScriptTask1<br>Segmentation+Feedforward Neural Network (FNN) &amp; BLSTM+CTC<br>Syllable-based unigram VTB + others<br></td>
+    <td>2.91</td>
+    <td>6.46</td>
+    <td>6.01</td>
+    <td>12.66</td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
 
 ## Cinnamon AI Marathon: Handwriting OCR for Vietnamese Address
 
