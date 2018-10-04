@@ -125,7 +125,7 @@ With gold POS and chunking tags
 
 ## Miscellaneous
 
-* :scroll: **Papers**
+:scroll: **Papers**
 
 * [Pham et al. PACLIC'17](https://arxiv.org/pdf/1705.10610.pdf), [Pham et al. IJCNLP'17](https://arxiv.org/pdf/1708.07241.pdf), [Le et al. KSE'17](https://arxiv.org/pdf/1708.09163.pdf)
 * [Nguyen et al. 2010](https://pdfs.semanticscholar.org/931a/f0c14c6f32c7e6782cde1007fdddcd3e18c2.pdf?_ga=2.249289476.26579401.1520334621-721084246.1519381355)
