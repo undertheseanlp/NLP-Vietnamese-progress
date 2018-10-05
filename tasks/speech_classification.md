@@ -24,7 +24,7 @@ Identifying gender and regional accent from speech is essential for intelligent 
     <td>VietAI</td>
     <td>0.847</td>
     <td>0.817</td>
-    <td></td>
+    <td><a href="https://www.youtube.com/watch?v=Wt_gRoVWmHk">Video</a></td>
     <td></td>
   </tr>
   <tr>
@@ -80,7 +80,7 @@ For each song, the classifier will need to output the most matching genre. Teams
     <td>DungNB</td>
     <td>0.701</td>
     <td>0.815</td>
-    <td></td>
+    <td><a href="https://www.youtube.com/watch?v=8NqJMe0MFYU">Video</a></td>
     <td><a href="https://github.com/dungnb1333/music_genre_classification">Official</a></td>
   </tr>
   <tr>
