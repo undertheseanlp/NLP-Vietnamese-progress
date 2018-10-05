@@ -24,7 +24,10 @@ Identifying gender and regional accent from speech is essential for intelligent 
     <td>VietAI</td>
     <td>0.847</td>
     <td>0.817</td>
-    <td><a href="https://www.youtube.com/watch?v=Wt_gRoVWmHk">Video</a></td>
+    <td>
+      <a href="https://www.youtube.com/watch?v=Wt_gRoVWmHk">Video</a><br>
+      <a href="https://drive.google.com/file/d/1DsyfiGJwkrfbodmUhRHSyoOE9PMh-yI7/view">Slide</a>
+    </td>
     <td></td>
   </tr>
   <tr>
