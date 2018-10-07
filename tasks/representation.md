@@ -16,11 +16,12 @@ The two datasets are verified through standard co-occurrence and neural network 
 
 ## Miscellaneous
 
-* :scroll: Papers: [Tran et al. 2016](https://www.slideshare.net/microlife/a-vietnamese-language-model-based-on-recurrent-neural-network-66865054)
+:scroll: **Papers**
+
+* [Tran et al. 2016](https://www.slideshare.net/microlife/a-vietnamese-language-model-based-on-recurrent-neural-network-66865054)
 
 :file_folder: **Word Vectors**
 
 * [Kyubyong/wordvectors](https://github.com/Kyubyong/wordvectors) `resource`
 * [facebookresearch/fastText](https://github.com/facebookresearch/fastText) `resource`
 * [sonvx/word2vecVN](https://github.com/sonvx/word2vecVN) `resource`
-
