@@ -57,6 +57,7 @@ In order to evaluate the quality of TTS systems, the test set contains 30 number
 
 :dizzy: **Services**
 
-* [vbee.vn](https://vbee.vn/) (2018-)
+* [vbee.vn (2018-)](https://vbee.vn/) 
+* [vtcc.ai TTS (2018-)](https://vtcc.ai/tts)
 * [OpenFPT: Speech Synthesis (2017-)](http://doc.openfpt.vn/#speech-synthesis)
 * [ResponsiveVoice (2017)](https://responsivevoice.org/text-to-speech-languages/van-ban-de-noi-trong-tieng-viet/)
