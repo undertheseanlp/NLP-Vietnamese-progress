@@ -39,7 +39,10 @@ The test set was composed of 796 continuous wav files of news speech for a total
 
 ## Miscellaneous
 
-* :dizzy: Services: [OpenFPT: Speech Recognition (2017)](http://doc.openfpt.vn/#speech-recognition)
+:dizzy: **Services**
+
+* [vtcc.ai ASR (2018-)](https://vtcc.ai/asr)
+* [OpenFPT: Speech Recognition (2017-)](http://doc.openfpt.vn/#speech-recognition)
 
 :file_folder: **Dataset**
 
