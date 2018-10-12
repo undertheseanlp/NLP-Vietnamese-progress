@@ -30,8 +30,22 @@ The training set consists of 75k manually word-segmented sentences (about 23 wor
     <td><a href="https://github.com/phongnt570/UETsegmenter">Official</a></td>
   </tr>
   <tr>
+    <td>vnTokenizer</td>
+    <td>97.33</td>
+    <td><a href="https://link.springer.com/chapter/10.1007/978-3-540-88282-4_23">Le et al. LATA'08</a></td>
+    <td><a href="https://github.com/phuonglh/vn.vitk">Official</a></td>
+  </tr>
+  <tr>
+  <tr>
+    <td>JVnSegmenter</td>
+    <td>97.06</td>
+    <td><a href="https://www.semanticscholar.org/paper/Vietnamese-Word-Segmentation-with-CRFs-and-SVMs%3A-An-Nguyen-Nguyen/3927b5e7eaf4350382306d072c4799fbbcfb2dbc">Nguyen et al. PACLIC'06</a></td>
+    <td><a href="http://jvnsegmenter.sourceforge.net/">Official</a></td>
+  </tr>
+  <tr>
+  <tr>
     <td>DongDu</td>
-    <td>97.87</td>
+    <td>96.90</td>
     <td></td>
     <td><a href="http://viet.jnlp.org/dongdu">Official</a></td>
   </tr>
