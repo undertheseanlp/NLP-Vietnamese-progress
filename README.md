@@ -40,7 +40,7 @@ In the `Code` column, indicate an official implementation with [Official](http:/
 If an unofficial implementation is available, use [Link](http://link_to_implementation) (see below).
 If no implementation is available, you can leave the cell empty.
 
-| Model           | Score  |  Paper / Source | Code | 
+| Model           | Score  |  Paper/Source | Code | 
 | ------------- | :-----:| --- | --- | 
 | |  |  | [Official](http://link_to_implementation) | 
 | |  |  | [Link](http://link_to_implementation) |
