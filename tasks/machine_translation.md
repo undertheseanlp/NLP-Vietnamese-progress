@@ -18,7 +18,6 @@
     <th>TER</th>
     <th>Paper/Source</th>
     <th>Code</th>
-    <th>Year</th>
   </tr>
   <tr>
     <td>PJAIT</td>
@@ -29,7 +28,6 @@
       <a href="https://arxiv.org/pdf/1512.01639.pdf">Wolk et al. IWSLT'15</a>
     </td>
     <td></td>
-    <td>2015</td>
   </tr>
   <tr>
     <td>JAIST</td>
@@ -40,7 +38,6 @@
       <a href="http://workshop2015.iwslt.org/downloads/IWSLT_2015_EP_6.pdf">Trieu et al. IWSLT'15</a>
     </td>
     <td></td>
-    <td>2015</td>
   </tr>
   <tr>
     <td>KIT</td>
@@ -51,7 +48,6 @@
       <a href="http://workshop2015.iwslt.org/downloads/IWSLT_2015_EP_17.pdf">Ha et al. IWSLT'15</a>
     </td>
     <td></td>
-    <td>2015</td>
   </tr>
   <tr>
     <td>SU</td>
@@ -62,7 +58,6 @@
       <a href="http://workshop2015.iwslt.org/downloads/IWSLT_2015_EP_17.pdf">Luong et al. IWSLT'15</a>
     </td>
     <td></td>
-    <td>2015</td>
   </tr>
   <tr>
     <td>UNETI</td>
@@ -73,7 +68,6 @@
       <a href="http://workshop2015.iwslt.org/downloads/IWSLT_2015_EP_3.pdf">Tran et al. IWSLT'15</a>
     </td>
     <td></td>
-    <td>2015</td>
   </tr>
   <tr>
     <td>BASELINE</td>
@@ -84,7 +78,6 @@
       <a href="http://workshop2015.iwslt.org/downloads/IWSLT_2015_EP_3.pdf">Cettolo et al. IWSLT'15</a>
     </td>
     <td></td>
-    <td>2015</td>
   </tr>
 </table>
 
