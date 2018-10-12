@@ -43,8 +43,8 @@ Test data: 2120 test sentences from the VLSP 2013 POS tagging shared task.
   <tr>
     <td>RDRPOSTagger</td>
     <td>95.11</td>
-    <td></td>
-    <td></td>
+    <td><a href="https://www.researchgate.net/publication/279916333_RDRPOSTagger_A_Ripple_Down_Rules-based_Part-Of-Speech_Tagger">Nguyen et al. EACL'14</a></td>
+    <td><a href="https://github.com/datquocnguyen/rdrpostagger">Official</a></td>
   </tr>
 </table>
 
