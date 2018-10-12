@@ -23,6 +23,24 @@ Test data: 2120 test sentences from the VLSP 2013 POS tagging shared task.
     <td><a href="https://github.com/vncorenlp/VnCoreNLP">Official</a></td>
   </tr>
   <tr>
+    <td>BiLSTM-CRF + CNN-char</td>
+    <td>95.40</td>
+    <td><a href="http://aclweb.org/anthology/N18-5012">Ma et al. ACL'16</a></td>
+    <td><a href="https://github.com/UKPLab/emnlp2017-bilstm-cnn-crf/">Code</a></td>
+  </tr>
+  <tr>
+    <td>BiLSTM-CRF + LSTM-char</td>
+    <td>95.31</td>
+    <td><a href="http://www.aclweb.org/anthology/N16-1030">Lample et al. NAACL'16</a></td>
+    <td><a href="https://github.com/UKPLab/emnlp2017-bilstm-cnn-crf/">Code</a></td>
+  </tr>
+  <tr>
+    <td>BiLSTM-CRF</td>
+    <td>95.31</td>
+    <td><a href="https://arxiv.org/abs/1508.01991">Huang et al. ArXiv'15</a></td>
+    <td><a href="https://github.com/UKPLab/emnlp2017-bilstm-cnn-crf/">Code</a></td>
+  </tr>
+  <tr>
     <td>RDRPOSTagger</td>
     <td>95.11</td>
     <td></td>
