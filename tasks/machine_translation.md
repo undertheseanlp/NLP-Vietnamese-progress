@@ -45,5 +45,6 @@
 
 :file_folder: **Open sources**
 
+* [duyvuleo/Transformer-DyNet (2018-)](https://github.com/duyvuleo/Transformer-DyNet) `dynet,python`
 * [polyglot (2014-2017)](http://polyglot.readthedocs.io/en/latest/Transliteration.html) `c++,java,python`
 * [EVBCorpus (2016)](https://sourceforge.net/projects/evbc/) `data`
