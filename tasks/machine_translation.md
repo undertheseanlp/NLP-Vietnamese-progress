@@ -10,14 +10,83 @@
 
 **TED: MT English-Vietnamese**
 
-| Method    | BLEU   | NIST    | TER   | Year |
-|-----------|--------|---------|-------|------|
-| PJAIT     | **28.39**  | 6.6650  | 56.01 | 2015 |
-| JAIST     | 28.17  | **6.7092**  | 55.84 | 2015 |
-| KIT       | 26.60  | 6.4014  | 58.26 | 2015 |
-| SU        | 26.41  | 6.5986  | **55.60** | 2015 |
-| UNETI     | 22.93  | 6.0218  | 60.33 | 2015 |
-| BASELINE  | 27.01  | 6.4716  | 58.42 | 2015 |
+<table>
+  <tr>
+    <th>Method</th>
+    <th>BLEU</th>
+    <th>NIST</th>
+    <th>TER</th>
+    <th>Paper/Source</th>
+    <th>Code</th>
+    <th>Year</th>
+  </tr>
+  <tr>
+    <td>PJAIT</td>
+    <td>28.39</td>
+    <td>6.6650</td>
+    <td>56.01</td>
+    <td>
+      <a href="https://arxiv.org/pdf/1512.01639.pdf">Wolk et al. IWSLT'15</a>
+    </td>
+    <td></td>
+    <td>2015</td>
+  </tr>
+  <tr>
+    <td>JAIST</td>
+    <td>28.17</td>
+    <td>6.7092</td>
+    <td>55.84</td>
+    <td>
+      <a href="http://workshop2015.iwslt.org/downloads/IWSLT_2015_EP_6.pdf">Trieu et al. IWSLT'15</a>
+    </td>
+    <td></td>
+    <td>2015</td>
+  </tr>
+  <tr>
+    <td>KIT</td>
+    <td>26.60</td>
+    <td>6.4014</td>
+    <td>58.26</td>
+    <td>
+      <a href="http://workshop2015.iwslt.org/downloads/IWSLT_2015_EP_17.pdf">Ha et al. IWSLT'15</a>
+    </td>
+    <td></td>
+    <td>2015</td>
+  </tr>
+  <tr>
+    <td>SU</td>
+    <td>26.41</td>
+    <td>6.5986</td>
+    <td>55.60</td>
+    <td>
+      <a href="http://workshop2015.iwslt.org/downloads/IWSLT_2015_EP_17.pdf">Luong et al. IWSLT'15</a>
+    </td>
+    <td></td>
+    <td>2015</td>
+  </tr>
+  <tr>
+    <td>UNETI</td>
+    <td>22.93</td>
+    <td>6.0218</td>
+    <td>60.33</td>
+    <td>
+      <a href="http://workshop2015.iwslt.org/downloads/IWSLT_2015_EP_3.pdf">Tran et al. IWSLT'15</a>
+    </td>
+    <td></td>
+    <td>2015</td>
+  </tr>
+  <tr>
+    <td>BASELINE</td>
+    <td>27.01</td>
+    <td>6.4716</td>
+    <td>58.42</td>
+    <td>
+      <a href="http://workshop2015.iwslt.org/downloads/IWSLT_2015_EP_3.pdf">Cettolo et al. IWSLT'15</a>
+    </td>
+    <td></td>
+    <td>2015</td>
+  </tr>
+</table>
 
 **TED: MT Vietnamese-English**
 
