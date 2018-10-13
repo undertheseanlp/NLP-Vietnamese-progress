@@ -60,7 +60,7 @@ If not, add your task or dataset to the respective section of the corresponding 
   for your dataset/task (change Score to the metric of your dataset).
 8. Submit your change as a pull request.
   
-| Model           | Score  |  Paper / Source | Code | 
+| Model           | Score  |  Paper/Source | Code | 
 | ------------- | :-----:| --- | --- | 
 |  |  |  | | 
 
