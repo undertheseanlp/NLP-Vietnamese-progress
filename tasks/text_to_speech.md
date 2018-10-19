@@ -52,7 +52,6 @@ In order to evaluate the quality of TTS systems, the test set contains 30 number
 
 * [Smart Meeting Diarization](http://quochoi.vietcap.org/) - Smart Meeting Diarization *by AILab (2017)* `demo`
 * [VOS](http://ailab.hcmus.edu.vn/vosdemo) - Voice of Southern Vietnam *by AILab (2017)* `demo`
-* [VIVOS](http://ailab.hcmus.edu.vn/vivos/) - a free Vietnamese speech corpus consisting of 15 hours of recording speech *by AILab (2017)* `data`
 * [vaisvn/hts_for_vietnamese](https://bitbucket.org/vaisvn/hts_for_vietnamese) - HTS for Vietnamese *by VAIS (2016)* `perl,bash` `data`
 
 :dizzy: **Services**
@@ -61,3 +60,8 @@ In order to evaluate the quality of TTS systems, the test set contains 30 number
 * [vtcc.ai TTS (2018-)](https://vtcc.ai/tts)
 * [OpenFPT: Speech Synthesis (2017-)](http://doc.openfpt.vn/#speech-synthesis)
 * [ResponsiveVoice (2017)](https://responsivevoice.org/text-to-speech-languages/van-ban-de-noi-trong-tieng-viet/)
+
+:file_folder: **Dataset**
+
+* [VIVOS](http://ailab.hcmus.edu.vn/vivos/) - a free Vietnamese speech corpus consisting of 15 hours of recording speech *by AILab (2017)* `data`
+
