@@ -49,3 +49,8 @@ The test set was composed of 796 continuous wav files of news speech for a total
 * [Vietnamese Speech Recognition Corpus- (Mobile)- 144 Speaker](http://kingline.speechocean.com/exchange.php?id=3758&act=view) - 76.6 hours *by Speechocean (2017)* `data` `$`
 * [Vietnamese Speech Recognition Corpus-(In-Car)-300 Speakers](http://kingline.speechocean.com/exchange.php?id=3333&act=view) - 305 hours *by Speechocean (2017)* `data` `$`
 * [Globalphone Vietnamese](http://catalog.elra.info/product_info.php?products_id=1144) - 22.5 hours of read speech from 15 Vietnamese online newspapers *by ELRA (2012)* `data` `$`
+
+:file_folder: **Dataset**
+
+* [VIVOS](http://ailab.hcmus.edu.vn/vivos/) - a free Vietnamese speech corpus consisting of 15 hours of recording speech *by AILab (2017)* `data`
+* [FPT-30](https://techinsight.com.vn/30-nam-fpt-tang-30-tieng-du-lieu-thu-am/) - `data`
