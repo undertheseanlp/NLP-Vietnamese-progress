@@ -7,6 +7,8 @@
 
 A Large-scale Vietnamese News Text Classification Corpus
 
+27 topics, 14375 documents for training and 12076 documents for testing
+
 <table>
   <tr>
     <th>Model</th>
