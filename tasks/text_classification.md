@@ -7,7 +7,30 @@
 
 A Large-scale Vietnamese News Text Classification Corpus
 
-27 topics, 14375 documents for training and 12076 documents for testing
+Level 1: 10 topics, 33,759 documents for training and 50,373 documents for testing
+
+<table>
+  <tr>
+    <th>Model</th>
+    <th>Score</th>
+    <th>Paper / Source </th>
+    <th>Code</th>
+  </tr>
+  <tr>
+    <td>NGRAM</td>
+    <td>97.1</td>
+    <td><a href="http://docshare01.docshare.tips/files/4624/46242178.pdf">Vu et al. RIVF'07</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>SVM Multi</td>
+    <td>93.4</td>
+    <td><a href="http://docshare01.docshare.tips/files/4624/46242178.pdf">Vu et al. RIVF'07</a></td>
+    <td></td>
+  </tr>
+</table>
+
+Level 2: 27 topics, 14375 documents for training and 12076 documents for testing
 
 <table>
   <tr>
