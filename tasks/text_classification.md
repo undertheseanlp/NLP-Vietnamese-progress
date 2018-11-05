@@ -28,8 +28,8 @@ A Large-scale Vietnamese News Text Classification Corpus
 
 :scroll: **Papers**
 
-* [Zhu et al. CCC'15](https://drive.google.com/file/d/1jpAVOfn-utsLWCEv7EffjL5hTix3lNfu/view?usp=sharing)
-[Nguyet et al. KSE'15](https://drive.google.com/file/d/15o2-wC6p_tN5V-fcJcjx9k1F1VV6IcwO/view?usp=sharing)
+* [Zhu et al. CCC'15](https://drive.google.com/file/d/1jpAVOfn-utsLWCEv7EffjL5hTix3lNfu/view?usp=sharing), 
+[Nguyet et al. KSE'15](https://drive.google.com/file/d/15o2-wC6p_tN5V-fcJcjx9k1F1VV6IcwO/view?usp=sharing), 
 [Vu et al. FDSE'15](https://drive.google.com/file/d/1YC7xAWt_r4KVe3u90WLct8OiPoqXbMVu/view?usp=sharing)
 
 :dizzy: **Services**
