@@ -13,37 +13,43 @@ Test data: 2120 test sentences from the VLSP 2013 POS tagging shared task.
   <tr>
     <th>Model</th>
     <th>Accuracy</th>
-    <th>Paper/Source </th>
+    <th>Paper</th>
+    <th>Source</td>
     <th>Code</th>
   </tr>
   <tr>
     <td>VnMarMoT</td>
     <td>95.88</td>
     <td><a href="http://aclweb.org/anthology/N18-5012">Nguyen et al. NAACL'18</a></td>
+    <td></td>
     <td><a href="https://github.com/vncorenlp/VnCoreNLP">Official</a></td>
   </tr>
   <tr>
     <td>BiLSTM-CRF + CNN-char</td>
     <td>95.40</td>
     <td><a href="http://aclweb.org/anthology/N18-5012">Ma et al. ACL'16</a></td>
+  <td><a href="http://aclweb.org/anthology/N18-5012">Nguyen et al. NAACL'18</a></td>
     <td><a href="https://github.com/UKPLab/emnlp2017-bilstm-cnn-crf/">Link</a></td>
   </tr>
   <tr>
     <td>BiLSTM-CRF + LSTM-char</td>
     <td>95.31</td>
     <td><a href="http://www.aclweb.org/anthology/N16-1030">Lample et al. NAACL'16</a></td>
+  <td><a href="http://aclweb.org/anthology/N18-5012">Nguyen et al. NAACL'18</a></td>
     <td><a href="https://github.com/UKPLab/emnlp2017-bilstm-cnn-crf/">Link</a></td>
   </tr>
   <tr>
     <td>BiLSTM-CRF</td>
     <td>95.31</td>
     <td><a href="https://arxiv.org/abs/1508.01991">Huang et al. ArXiv'15</a></td>
+  <td><a href="http://aclweb.org/anthology/N18-5012">Nguyen et al. NAACL'18</a></td>
     <td><a href="https://github.com/UKPLab/emnlp2017-bilstm-cnn-crf/">Link</a></td>
   </tr>
   <tr>
     <td>RDRPOSTagger</td>
     <td>95.11</td>
     <td><a href="https://www.researchgate.net/publication/279916333_RDRPOSTagger_A_Ripple_Down_Rules-based_Part-Of-Speech_Tagger">Nguyen et al. EACL'14</a></td>
+    <td></td>
     <td><a href="https://github.com/datquocnguyen/rdrpostagger">Official</a></td>
   </tr>
 </table>
