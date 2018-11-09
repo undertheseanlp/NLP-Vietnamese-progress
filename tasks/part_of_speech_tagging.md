@@ -57,30 +57,35 @@ Test data: 2120 test sentences from the VLSP 2013 POS tagging shared task.
   <tr>
     <th>Model</th>
     <th>Accuracy (%)</th>
-    <th>Paper/Source</th>
+    <th>Paper</th>
+    <th>Source</th>
     <th>Code</th>
   </tr>
   <tr>
     <td>RDRPOSTagger</td>
     <td>91.96</td>
     <td></td>
+    <td><a href="http://aclweb.org/anthology/I17-3010">Pham et al. IJCNLP'17</a></td>
     <td></td>
   </tr>
   <tr>
     <td>NNVLP</td>
     <td>91.92</td>
     <td><a href="http://aclweb.org/anthology/I17-3010">Pham et al. IJCNLP'17</a></td>
+    <td></td>
     <td><a href="https://github.com/pth1993/NNVLP">Official</a></td>
   </tr>
   <tr>
     <td>vTools</td>
     <td>90.73</td>
+    <td></td>
     <td><a href="http://aclweb.org/anthology/I17-3010">Pham et al. IJCNLP'17</a></td>
     <td><a href="https://github.com/pth1993/NNVLP">Official</a></td>
   </tr>
   <tr>
     <td>Vitk</td>
     <td>88.41</td>
+    <td></td>
     <td><a href="http://aclweb.org/anthology/I17-3010">Pham et al. IJCNLP'17</a></td>
     <td></td>
   </tr>
