@@ -52,7 +52,7 @@ Test data: 2120 test sentences from the VLSP 2013 POS tagging shared task.
 
 :scroll: **Papers**
 
-* [Nguyen et al. 2017](https://arxiv.org/pdf/1711.04951.pdf),
+* [Nguyen et al. ALTA'17](https://arxiv.org/pdf/1711.04951.pdf),
 [Ngo et al. 2016](https://arxiv.org/pdf/1412.4021.pdf)
 * [Nguyen et al. 2014](http://www.aclweb.org/anthology/E14-2005),
 [Nguyen et al. 2011](https://link.springer.com/chapter/10.1007/978-3-642-19400-9_15),
