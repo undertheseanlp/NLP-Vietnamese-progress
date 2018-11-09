@@ -26,12 +26,12 @@ Example:
   </tr>
   <tr>
     <td>CRF</td>
-    <td>74.70</td>
+    <td>76.63</td>
     <td><a href="https://arxiv.org/pdf/1803.08463.pdf">Pham et al. VLSP'18</a></td>
     <td></td>
   </tr>
   <tr>
-    <td>Bi-LSTM</td>
+    <td>ZA-NER<br>Bi-LSTM</td>
     <td>74.70</td>
     <td><a href="https://drive.google.com/file/d/1tLPn6DZgJ1QbyINJPZ69lF1aSPLV0HWE/view?usp=sharing">Luong et al. VLSP'18</a></td>
     <td></td>
