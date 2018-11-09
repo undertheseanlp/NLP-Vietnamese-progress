@@ -15,6 +15,41 @@ Example:
 
 ## VLSP 2018 Shared Task: Named Entity Recognition
 
+The size of VLSP 2018 dataset
+
+<table>
+  <tr>
+    <th>Type</th>
+    <th>Train</th>
+    <th>Test</th>
+    <th>Dev</th>
+  </tr>
+  <tr>
+    <td>LOC</td>
+    <td>8,831</td>
+    <td>2,525</td>
+    <td>3,043</td>
+  </tr>
+  <tr>
+    <td>ORG</td>
+    <td>3,471</td>
+    <td>1,616</td>
+    <td>1,203</td>
+  </tr>
+  <tr>
+    <td>PER</td>
+    <td>6,427</td>
+    <td>3,518</td>
+    <td>2,168</td>
+  </tr>
+  <tr>
+    <td>MISC</td>
+    <td>805</td>
+    <td>296</td>
+    <td>179</td>
+  </tr>
+</table>
+
 ### Leaderboard
 
 <table>
@@ -23,6 +58,12 @@ Example:
     <th>F1</th>
     <th>Paper/Source</th>
     <th>Code</th>
+  </tr>
+   <tr>
+    <td>VNER<br>Attentive Neural Network</td>
+    <td>77.52</td>
+    <td><a href="https://arxiv.org/pdf/1810.13097.pdf">Dong et al. 2018</a></td>
+    <td></td>
   </tr>
   <tr>
     <td>CRF</td>
