@@ -13,7 +13,7 @@ Test data: 2120 test sentences from the VLSP 2013 POS tagging shared task.
   <tr>
     <th>Model</th>
     <th>Accuracy</th>
-    <th>Paper / Source </th>
+    <th>Paper/Source </th>
     <th>Code</th>
   </tr>
   <tr>
@@ -45,6 +45,44 @@ Test data: 2120 test sentences from the VLSP 2013 POS tagging shared task.
     <td>95.11</td>
     <td><a href="https://www.researchgate.net/publication/279916333_RDRPOSTagger_A_Ripple_Down_Rules-based_Part-Of-Speech_Tagger">Nguyen et al. EACL'14</a></td>
     <td><a href="https://github.com/datquocnguyen/rdrpostagger">Official</a></td>
+  </tr>
+</table>
+
+## VietTreeBank
+
+* train: 7268 sentences, dev: 1038 sentences, test: 2077 sentences
+* labels: N, V, CH, R, E, A, P, Np, M, N, Nc, L, T, Ny, Nu, X, B, S, I, Y, Vy
+
+<table>
+  <tr>
+    <th>Model</th>
+    <th>Accuracy (%)</th>
+    <th>Paper/Source</th>
+    <th>Code</th>
+  </tr>
+  <tr>
+    <td>RDRPOSTagger</td>
+    <td>91.96</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>NNVLP</td>
+    <td>91.92</td>
+    <td><a href="http://aclweb.org/anthology/I17-3010">Pham et al. IJCNLP'17</a></td>
+    <td><a href="https://github.com/pth1993/NNVLP">Official</a></td>
+  </tr>
+  <tr>
+    <td>vTools</td>
+    <td>90.73</td>
+    <td><a href="http://aclweb.org/anthology/I17-3010">Pham et al. IJCNLP'17</a></td>
+    <td><a href="https://github.com/pth1993/NNVLP">Official</a></td>
+  </tr>
+  <tr>
+    <td>Vitk</td>
+    <td>88.41</td>
+    <td><a href="http://aclweb.org/anthology/I17-3010">Pham et al. IJCNLP'17</a></td>
+    <td></td>
   </tr>
 </table>
 
