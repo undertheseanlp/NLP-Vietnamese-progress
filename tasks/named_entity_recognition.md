@@ -139,9 +139,15 @@ With gold POS and chunking tags
     <td></td>
   </tr>
   <tr>
-    <td>NNVLP (CNN - Bi_LSTM - CRF)</td>
+    <td>NNVLP (Bi-LSTM-CNN-CRF)</td>
     <td>92.91</td>
     <td><a href="https://arxiv.org/pdf/1708.07241.pdf">Pham et al. IJCNLP'17</a></td>
+    <td><a href="https://github.com/pth1993/NNVLP">Official</a></td>
+  </tr>
+  <tr>
+    <td>vie-ner-lstm</td>
+    <td>92.05</td>
+    <td><a href="https://github.com/pth1993/vie-ner-lstm">Pham et al. PACLIC'17</a></td>
     <td></td>
   </tr>
   <tr>
