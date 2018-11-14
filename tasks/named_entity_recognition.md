@@ -112,7 +112,7 @@ Without gold POS and chunking tags
     <th>Code</th>
   </tr>
   <tr>
-    <td>CRF (word + word shapes + cluster + w2v)</td>
+    <td>CRFs (word + word shapes + cluster + w2v)</td>
     <td>90.03</td>
     <td><a href="https://arxiv.org/pdf/1803.04375.pdf">Pham CICLing'18</a></td>
     <td></td>
@@ -141,13 +141,13 @@ With gold POS and chunking tags
     <td><a href="https://github.com/duongna21/VNsequencelabeling">Official</a></td>
   </tr>
   <tr>
-    <td>CRF (PoS, Chunk, word + word shapes + cluster + w2v)</td>
+    <td>CRFs (PoS, Chunk, word + word shapes + cluster + w2v)</td>
     <td>93.93</td>
     <td><a href="https://arxiv.org/pdf/1803.04375.pdf">Pham CICLing'18</a></td>
     <td></td>
   </tr>
   <tr>
-    <td>NNVLP (Bi-LSTM-CNN-CRF)</td>
+    <td>NNVLP (BiLSTM-CNN-CRFs)</td>
     <td>92.91</td>
     <td><a href="https://arxiv.org/pdf/1708.07241.pdf">Pham et al. IJCNLP'17</a></td>
     <td><a href="https://github.com/pth1993/NNVLP">Official</a></td>
@@ -167,7 +167,7 @@ With gold POS and chunking tags
     <td></td>
   </tr>
   <tr>
-    <td>Bi-LSTM-CNN-CRF</td>
+    <td>BiLSTM-CNN-CRFs</td>
     <td>88.59</td>
     <td><a href="https://arxiv.org/pdf/1705.04044.pdf">Pham et al. PACLIC'17</a></td>
     <td></td>
@@ -186,7 +186,7 @@ With gold POS and chunking tags
     <td></td>
   </tr>
   <tr>
-    <td>Bi-LSTM CRF</td>
+    <td>BiLSTM CRFs</td>
     <td>83.25</td>
     <td><a href="https://drive.google.com/file/d/16M0Ry_dHFOY5njVhqy4NV0G2-bfTq6Qt/view?usp=sharing">Nguyen et al. VLSP'16</a></td>
     <td></td>
