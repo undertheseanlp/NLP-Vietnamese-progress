@@ -28,7 +28,9 @@ Labels: NP, VP, PP, AP, QP, RP
   <tr>
     <td>vTools</td>
     <td>83.17</td>
-    <td>Tran et al. VLSP'13</a></td>
+    <td>
+      <a href="https://drive.google.com/file/d/1V06YfENrguQk2SRJFbpwWzapxpgPPaPS/view?usp=sharing">Tran et al. VLSP'13</a>
+    </td>
     <td><a href="https://github.com/lupanh/vTools">Official</a></td>
   </tr>
 </table>
