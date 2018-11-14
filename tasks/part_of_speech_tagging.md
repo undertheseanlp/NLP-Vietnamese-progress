@@ -56,7 +56,7 @@ Test data: 2120 test sentences from the VLSP 2013 POS tagging shared task.
 
 ## VietTreeBank
 
-* [VietTreeBank Paper](https://hal.inria.fr/inria-00421103v2/document)
+* :scroll: [VietTreeBank Paper](https://hal.inria.fr/inria-00421103v2/document)
 
 Dataset
 
