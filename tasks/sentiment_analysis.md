@@ -2,7 +2,7 @@
 
 ## VLSP 2018 Shared Task: Aspect Based Sentiment Analysis
 
-* :scroll: [VLSP 2018 Shared Task: Aspect Based Sentiment Analysis paper](https://drive.google.com/file/d/1C3l2n2Jicwzc0aoBLoyA5zIdczHpcy5R/view?usp=sharing)
+* :scroll: [VLSP 2018 Shared Task: Aspect Based Sentiment Analysis Paper](https://drive.google.com/file/d/1C3l2n2Jicwzc0aoBLoyA5zIdczHpcy5R/view?usp=sharing)
 
 ### Leaderboard
 
@@ -60,7 +60,7 @@ Hotel Dataset
 
 ## VLSP 2016 Shared Task: Sentiment Analysis
 
-* :scroll: [VLSP 2016 Shared Task: Sentiment Analysis paper](https://drive.google.com/file/d/1oAa8tcM8UACK6ibiIxL8yuz_eHM7_qBF/view?usp=sharing)
+* :scroll: [VLSP 2016 Shared Task: Sentiment Analysis Paper](https://drive.google.com/file/d/1oAa8tcM8UACK6ibiIxL8yuz_eHM7_qBF/view?usp=sharing)
 
 The data contains user’s reviews about technological device following three categories: ”negative”, ”positive” and ”neutral”
 
