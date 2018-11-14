@@ -69,7 +69,7 @@ The size of VLSP 2018 dataset
     <td></td>
   </tr>
   <tr>
-    <td>vietner(CRFs)</td>
+    <td>vietner<br>CRFs (ngrams + word shapes + cluster + w2v)</td>
     <td>76.63</td>
     <td><a href="https://arxiv.org/pdf/1803.08463.pdf">Pham et al. VLSP'18</a></td>
     <td><a href="https://github.com/minhpqn/vietner">Official</a></td>
@@ -113,10 +113,10 @@ Without gold POS and chunking tags
     <th>Code</th>
   </tr>
   <tr>
-    <td>CRFs (word + word shapes + cluster + w2v)</td>
+    <td>vietner<br>CRFs (ngrams + word shapes + cluster + w2v)</td>
     <td>90.03</td>
     <td><a href="https://arxiv.org/pdf/1803.04375.pdf">Pham CICLing'18</a></td>
-    <td></td>
+    <td><a href="https://github.com/minhpqn/vietner">Official</a></td>
   </tr>
   <tr>
     <td>VnCoreNLP</td>
