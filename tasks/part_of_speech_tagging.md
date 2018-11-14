@@ -74,8 +74,8 @@ Dataset
   <tr>
     <td>VNTagger</td>
     <td>93.40</td>
-    <td></td>
     <td><a href="https://hal.inria.fr/inria-00526139/document">Le et al. TALN'10</a></td>
+    <td></td>
     <td><a href="http://mim.hus.vnu.edu.vn/dsl/tools/tagger">Official</a></td>
   </tr>
   <tr>
