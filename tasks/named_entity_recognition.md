@@ -69,13 +69,13 @@ The size of VLSP 2018 dataset
     <td></td>
   </tr>
   <tr>
-    <td>CRF</td>
+    <td>vietner(CRFs)</td>
     <td>76.63</td>
     <td><a href="https://arxiv.org/pdf/1803.08463.pdf">Pham et al. VLSP'18</a></td>
-    <td></td>
+    <td><a href="https://github.com/minhpqn/vietner">Official</a></td>
   </tr>
   <tr>
-    <td>ZA-NER<br>Bi-LSTM</td>
+    <td>ZA-NER<br>BiLSTM</td>
     <td>74.70</td>
     <td><a href="https://drive.google.com/file/d/1tLPn6DZgJ1QbyINJPZ69lF1aSPLV0HWE/view?usp=sharing">Luong et al. VLSP'18</a></td>
     <td></td>
