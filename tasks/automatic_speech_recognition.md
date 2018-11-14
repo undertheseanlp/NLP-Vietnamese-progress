@@ -2,7 +2,7 @@
 
 ## VLSP 2018 Shared Task: Automatic Speech Recognition
 
-* :scroll: [VLSP 2018 Shared Task: Automatic Speech Recognition paper](https://drive.google.com/file/d/1ela9aLGYtouVBT1da91B37mADhEwxxd8/view?usp=sharing)
+* :scroll: [VLSP 2018 Shared Task: Automatic Speech Recognition Paper](https://drive.google.com/file/d/1ela9aLGYtouVBT1da91B37mADhEwxxd8/view?usp=sharing)
 
 In the ASR task, participants were asked to transcribe automatically Vietnamese audio files into the spoken word sequences. The committee provided the test set only, while the training data for the acoustic and language models was developed by the teams themselves.
 
