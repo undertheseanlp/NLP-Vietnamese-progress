@@ -72,6 +72,13 @@ Dataset
     <th>Code</th>
   </tr>
   <tr>
+    <td>VNTagger</td>
+    <td>93.40</td>
+    <td></td>
+    <td><a href="https://hal.inria.fr/inria-00526139/document">Le et al. TALN'10</a></td>
+    <td></td>
+  </tr>
+  <tr>
     <td>RDRPOSTagger</td>
     <td>91.96</td>
     <td></td>
