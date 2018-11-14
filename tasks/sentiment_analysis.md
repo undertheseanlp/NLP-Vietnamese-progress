@@ -6,7 +6,7 @@
 
 ### Leaderboard
 
-Restaurant Dataset
+**Restaurant Dataset**: 2961 reviews (train), 1290 reviews (development), 500 reviews (test) 
 
 <table>
   <tr>
@@ -32,7 +32,7 @@ Restaurant Dataset
   </tr>
 </table>
 
-Hotel Dataset
+**Hotel Dataset**: 3000 reviews (training), 2000 reviews (development), 600 reviews (test)
 
 <table>
   <tr>
