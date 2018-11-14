@@ -56,6 +56,10 @@ Test data: 2120 test sentences from the VLSP 2013 POS tagging shared task.
 
 ## VietTreeBank
 
+* [VietTreeBank Paper](https://hal.inria.fr/inria-00421103v2/document)
+
+Dataset
+
 * train: 7268 sentences, dev: 1038 sentences, test: 2077 sentences
 * labels: N, V, CH, R, E, A, P, Np, M, N, Nc, L, T, Ny, Nu, X, B, S, I, Y, Vy
 
