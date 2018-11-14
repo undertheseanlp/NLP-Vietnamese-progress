@@ -16,7 +16,7 @@ Example:
 ## VLSP 2018 Shared Task: Named Entity Recognition
 
 * :link: [VLSP 2018 Shared Task: Named Entity Recognition Website](http://vlsp.org.vn/vlsp2018/eval/ner)
-* :file_folder: [VLSP 2018 NER: Annotation Guildlines](https://drive.google.com/file/d/1wVdfkWgsRgTiXA4b_G8OGeugP03YBSrg/view?usp=sharing)
+* :file_folder: [VLSP 2018 Shared Task: Annotation Guildlines](https://drive.google.com/file/d/1wVdfkWgsRgTiXA4b_G8OGeugP03YBSrg/view?usp=sharing)
 
 The size of VLSP 2018 dataset
 
@@ -91,8 +91,8 @@ The size of VLSP 2018 dataset
 
 ## VLSP 2016 Shared Task: Named Entity Recognition
 
-* :scroll: [VLSP 2016 Shared Task: Named Entity Recognition Paper](https://drive.google.com/file/d/18FuXxRM0slTeReQUCOj8IiToB5eqVQCT/view?usp=sharing)
 * :link: [VLSP 2016 Shared Task: Named Entity Recognition Website](http://vlsp.org.vn/vlsp2016/eval/ner)
+* :scroll: [VLSP 2016 Shared Task: Named Entity Recognition Paper](https://drive.google.com/file/d/18FuXxRM0slTeReQUCOj8IiToB5eqVQCT/view?usp=sharing)
 
 16,861 sentences for training and development from the VLSP 2016 NER shared task:
 
