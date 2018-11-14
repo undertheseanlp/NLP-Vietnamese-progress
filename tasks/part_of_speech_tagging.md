@@ -76,14 +76,14 @@ Dataset
     <td>93.40</td>
     <td></td>
     <td><a href="https://hal.inria.fr/inria-00526139/document">Le et al. TALN'10</a></td>
-    <td></td>
+    <td><a href="http://mim.hus.vnu.edu.vn/dsl/tools/tagger">Official</a></td>
   </tr>
   <tr>
     <td>RDRPOSTagger</td>
     <td>91.96</td>
     <td></td>
     <td><a href="http://aclweb.org/anthology/I17-3010">Pham et al. IJCNLP'17</a></td>
-    <td></td>
+    <td><a href="https://github.com/datquocnguyen/RDRPOSTagger">Official</a></td>
   </tr>
   <tr>
     <td>NNVLP</td>
