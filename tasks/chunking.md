@@ -2,6 +2,10 @@
 
 ## VietTreebank
 
+* :scroll: [VietTreeBank Paper](https://hal.inria.fr/inria-00421103v2/document)
+
+Dataset
+
 * Train: 7283 sentences
 * Dev: 1040 sentences
 * Test: 2081 sentences
