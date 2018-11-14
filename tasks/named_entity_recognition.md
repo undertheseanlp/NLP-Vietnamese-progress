@@ -132,6 +132,12 @@ With gold POS and chunking tags
     <th>Code</th>
   </tr>
   <tr>
+    <td>Bi-LSTM CRF</td>
+    <td>94.88</td>
+    <td><a href="https://arxiv.org/pdf/1811.03754.pdf">Nguyen et al. 2018</a></td>
+    <td><a href="https://github.com/duongna21/VNsequencelabeling">Official</a></td>
+  </tr>
+  <tr>
     <td>CRF (PoS, Chunk, word + word shapes + cluster + w2v)</td>
     <td>93.93</td>
     <td><a href="https://arxiv.org/pdf/1803.04375.pdf">Pham CICLing'18</a></td>
