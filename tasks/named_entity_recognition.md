@@ -146,8 +146,8 @@ With gold POS and chunking tags
   <tr>
     <td>vie-ner-lstm</td>
     <td>92.05</td>
-    <td><a href="https://github.com/pth1993/vie-ner-lstm">Pham et al. PACLIC'17</a></td>
-    <td></td>
+    <td><a href="https://arxiv.org/pdf/1705.10610.pdf">Pham et al. PACLIC'17</a></td>
+    <td><a href="https://github.com/pth1993/vie-ner-lstm">Official</a></td>
   </tr>
   <tr>
     <td>Token reguilar expression + ME (Bidirectional Inference)</td>
@@ -166,7 +166,8 @@ With gold POS and chunking tags
   <tr>
     <td>ME + Beam Search</td>
     <td>84.08</td>
-    <td><a href="https://drive.google.com/file/d/1n4JMtHLsIgaeiAtjPncg64BVumykbHsL/view?usp=sharing">Nguyen et al. VLSP'16</a></td>
+    <td><a href="https://drive.google.com/file/d/1n4JMtHLsIgaeiAtjPncg64BVumykbHsL/view?usp=sharing">
+      Nguyen et al. VLSP'16</a></td>
     <td></td>
   </tr>
   <tr>
@@ -184,7 +185,9 @@ With gold POS and chunking tags
   <tr>
     <td>CRF</td>
     <td>78.38</td>
-    <td><a href="https://drive.google.com/file/d/1vg9Bvu6HgiO7KDiKKAPZz9dL3VmlON1I/view?usp=sharing">Le et al. VLSP'16</a></td>
+    <td>
+      <a href="https://drive.google.com/file/d/1vg9Bvu6HgiO7KDiKKAPZz9dL3VmlON1I/view?usp=sharing">Le et al. VLSP'16</a>
+    </td>
     <td></td>
   </tr>
 </table>
