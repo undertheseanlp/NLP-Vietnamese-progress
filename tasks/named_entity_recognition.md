@@ -109,6 +109,12 @@ Without gold POS and chunking tags
     <th>Code</th>
   </tr>
   <tr>
+    <td>CRF (word + word shapes + cluster + w2v)</td>
+    <td>90.03</td>
+    <td><a href="https://arxiv.org/pdf/1803.04375.pdf">Pham CICLing'18</a></td>
+    <td></td>
+  </tr>
+  <tr>
     <td>VnCoreNLP</td>
     <td>88.55</td>
     <td><a href="http://aclweb.org/anthology/N18-5012">Nguyen et al. NAACL'18</a></td>
@@ -127,9 +133,23 @@ With gold POS and chunking tags
     <th>Code</th>
   </tr>
   <tr>
+    <td>CRF (PoS, Chunk, word + word shapes + cluster + w2v)</td>
+    <td>93.93</td>
+    <td><a href="https://arxiv.org/pdf/1803.04375.pdf">Pham CICLing'18</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>NNVLP (CNN - Bi_LSTM - CRF)</td>
+    <td>92.91</td>
+    <td><a href="https://arxiv.org/pdf/1708.07241.pdf">Pham et al. IJCNLP'17</a></td>
+    <td></td>
+  </tr>
+  <tr>
     <td>Token reguilar expression + ME (Bidirectional Inference)</td>
     <td>88.78</td>
-    <td><a href="https://drive.google.com/file/d/1yepeBjeOCWmwMSrGwP-ewhxQBmPpyP0p/view?usp=sharing">Le et al. VLSP'16</a></td>
+    <td>
+      <a href="https://drive.google.com/file/d/1yepeBjeOCWmwMSrGwP-ewhxQBmPpyP0p/view?usp=sharing">Le et al. VLSP'16</a>
+    </td>
     <td></td>
   </tr>
   <tr>
