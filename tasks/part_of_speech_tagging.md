@@ -101,7 +101,7 @@ Dataset
     <td>90.73</td>
     <td></td>
     <td><a href="http://aclweb.org/anthology/I17-3010">Pham et al. IJCNLP'17</a></td>
-    <td><a href="https://github.com/pth1993/NNVLP">Official</a></td>
+    <td><a href="https://github.com/lupanh/vTools">Official</a></td>
     <td></td>
   </tr>
   <tr>
