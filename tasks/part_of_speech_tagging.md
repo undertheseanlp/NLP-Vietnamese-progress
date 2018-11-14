@@ -78,7 +78,7 @@ Dataset
     <td><a href="https://hal.inria.fr/inria-00526139/document">Le et al. TALN'10</a></td>
     <td></td>
     <td><a href="http://mim.hus.vnu.edu.vn/dsl/tools/tagger">Official</a></td>
-    <td></td>
+    <td>10-fold CV</td>
   </tr>
   <tr>
     <td>RDRPOSTagger</td>
@@ -86,7 +86,7 @@ Dataset
     <td></td>
     <td><a href="http://aclweb.org/anthology/I17-3010">Pham et al. IJCNLP'17</a></td>
     <td><a href="https://github.com/datquocnguyen/RDRPOSTagger">Official</a></td>
-    <td></td>
+    <td>5-fold CV</td>
   </tr>
   <tr>
     <td>NNVLP</td>
@@ -94,7 +94,7 @@ Dataset
     <td><a href="http://aclweb.org/anthology/I17-3010">Pham et al. IJCNLP'17</a></td>
     <td></td>
     <td><a href="https://github.com/pth1993/NNVLP">Official</a></td>
-    <td></td>
+    <td>5-fold CV</td>
   </tr>
   <tr>
     <td>vTools</td>
