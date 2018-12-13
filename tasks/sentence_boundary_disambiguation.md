@@ -8,4 +8,4 @@
 
 :scroll: Technique Reports 
 
-* [SP 7.3 Hướng dẫn tách câu tiếng Việt](https://drive.google.com/file/d/1-dalhdNHzGi10jV_T0J794mxhnwqGqNj/view?usp=sharing)
+* [SP 7.3 Hướng dẫn tách câu tiếng Việt (2008)](https://drive.google.com/file/d/1-dalhdNHzGi10jV_T0J794mxhnwqGqNj/view?usp=sharing)
