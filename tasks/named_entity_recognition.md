@@ -113,6 +113,12 @@ Without gold POS and chunking tags
     <th>Code</th>
   </tr>
   <tr>
+    <td>VNER<br>Attentive Neural Network</td>
+    <td>90.37</td>
+    <td><a href="https://arxiv.org/pdf/1810.13097.pdf">Dong et al. 2018</a></td>
+    <td><a href="https://github.com/minhpqn/vietner">Official</a></td>
+  </tr>
+  <tr>
     <td>vietner<br>CRFs (ngrams + word shapes + cluster + w2v)</td>
     <td>90.03</td>
     <td><a href="https://arxiv.org/pdf/1803.04375.pdf">Pham CICLing'18</a></td>
