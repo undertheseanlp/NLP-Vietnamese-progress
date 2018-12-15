@@ -193,7 +193,7 @@ With gold POS and chunking tags
     <td></td>
   </tr>
   <tr>
-    <td>CRF</td>
+    <td>CRFs</td>
     <td>78.38</td>
     <td>
       <a href="https://drive.google.com/file/d/1vg9Bvu6HgiO7KDiKKAPZz9dL3VmlON1I/view?usp=sharing">Le et al. VLSP'16</a>
