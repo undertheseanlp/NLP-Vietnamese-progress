@@ -116,7 +116,7 @@ Without gold POS and chunking tags
     <td>VNER<br>Attentive Neural Network</td>
     <td>90.37</td>
     <td><a href="https://arxiv.org/pdf/1810.13097.pdf">Dong et al. 2018</a></td>
-    <td><a href="https://github.com/minhpqn/vietner">Official</a></td>
+    <td></td>
   </tr>
   <tr>
     <td>vietner<br>CRFs (ngrams + word shapes + cluster + w2v)</td>
