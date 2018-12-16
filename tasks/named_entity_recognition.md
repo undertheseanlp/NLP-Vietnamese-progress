@@ -125,7 +125,7 @@ Without gold POS and chunking tags
     <td><a href="https://github.com/minhpqn/vietner">Official</a></td>
   </tr>
   <tr>
-    <td>VnCoreNLP</td>
+    <td>VnCoreNLP<br>dynamic feature induction model</td>
     <td>88.55</td>
     <td><a href="http://aclweb.org/anthology/N18-5012">Nguyen et al. NAACL'18</a></td>
     <td><a href="https://github.com/vncorenlp/VnCoreNLP">Official</a></td>
