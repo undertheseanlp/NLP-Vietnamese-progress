@@ -15,6 +15,7 @@
 
 ## Corpus
 
+* [binhvq/news-corpus](https://github.com/binhvq/news-corpus). 3.7 GB Compress. Uncompress ~18.6 GB. 111.274.300 sentences
 * [VNESEcopus.txt](http://viet.jnlp.org/download-du-lieu-tu-vung-corpus). 650 thousand sentences.
 * [VNTQcorpus(small).txt](http://viet.jnlp.org/download-du-lieu-tu-vung-corpus). 300 thousand sentences.
 * [VNTQcorpus(big).txt](http://viet.jnlp.org/download-du-lieu-tu-vung-corpus). 1.75 million sentences.
