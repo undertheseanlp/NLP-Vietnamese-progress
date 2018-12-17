@@ -148,7 +148,7 @@ With gold POS and chunking tags
     <td><a href="https://github.com/duongna21/VNsequencelabeling">Official</a></td>
   </tr>
   <tr>
-    <td>CRFs (PoS, Chunk, word + word shapes + cluster + w2v)</td>
+    <td>CRF (PoS, Chunk, word + word shapes + cluster + w2v)</td>
     <td>93.93</td>
     <td><a href="https://arxiv.org/pdf/1803.04375.pdf">Pham CICLing'18</a></td>
     <td></td>
