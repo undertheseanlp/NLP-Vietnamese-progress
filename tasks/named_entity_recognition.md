@@ -69,7 +69,7 @@ The size of VLSP 2018 dataset
     <td></td>
   </tr>
   <tr>
-    <td>vietner<br>CRFs (ngrams + word shapes + cluster + w2v)</td>
+    <td>vietner<br>CRF (ngrams + word shapes + cluster + w2v)</td>
     <td>76.63</td>
     <td><a href="https://arxiv.org/pdf/1803.08463.pdf">Pham et al. VLSP'18</a></td>
     <td><a href="https://github.com/minhpqn/vietner">Official</a></td>
@@ -119,7 +119,7 @@ Without gold POS and chunking tags
     <td></td>
   </tr>
   <tr>
-    <td>vietner<br>CRFs (ngrams + word shapes + cluster + w2v)</td>
+    <td>vietner<br>CRF (ngrams + word shapes + cluster + w2v)</td>
     <td>90.03</td>
     <td><a href="https://arxiv.org/pdf/1803.04375.pdf">Pham CICLing'18</a></td>
     <td><a href="https://github.com/minhpqn/vietner">Official</a></td>
@@ -142,7 +142,7 @@ With gold POS and chunking tags
     <th>Code</th>
   </tr>
   <tr>
-    <td>BiLSTM-CRFs + POS + Chunk</td>
+    <td>BiLSTM-CRF + POS + Chunk</td>
     <td>94.88</td>
     <td><a href="https://arxiv.org/pdf/1811.03754.pdf">Nguyen et al. 2018</a></td>
     <td><a href="https://github.com/duongna21/VNsequencelabeling">Official</a></td>
@@ -154,7 +154,7 @@ With gold POS and chunking tags
     <td></td>
   </tr>
   <tr>
-    <td>NNVLP (BiLSTM-CNN-CRFs)</td>
+    <td>NNVLP (BiLSTM-CNN-CRF)</td>
     <td>92.91</td>
     <td><a href="https://arxiv.org/pdf/1708.07241.pdf">Pham et al. IJCNLP'17</a></td>
     <td><a href="https://github.com/pth1993/NNVLP">Official</a></td>
@@ -174,7 +174,7 @@ With gold POS and chunking tags
     <td></td>
   </tr>
   <tr>
-    <td>BiLSTM-CNN-CRFs</td>
+    <td>BiLSTM-CNN-CRF</td>
     <td>88.59</td>
     <td><a href="https://arxiv.org/pdf/1705.04044.pdf">Pham et al. PACLIC'17</a></td>
     <td></td>
@@ -193,13 +193,13 @@ With gold POS and chunking tags
     <td></td>
   </tr>
   <tr>
-    <td>BiLSTM CRFs</td>
+    <td>BiLSTM-CRF</td>
     <td>83.25</td>
     <td><a href="https://drive.google.com/file/d/16M0Ry_dHFOY5njVhqy4NV0G2-bfTq6Qt/view?usp=sharing">Nguyen et al. VLSP'16</a></td>
     <td></td>
   </tr>
   <tr>
-    <td>CRFs</td>
+    <td>CRF</td>
     <td>78.38</td>
     <td>
       <a href="https://drive.google.com/file/d/1vg9Bvu6HgiO7KDiKKAPZz9dL3VmlON1I/view?usp=sharing">Le et al. VLSP'16</a>
