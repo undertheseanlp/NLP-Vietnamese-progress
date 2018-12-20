@@ -34,9 +34,13 @@
 
 ## Miscellaneous
 
-* :scroll: Papers: [Nguyen et al. 2016](https://ieeexplore.ieee.org/document/7758049/), [Le et al. 2015](https://link.springer.com/chapter/10.1007/978-3-319-25660-3_22), [Nguyen et al. KSE'15](https://ieeexplore.ieee.org/document/7371762/)
+:scroll: **Papers**
 
-* :dizzy: Services: [OpenFPT: Vitk (2017)](http://doc.openfpt.vn/#vitk)
+* [Nguyen et al. KSE'18](https://drive.google.com/file/d/1NSJTaGUlbj_IOh7OU3_A_R172v772dvi/view?usp=sharing)
+* [Nguyen et al. 2016](https://ieeexplore.ieee.org/document/7758049/)
+* [Le et al. 2015](https://link.springer.com/chapter/10.1007/978-3-319-25660-3_22), [Nguyen et al. KSE'15](https://ieeexplore.ieee.org/document/7371762/)
+
+:dizzy: Services: [OpenFPT: Vitk (2017)](http://doc.openfpt.vn/#vitk)
 
 :file_folder: **Open sources**
 
