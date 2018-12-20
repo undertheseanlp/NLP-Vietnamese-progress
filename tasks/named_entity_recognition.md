@@ -212,7 +212,10 @@ With gold POS and chunking tags
 
 :scroll: **Papers**
 
-* [Pham et al. PACLIC'17](https://arxiv.org/pdf/1705.10610.pdf), [Pham et al. IJCNLP'17](https://arxiv.org/pdf/1708.07241.pdf), [Le et al. KSE'17](https://arxiv.org/pdf/1708.09163.pdf)
+* [Pham et al. KSE'18](https://drive.google.com/file/d/1LzAJJAVG60iQo9WEzV4SxIi8izQmkUS9/view?usp=sharing),
+[Pham et al. PACLIC'17](https://arxiv.org/pdf/1705.10610.pdf),
+[Pham et al. IJCNLP'17](https://arxiv.org/pdf/1708.07241.pdf),
+[Le et al. KSE'17](https://arxiv.org/pdf/1708.09163.pdf)
 * [Nguyen et al. 2010](https://pdfs.semanticscholar.org/931a/f0c14c6f32c7e6782cde1007fdddcd3e18c2.pdf?_ga=2.249289476.26579401.1520334621-721084246.1519381355)
 * [Tran et al. 2007](https://pdfs.semanticscholar.org/32ec/df1774d24d2461615e5eb448668dfe2a8647.pdf?_ga=2.53162539.26579401.1520334621-721084246.1519381355), [Pham et al. 2007](https://www.semanticscholar.org/paper/Named-entity-recognition-in-Vietnamese-using-class-Thao-Tri/a6aeb599a261a5e077ad430a30b448d41a927132)
 
