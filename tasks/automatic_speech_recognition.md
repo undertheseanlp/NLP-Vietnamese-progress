@@ -39,6 +39,11 @@ The test set was composed of 796 continuous wav files of news speech for a total
 
 ## Miscellaneous
 
+:scroll: **Papers**
+
+* [Nguyen et al. SoICT'18, Development of a Vietnamese Large Vocabulary Continuous
+Speech Recognition System under Noisy Conditions](https://drive.google.com/file/d/1Vqxcy11o8_HY_xItrS416vvw-e1fm6uk/view?usp=sharing)
+
 :dizzy: **Services**
 
 * [vtcc.ai ASR (2018-)](https://vtcc.ai/asr)
