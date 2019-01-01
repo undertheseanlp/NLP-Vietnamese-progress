@@ -73,11 +73,11 @@ Dataset
 <table>
   <tr>
     <th>Model</th>
-    <th>Accuracy (%)</th>
-    <th>Paper</th>
+    <th>Accuracy</th>
     <th>Method</th>
     <th>Reference</th>
     <th>Code</th>
+    <th>Note</th>
   </tr>
   <tr>
     <td>VNTagger</td>
