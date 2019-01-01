@@ -34,7 +34,7 @@ Vietnamese dependency Treebank namely VnDT contains 10200 sentences. The VnDT Tr
     <td>JointWPD</td>
     <td>70.50</td>
     <td>77.04</td>
-    <td><a href="https://arxiv.org/pdf/1812.11459.pdf">Nguyen et al. arxiv'18</a></td>
+    <td><a href="https://arxiv.org/pdf/1812.11459.pdf">Nguyen 2018</a></td>
     <td></td>
     <td></td>
   </tr>
