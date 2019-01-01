@@ -13,8 +13,8 @@ Test data: 2120 test sentences from the VLSP 2013 POS tagging shared task.
   <tr>
     <th>Model</th>
     <th>Accuracy</th>
-    <th>Paper</th>
-    <th>Source</td>
+    <th>Method</th>
+    <th>Reference</td>
     <th>Code</th>
   </tr>
   <tr>
