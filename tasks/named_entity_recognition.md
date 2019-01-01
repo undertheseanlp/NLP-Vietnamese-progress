@@ -65,7 +65,7 @@ The size of VLSP 2018 dataset
    <tr>
     <td>VNER<br>Attentive Neural Network</td>
     <td>77.52</td>
-    <td><a href="https://arxiv.org/pdf/1810.13097.pdf">Dong et al. 2018</a></td>
+    <td><a href="https://arxiv.org/pdf/1810.13097.pdf">Dong et al. '18</a></td>
     <td></td>
   </tr>
   <tr>
@@ -115,7 +115,7 @@ Without gold POS and chunking tags
   <tr>
     <td>VNER<br>Attentive Neural Network</td>
     <td>90.37</td>
-    <td><a href="https://arxiv.org/pdf/1810.13097.pdf">Dong et al. 2018</a></td>
+    <td><a href="https://arxiv.org/pdf/1810.13097.pdf">Dong et al. '18</a></td>
     <td></td>
   </tr>
   <tr>
