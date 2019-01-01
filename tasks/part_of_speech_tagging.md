@@ -20,7 +20,7 @@ Test data: 2120 test sentences from the VLSP 2013 POS tagging shared task.
   <tr>
     <td>BiLSTM-CRFs</td>
     <td>96.30</td>
-    <td><a href="https://arxiv.org/pdf/1811.03754.pdf">Nguyen et al. 2018</a></td>
+    <td><a href="https://arxiv.org/pdf/1811.03754.pdf">Nguyen et al. '18</a></td>
     <td></td>
     <td><a href="https://github.com/duongna21/VNsequencelabeling">Official</a></td>
   </tr>
