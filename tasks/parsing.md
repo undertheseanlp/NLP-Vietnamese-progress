@@ -11,7 +11,8 @@ BKTreebank 1.0 contains 6,900 sentences annotated with POS tagging and dependenc
 
 Vietnamese dependency Treebank namely VnDT contains 10200 sentences. The VnDT Treebank is formatted following 10-column data format as proposed by the CoNLL shared tasks on multilingual dependency parsing.
 
-* :scroll: [VnDT paper (Nguyen et al. 2014)](https://people.eng.unimelb.edu.au/dqnguyen/resources/NLDB2014.pdf)
+* :scroll: [VnDT paper (Nguyen et al. NLDB'14)](https://people.eng.unimelb.edu.au/dqnguyen/resources/NLDB2014.pdf)
+* :link: [VnDT website](http://vndp.sourceforge.net/)
 
 ### Leaderboard
 
