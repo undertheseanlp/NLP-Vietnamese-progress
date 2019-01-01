@@ -10,8 +10,8 @@ The training set consists of 75k manually word-segmented sentences (about 23 wor
   <tr>
     <th>Model</th>
     <th>F1</th>
-    <th>Paper</th>
-    <th>Source</th>
+    <th>Method</th>
+    <th>Reference</th>
     <th>Code</th>
   </tr>
   <tr>
@@ -22,10 +22,17 @@ The training set consists of 75k manually word-segmented sentences (about 23 wor
     <td><a href="https://github.com/vncorenlp/VnCoreNLP">Official</a></td>
   </tr>
   <tr>
-    <td>RDRsegmenter</td>
+    <td>jPTDP-v2</td>
     <td>97.90</td>
-    <td><a href="http://www.lrec-conf.org/proceedings/lrec2018/pdf/55.pdf">Nguyen et al. LREC'18</a></td>
-    <td></td>
+    <td><a href="http://www.aclweb.org/anthology/K18-2008">Nguyen et al. CoNLL'18</a></td>
+    <td><a href="https://arxiv.org/pdf/1812.11459.pdf">Nguyen et al. arxiv'18</a></td>
+    <td><a href="https://github.com/vncorenlp/VnCoreNLP">Official</a></td>
+  </tr>
+   <tr>
+    <td>Biaffine</td>
+    <td>97.90</td>
+    <td><a href="https://arxiv.org/pdf/1611.01734.pdf">Dozat and Manning ICLR'17</a></td>
+    <td><a href="https://arxiv.org/pdf/1812.11459.pdf">Nguyen et al. arxiv'18</a></td>
     <td><a href="https://github.com/vncorenlp/VnCoreNLP">Official</a></td>
   </tr>
   <tr>
