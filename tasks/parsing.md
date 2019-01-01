@@ -31,6 +31,14 @@ Vietnamese dependency Treebank namely VnDT contains 10200 sentences. The VnDT Tr
     <td><a href="https://github.com/vncorenlp/VnCoreNLP">Official</a></td>
   </tr>
   <tr>
+    <td>Biaffine</td>
+    <td>71.73</td>
+    <td>78.45</td>
+    <td><a href="https://arxiv.org/pdf/1611.01734.pdf">Dozat and Manning ICLR'17</a></td>
+    <td><a href="https://arxiv.org/pdf/1812.11459.pdf">Nguyen '18</a></td>
+    <td></td>
+  </tr>
+  <tr>
     <td>JointWPD</td>
     <td>70.50</td>
     <td>77.04</td>
@@ -38,6 +46,14 @@ Vietnamese dependency Treebank namely VnDT contains 10200 sentences. The VnDT Tr
     <td></td>
     <td></td>
   </tr>
+  <tr>
+    <td>jPTDP-v2</td>
+    <td>69.81</td>
+    <td>76.60</td>
+    <td><a href="http://www.aclweb.org/anthology/K18-2008">Nguyen et al. CoNLL'18</a></td>
+    <td><a href="https://arxiv.org/pdf/1812.11459.pdf">Nguyen '18</a></td>
+    <td><a href="https://github.com/datquocnguyen/jPTDP">Official</a></td>
+  </tr> 
   <tr>
     <td>VnCoreNLP (unsegmented)</td>
     <td>67.79</td>
