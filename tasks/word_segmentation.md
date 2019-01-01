@@ -1,12 +1,8 @@
 # Word Segmentation
 
-## Vietnamese treebank
+## VLSP 2013
 
 The training set consists of 75k manually word-segmented sentences (about 23 words per sentence in average). The test set consists of 2120 sentences (about 31 words per sentence) in 10 files from 800001.seg to 800010.seg.
-
-**References**
-
-* :scroll: [Vietnamese Treebank paper (Nguyen et al. 2009)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.164.6770&rep=rep1&type=pdf)
 
 ### Leaderboard
 
@@ -30,6 +26,12 @@ The training set consists of 75k manually word-segmented sentences (about 23 wor
     <td><a href="https://github.com/phongnt570/UETsegmenter">Official</a></td>
   </tr>
   <tr>
+    <td>JointWPD</td>
+    <td>97.78</td>
+    <td><a href="https://arxiv.org/pdf/1812.11459.pdf">Nguyen et al. arxiv'18</a></td>
+    <td></td>
+  </tr>
+  <tr>
     <td>vnTokenizer</td>
     <td>97.33</td>
     <td><a href="https://link.springer.com/chapter/10.1007/978-3-540-88282-4_23">Le et al. LATA'08</a></td>
@@ -50,6 +52,12 @@ The training set consists of 75k manually word-segmented sentences (about 23 wor
     <td><a href="http://viet.jnlp.org/dongdu">Official</a></td>
   </tr>
 </table>
+
+## VietTreeBank
+
+**References**
+
+* :scroll: [Vietnamese Treebank paper (Nguyen et al. 2009)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.164.6770&rep=rep1&type=pdf)
 
 ## Miscellaneous
 
