@@ -7,6 +7,8 @@
 
 ## Vietnamese Dependency Treebank VnDT
 
+Vietnamese dependency Treebank namely VnDT contains 10200 sentences. The VnDT Treebank is formatted following 10-column data format as proposed by the CoNLL shared tasks on multilingual dependency parsing.
+
 * :scroll: [VnDT paper (Nguyen et al. 2014)](https://people.eng.unimelb.edu.au/dqnguyen/resources/NLDB2014.pdf)
 
 ### Leaderboard
@@ -16,7 +18,8 @@
     <th>Model</th>
     <th>LAS</th>
     <th>UAS</th>
-    <th>Paper/Source</th>
+    <th>Method</th>
+    <th>Reference</th>
     <th>Code</th>
   </tr>
   <tr>
@@ -24,7 +27,24 @@
     <td>73.39</td>
     <td>79.02</td>
     <td><a href="http://aclweb.org/anthology/N18-5012">Nguyen et al. NAACL'18</a></td>
+    <td></td>
     <td><a href="https://github.com/vncorenlp/VnCoreNLP">Official</a></td>
+  </tr>
+  <tr>
+    <td>VnCoreNLP (unsegmented)</td>
+    <td>67.79</td>
+    <td>74.24</td>
+    <td><a href="http://aclweb.org/anthology/N18-5012">Nguyen et al. NAACL'18</a></td>
+    <td><a href="https://arxiv.org/pdf/1812.11459.pdf">Nguyen et al. arxiv'18</a></td>
+    <td><a href="https://github.com/vncorenlp/VnCoreNLP">Link</a></td>
+  </tr>
+  <tr>
+    <td>JointWPD</td>
+    <td>70.50</td>
+    <td>77.04</td>
+    <td><a href="https://arxiv.org/pdf/1812.11459.pdf">Nguyen et al. arxiv'18</a></td>
+    <td></td>
+    <td></td>
   </tr>
 </table>
 
