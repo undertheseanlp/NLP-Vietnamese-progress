@@ -134,6 +134,7 @@ Dataset
 
 :scroll: **Papers**
 
+* [Nguyen et al. NICS'18. Building Vietnamese Linguistic Resources for Social Network Text Analysis](https://drive.google.com/file/d/1V6zFx7p-tLV6ZRiyLhVvbjI12PKyQnmF/view?usp=sharing)
 * [Nguyen et al. ALTA'17](https://arxiv.org/pdf/1711.04951.pdf),
 [Nguyen et al. 2015](https://arxiv.org/pdf/1412.4021.pdf)
 * [Nguyen et al. 2014](http://www.aclweb.org/anthology/E14-2005),
