@@ -1,5 +1,88 @@
 # Machine Translation
 
+## Ngo et al. KSE'18 dataset
+
+Japanese-Vietnamese parallel data is collected from TED talks extracted from WIT3’s corpus. After removing blank
+and duplicate lines, there are 106758 pairs of sentences. The validation set used in all experiments is dev2010 and the test set is tst2010
+
+**Vietnamese - Japanese**
+
+<table>
+  <tr>
+    <th>Model</th>
+    <th>BLEU</th>
+    <th>Method</th>
+    <th>Reference</th>
+    <th>Code</th>
+  </tr>
+  <tr>
+    <td>NMT + JPBPE + VNBPE</td>
+    <td>11.13</td>
+     <td>
+      <a href="https://arxiv.org/pdf/1805.07133.pdf">Ngo et al. KSE'18</a>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>NMT Baseline</td>
+    <td>9.39</td>
+    <td></td>
+     <td>
+      <a href="https://arxiv.org/pdf/1805.07133.pdf">Ngo et al. KSE'18</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>SMT Baseline</td>
+    <td>8.73</td>
+    <td></td>
+     <td>
+      <a href="https://arxiv.org/pdf/1805.07133.pdf">Ngo et al. KSE'18</a>
+    </td>
+    <td></td>
+  </tr>
+</table>
+
+**Japanese - Vietnamese**
+
+<table>
+  <tr>
+    <th>Model</th>
+    <th>BLEU</th>
+    <th>Method</th>
+    <th>Reference</th>
+    <th>Code</th>
+  </tr>
+  <tr>
+    <td>NMT + JPBPE + VNBPE + Back Translation + Mix-Source</td>
+    <td>9.64</td>
+    <td>
+      <a href="https://arxiv.org/pdf/1805.07133.pdf">Ngo et al. KSE'18</a>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>NMT Baseline</td>
+    <td>8.18</td>
+    <td></td>
+    <td>
+      <a href="https://arxiv.org/pdf/1805.07133.pdf">Ngo et al. KSE'18</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>SMT Baseline</td>
+    <td>7.73</td>
+    <td></td>
+    <td>
+      <a href="https://arxiv.org/pdf/1805.07133.pdf">Ngo et al. KSE'18</a>
+    </td>
+    <td></td>
+  </tr>
+</table>
+
 ## IWSLT 2015 Evaluation Campaign
 
 [IWSLT 2015](http://workshop2015.iwslt.org/): The IWSLT 2015 Evaluation Campaign featured three tracks: automatic speech recognition (ASR), spoken language translation (SLT), and machine translation (MT). For ASR we offered two tasks, on English and German, while for SLT and MT a number of tasks were proposed, involving English, German, French, Chinese, Czech, Thai, and Vietnamese.
