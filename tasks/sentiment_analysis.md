@@ -97,6 +97,11 @@ A review can be very complex with different sentiments on various objects. There
 * Label (positive/negative/neutral) is the overall sentiment of the whole review.
 * The dataset contains only real data collected from social media, not artificially created by human.
 
+5100 sentences for training, 1050 sentences for testing
+
+* Train: 1700 positive, 1700 neutral, 1700 negative
+* Test: 350 positive, 350 neutral, 350 negative
+
 ### Leaderboard
 
 <table>
@@ -122,6 +127,12 @@ A review can be very complex with different sentiments on various objects. There
     <td>Ensemble: Random forest, SVM, Naive Bayes</td>
     <td>71.22</td>
     <td><a href="https://drive.google.com/file/d/1V87Z0Jjgt47nqcN8BaDLU5TLAqzUn1pN/view?usp=sharing">Pham et al. VLSP'16</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Ensemble: SVM, LR, LSTM, CNN</td>
+    <td>69.71</td>
+    <td><a href="https://drive.google.com/file/d/102zjgYYLphgiqR7GuoXbiJN69pXSQ0hl/view?usp=sharing">Nguyen et al. NICS'18</a></td>
     <td></td>
   </tr>
   <tr>
