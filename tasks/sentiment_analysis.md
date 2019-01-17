@@ -94,7 +94,7 @@ Students’ feedback is a vital resource for the interdisciplinary research invo
     <td>0.69</td>
     <td></td>
     <td>
-      <a href="https://drive.google.com/file/d/1-3HYFHjDv1R-H5HOIC9es1Xd-gBEtcZ9/view?usp=sharing">Nguyen et al. VLSP'18</a>
+      <a href="https://drive.google.com/file/d/1mioRMEkPzkk9V_aDZgBaEG1vxWVd4iT1/view?usp=sharing">Dang et al. NICS'18</a>
     </td>
     <td></td>
   </tr>
