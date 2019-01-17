@@ -195,6 +195,7 @@ A review can be very complex with different sentiments on various objects. There
 
 :scroll: **Papers**
 
+* [Huynh et al. NICS'18. Integrating Grammatical Features into CNN Model for Emotion Classification](https://drive.google.com/file/d/167e2Oo68l0mxokw-ZLzCEPyHW0S-n300/view?usp=sharing)
 * [Pham et al. 2016](http://www.indjst.org/index.php/indjst/article/viewFile/93164/69662), [Ngo et al. SoICT'16](https://www.semanticscholar.org/paper/Cross-domain-sentiment-classification-with-word-and-Bach-Hai/41f67072e52ae0b4902a4ea7f98db521a3c3dd3b), [Pham et al. KSE'16](https://ieeexplore.ieee.org/document/7758052/), [Tran et al. 2016](http://www.indjst.org/index.php/indjst/article/viewFile/97360/71787)
 * [Kieu et al. KSE'10](https://drive.google.com/file/d/1rYQYyAxEOabxKa7Y6C3TDuxLHDz7OD9P/view?usp=sharing)
 
