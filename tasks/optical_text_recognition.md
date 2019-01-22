@@ -186,7 +186,22 @@ Given an image of a handwritten line, participants are required to create an OCR
 
 ### Leaderboard
 
-TBD
+<table>
+  <tr>
+    <th>Model</th>
+    <th>WER</th>
+    <th>Method</th>
+    <th>Reference</th>
+    <th>Code</th>
+  </tr>
+  <tr>
+    <td>CRNN</td>
+    <td>0.1</td>
+    <td><a href="https://pbcquoc.github.io/vietnamese-ocr/">Blog Post</a></td>
+    <td></td>
+    <td><a href="https://github.com/pbcquoc/vietnamese_ocr">Official</a></td>
+  </tr>
+</table>
 
 ## Miscellaneous
 
