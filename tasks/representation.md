@@ -22,6 +22,7 @@ The two datasets are verified through standard co-occurrence and neural network 
 
 :file_folder: **Word Vectors**
 
+* [vietnlp/etnlp](https://github.com/vietnlp/etnlp) - A toolkit to evaluate, extract, and visualize multiple embeddings
 * [Kyubyong/wordvectors](https://github.com/Kyubyong/wordvectors) `resource`
 * [facebookresearch/fastText](https://github.com/facebookresearch/fastText) `resource`
 * [sonvx/word2vecVN](https://github.com/sonvx/word2vecVN) `resource`
