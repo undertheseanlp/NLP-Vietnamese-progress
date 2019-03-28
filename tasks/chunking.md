@@ -22,7 +22,7 @@ Labels: NP, VP, PP, AP, QP, RP
   <tr>
     <td>NNVLP</td>
     <td>84.11</td>
-    <td><a href="http://aclweb.org/anthology/N18-5012">Pham et al. IJCNLP'17</a></td>
+    <td><a href="https://arxiv.org/pdf/1708.07241.pdf">Pham et al. IJCNLP'17</a></td>
     <td><a href="https://github.com/pth1993/NNVLP">Official</a></td>
   </tr>
   <tr>
