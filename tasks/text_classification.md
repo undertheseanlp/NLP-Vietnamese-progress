@@ -1,5 +1,9 @@
 # Text Classification
 
+Text classification algorithms are at the heart of a variety of software systems that process text data at scale. Email software uses text classification to determine whether incoming mail is sent to the inbox or filtered into the spam folder. Discussion forums use text classification to determine whether comments should be flagged as inappropriate.
+
+These are two examples of topic classification, categorizing a text document into one of a predefined set of topics. In many topic classification problems, this categorization is based primarily on keywords in the text.
+
 ## VNTC 
 
 * :scroll: [VNTC paper (Vu et al. RIVF'07)](http://docshare01.docshare.tips/files/4624/46242178.pdf)
