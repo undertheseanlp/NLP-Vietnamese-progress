@@ -17,7 +17,7 @@ Example:
 
 * :link: [VLSP 2018 Shared Task: Named Entity Recognition Website](http://vlsp.org.vn/vlsp2018/eval/ner)
 * :scroll: [VLSP 2018 Shared Task: Named Entity Recognition Paper](http://vjs.ac.vn/index.php/jcc/article/view/13161/103810382796)
-* :file_folder: [VLSP 2018 Shared Task: Annotation Guide lines](https://drive.google.com/file/d/1wVdfkWgsRgTiXA4b_G8OGeugP03YBSrg/view?usp=sharing)
+* :file_folder: [VLSP 2018 Shared Task: Annotation Guidelines](https://drive.google.com/file/d/1wVdfkWgsRgTiXA4b_G8OGeugP03YBSrg/view?usp=sharing)
 
 The size of VLSP 2018 dataset
 
