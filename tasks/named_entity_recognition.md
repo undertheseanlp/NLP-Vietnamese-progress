@@ -25,32 +25,32 @@ The size of VLSP 2018 dataset
   <tr>
     <th>Type</th>
     <th>Train</th>
-    <th>Test</th>
     <th>Dev</th>
+    <th>Test</th>
   </tr>
   <tr>
     <td>LOC</td>
     <td>8,831</td>
-    <td>2,525</td>
     <td>3,043</td>
+    <td>2,525</td>
   </tr>
   <tr>
     <td>ORG</td>
     <td>3,471</td>
-    <td>1,616</td>
     <td>1,203</td>
+    <td>1,616</td>
   </tr>
   <tr>
     <td>PER</td>
     <td>6,427</td>
-    <td>3,518</td>
     <td>2,168</td>
+    <td>3,518</td>
   </tr>
   <tr>
     <td>MISC</td>
     <td>805</td>
-    <td>296</td>
     <td>179</td>
+    <td>296</td>
   </tr>
 </table>
 
