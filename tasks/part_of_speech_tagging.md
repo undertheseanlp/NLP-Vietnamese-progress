@@ -18,13 +18,6 @@ Test data: 2120 test sentences from the VLSP 2013 POS tagging shared task.
     <th>Code</th>
   </tr>
   <tr>
-    <td>BiLSTM-CRFs</td>
-    <td>96.30</td>
-    <td><a href="https://arxiv.org/pdf/1811.03754.pdf">Nguyen et al. '18</a></td>
-    <td></td>
-    <td><a href="https://github.com/duongna21/VNsequencelabeling">Official</a></td>
-  </tr>
-  <tr>
     <td>VnMarMoT</td>
     <td>95.88</td>
     <td><a href="http://aclweb.org/anthology/N18-5012">Nguyen et al. NAACL'18</a></td>
@@ -65,6 +58,13 @@ Test data: 2120 test sentences from the VLSP 2013 POS tagging shared task.
     <td><a href="https://arxiv.org/pdf/1812.11459.pdf">Nguyen '18</a></td>
     <td></td>
     <td></td>
+  </tr>
+  <tr>
+    <td>BiLSTM-CRFs</td>
+    <td>93.52</td>
+    <td><a href="https://arxiv.org/pdf/1811.03754.pdf">Nguyen et al. '18</a></td>
+    <td></td>
+    <td><a href="https://github.com/duongna21/VNsequencelabeling">Official</a></td>
   </tr>
 </table>
 
