@@ -85,6 +85,7 @@ Dataset
     <td><a href="https://arxiv.org/pdf/1811.03754.pdf">Nguyen et al. '18</a></td>
     <td></td>
     <td><a href="https://github.com/duongna21/VNsequencelabeling">Official</a></td>
+    <td>10-fold CV</td>
   </tr>
   <tr>
     <td>VNTagger</td>
