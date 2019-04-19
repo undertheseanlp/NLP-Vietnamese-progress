@@ -55,7 +55,7 @@ Test data: 2120 test sentences from the VLSP 2013 POS tagging shared task.
  <tr>
     <td>JointWPD</td>
     <td>94.03</td>
-    <td><a href="https://arxiv.org/pdf/1812.11459.pdf">Nguyen '18</a></td>
+    <td><a href="https://arxiv.org/pdf/1812.11459.pdf">Nguyen et al. '18</a></td>
     <td></td>
     <td></td>
   </tr>
