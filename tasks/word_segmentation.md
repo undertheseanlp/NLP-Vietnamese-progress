@@ -102,6 +102,7 @@ The training set consists of 75k manually word-segmented sentences (about 23 wor
 
 :file_folder: **Open sources**
 
+* [coccoc/coccoc-tokenizer (2019)](https://github.com/coccoc/coccoc-tokenizer) `c++`
 * [vncorenlp/VnCoreNLP (2018)](https://github.com/vncorenlp/VnCoreNLP) `java`
 * [datquocnguyen/RDRsegmenter (2017)](https://github.com/datquocnguyen/RDRsegmenter) `java`
 * [UETsegmenter (2016)](https://github.com/phongnt570/UETsegmenter)  `java`
