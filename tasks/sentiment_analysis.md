@@ -1,8 +1,8 @@
 # Sentiment Analysis
 
-## AIVIVN Sentiment Analysis Challenge 2019 
+## AIVIVN 2019: Sentiment Analysis Challenge
 
-* :link: [AIVIVN Sentiment Analysis Challenge 2019  website](https://www.aivivn.com/contests/1)
+* :link: [AIVIVN 2019: Sentiment Analysis Challenge 2019  website](https://www.aivivn.com/contests/1)
 
 The data contains user's reviews following two categories: "positive" and "negative"
 
