@@ -6,9 +6,9 @@
 
 The data contains user's reviews following two categories: "positive" and "negative"
 
-27219 sentences
+27068 sentences
 
-* Train: 16238 sentences, Test: 10981 sentences (public: 5454 sentences, private: 5527 sentences)
+* Train: 16087 sentences, Test: 10981 sentences (public: 5454 sentences, private: 5527 sentences)
 * Labels: 0 (positive), 1 (negative)
 
 ### Leaderboard
