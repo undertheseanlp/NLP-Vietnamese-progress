@@ -59,7 +59,7 @@ Score: F1 score of negative labels
   </tr>
   <tr>
     <td>nlpers</td>
-    <td>Ensemble (LinearSVC, SGD, RandomForest)</td>
+    <td>Ensemble<br>(LinearSVC, SGD, RandomForest)</td>
     <td>0.88921</td>
     <td>0.89559</td>
     <td>
