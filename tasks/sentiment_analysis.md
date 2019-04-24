@@ -1,5 +1,75 @@
 # Sentiment Analysis
 
+## AIVIVN Sentiment Analysis Challenge 2019 
+
+* :link: [AIVIVN Sentiment Analysis Challenge 2019  website](https://www.aivivn.com/contests/1)
+
+The data contains user's reviews following two categories: "positive" and "negative"
+
+Over 65k sentences
+
+* Train: 16238 sentences, Public Test: 10981 sentences
+* Labels: 0 (positive), 1 (negative)
+
+### Leaderboard
+
+Score: F1 score of negative labels
+
+<table>
+  <tr>
+    <th rowspan="2">Author</th>
+    <th rowspan="2">Model</th>
+    <th colspan="2">Score</th>
+    <th rowspan="2">Paper/Source</th>
+    <th rowspan="2">Code</th>
+  </tr>
+  <tr>
+    <td>Public Test</td>
+    <td>Private Test</td>
+  </tr>
+  <tr>
+    <td>HoangNhat2</td>
+    <td>Weighted Ensemble<br>(TextCNN, VDCNN, HARNN, SARNN)</td>
+    <td>0.90087</td>
+    <td>0.90012</td>
+    <td>
+      <a href="https://forum.machinelearningcoban.com/t/1st-place-solution-phan-loai-sac-thai-binh-luan/4504">Write up</a>
+    </td>
+    <td><a href="https://github.com/petrpan26/Aivivn_1">Official</a></td>
+  </tr>
+  <tr>
+    <td>iota</td>
+    <td>SVM</td>
+    <td>0.8914</td>
+    <td>0.89688</td>
+    <td>
+      <a href="https://forum.machinelearningcoban.com/t/svm-model-cho-phan-loai-sac-thai-binh-luan-3rd-place-solution/4510">Write up</a>
+    </td>
+    <td><a href="https://github.com/iotadesu/aivivn-sentiment-svm">Official</a></td>
+  </tr>
+  <tr>
+    <td>Nal_AI</td>
+    <td>SVM (TF-IDF)</td>
+    <td>0.89545</td>
+    <td>0.89574</td>
+    <td>
+      <a href="https://forum.machinelearningcoban.com/t/chia-se-model-sentiment-analysis-aivivn-com-top-5/4537">Write up</a>
+    </td>
+    <td><a href="https://github.com/swordmanager/sentiment_analysis_nal">Official</a></td>
+  </tr>
+  <tr>
+    <td>nlpers</td>
+    <td>Ensemble (LinearSVC, SGD, RandomForest)</td>
+    <td>0.88921</td>
+    <td>0.89559</td>
+    <td>
+      <a href="https://forum.machinelearningcoban.com/t/mo-hinh-ensemble-don-gian-cho-phan-loai-sac-thai-binh-luan-7th-place-solution/4507">Write up</a>
+    </td>
+    <td><a href="https://github.com/minhpqn/aivivn_1_ensemble_7th_place">Official</a></td>
+  </tr>
+</table>
+
+
 ## Vietnamese Students’ Feedback Corpus (UIT-VSFC)
 
 * :scroll: [UIT-VSFC: Vietnamese Students’ Feedback Corpus for Sentiment Analysis](https://drive.google.com/file/d/1flr5ew6thRFw4emMx5hWlAS3gUYBp8bI/view?usp=sharing)
