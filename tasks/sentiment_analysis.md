@@ -67,6 +67,16 @@ Score: F1 score of negative labels
     </td>
     <td><a href="https://github.com/minhpqn/aivivn_1_ensemble_7th_place">Official</a></td>
   </tr>
+  <tr>
+    <td>ngxbac</td>
+    <td>LightGBM (TFIDF)</td>
+    <td>0.867</td>
+    <td></td>
+    <td>
+      <a href="https://forum.machinelearningcoban.com/t/feature-engineering-stacking-va-ensemble-cho-cuoc-thi-phan-loai-sac-thai-binh-luan/4298">Write up</a>
+    </td>
+    <td><a href="https://github.com/ngxbac/aivivn_phanloaisacthaibinhluan">Official</a></td>
+  </tr>
 </table>
 
 
