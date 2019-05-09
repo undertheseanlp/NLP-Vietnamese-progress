@@ -143,6 +143,12 @@ With gold POS and chunking tags
     <th>Code</th>
   </tr>
   <tr>
+    <td>VNER<br>Attentive Neural Network</td>
+    <td>95.33</td>
+    <td><a href="https://arxiv.org/pdf/1810.13097.pdf">Dong et al. '18</a></td>
+    <td></td>
+  </tr>
+  <tr>
     <td>BiLSTM-CRF + POS + Chunk</td>
     <td>94.88</td>
     <td><a href="https://arxiv.org/pdf/1811.03754.pdf">Nguyen et al. 2018</a></td>
