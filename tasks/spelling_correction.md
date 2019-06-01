@@ -5,7 +5,7 @@
 :scroll: **Papers**
 
 * [Pham et al. IALP'17. On the Use of Machine Translation-Based Approaches for Vietnamese Diacritic Restoration](https://arxiv.org/pdf/1709.07104.pdf)
-* [Luu et al. IALP'12. A pointwise approach for vietnamese diacritics restoration](http://box.jnlp.org/arc/12/12IALP-anh.pdf)
+* [Luu et al. IALP'12. A Pointwise Approach For Vietnamese Diacritics Restoration](http://box.jnlp.org/arc/12/12IALP-anh.pdf)
 * [Nguyen et al. RIVF'08](https://drive.google.com/file/d/1RjQ7CJ-kJaULAEnIW9sGjDYXbyTDuAxZ/view?usp=sharing)
 
 :dizzy: **Services**
