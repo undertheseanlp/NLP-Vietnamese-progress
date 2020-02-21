@@ -1,5 +1,9 @@
 # Automatic Summarization
 
+## ViMs Dataset
+
+[CLC-HCMUS/ViMs-Dataset](https://github.com/CLC-HCMUS/ViMs-Dataset) - 300 Cụm văn bản tiếng Việt dùng cho tóm tắt đa văn bản *by Nghiêm Quốc Minh (2016)*
+
 ## Vietnamese MDS
 
 [lupanh/VietnameseMDS](https://github.com/lupanh/VietnameseMDS) - 200 Cụm văn bản tiếng Việt dùng cho tóm tắt đa văn bản *by TM Vu (2013)*
