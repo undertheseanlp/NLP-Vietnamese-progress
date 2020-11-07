@@ -18,6 +18,27 @@ Test data: 2120 test sentences from the VLSP 2013 POS tagging shared task.
     <th>Code</th>
   </tr>
   <tr>
+    <td>PhoBERT-large</td>
+    <td>96.8</td>
+    <td><a href="https://arxiv.org/abs/2003.00744">Nguyen et al. ArXiv'20</a></td>
+    <td></td>
+    <td><a href="https://github.com/VinAIResearch/PhoBERT">Official</a></td>
+  </tr>
+  <tr>
+    <td>viBERT</td>
+    <td>96.77</td>
+    <td><a href="https://arxiv.org/abs/2006.15994">Bui et al. ArXiv'20</a></td>
+    <td></td>
+    <td><a href="https://github.com/fpt-corp/viBERT">Official</a></td>
+  </tr>
+  <tr>
+    <td>PhoBERT-base</td>
+    <td>96.7</td>
+    <td><a href="https://arxiv.org/abs/2003.00744">Nguyen et al. ArXiv'20</a></td>
+    <td></td>
+    <td><a href="https://github.com/VinAIResearch/PhoBERT">Official</a></td>
+  </tr>
+  <tr>
     <td>VnMarMoT</td>
     <td>95.88</td>
     <td><a href="http://aclweb.org/anthology/N18-5012">Nguyen et al. NAACL'18</a></td>
