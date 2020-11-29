@@ -1,5 +1,14 @@
 # Representation
 
+## Word Embeddings
+
+* [VinAIResearch/PhoBERT](https://github.com/VinAIResearch/PhoBERT) - Pre-trained language models for Vietnamese
+* [nguyenvulebinh/vietnamese-electra](https://github.com/nguyenvulebinh/vietnamese-electra) - Electra pre-trained model using Vietnamese corpus
+* [vietnlp/etnlp](https://github.com/vietnlp/etnlp) - A toolkit to evaluate, extract, and visualize multiple embeddings
+* [Kyubyong/wordvectors](https://github.com/Kyubyong/wordvectors) `resource`
+* [facebookresearch/fastText](https://github.com/facebookresearch/fastText) `resource`
+* [sonvx/word2vecVN](https://github.com/sonvx/word2vecVN) `resource`
+
 ## ViCon & ViSim-400
 
 ViCon comprises pairs of synonyms and antonyms across word classes, thus offering data to distinguish between similarity and dissimilarity. ViSim-400 provides degrees of similarity across five semantic relations, as rated by human judges.
@@ -19,10 +28,3 @@ The two datasets are verified through standard co-occurrence and neural network 
 :scroll: **Papers**
 
 * [Tran et al. 2016](https://www.slideshare.net/microlife/a-vietnamese-language-model-based-on-recurrent-neural-network-66865054)
-
-:file_folder: **Word Vectors**
-
-* [vietnlp/etnlp](https://github.com/vietnlp/etnlp) - A toolkit to evaluate, extract, and visualize multiple embeddings
-* [Kyubyong/wordvectors](https://github.com/Kyubyong/wordvectors) `resource`
-* [facebookresearch/fastText](https://github.com/facebookresearch/fastText) `resource`
-* [sonvx/word2vecVN](https://github.com/sonvx/word2vecVN) `resource`
