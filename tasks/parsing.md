@@ -15,6 +15,72 @@ Vietnamese dependency Treebank namely VnDT contains 10200 sentences. The VnDT Tr
 * :link: [VnDT website](http://vndp.sourceforge.net/)
 
 ### Leaderboard
+#### VnDT v1.1
+
+<table>
+  <tr>
+    <th>Model</th>
+    <th>LAS</th>
+    <th>UAS</th>
+    <th>Method</th>
+    <th>Reference</th>
+    <th>Code</th>
+  </tr>
+  <tr>
+    <td>PhoBERT-base</td>
+    <td>78.77</td>
+    <td>85.22</td>
+    <td><a href="https://arxiv.org/abs/1907.11692">Liu et al. '18</a></td>
+    <td><a href="https://arxiv.org/abs/2003.00744">Nguyen et al. '20</td>
+    <td><a href="https://github.com/VinAIResearch/PhoBERT">Official</a></td>
+  </tr>
+    <tr>
+    <td>PhoBERT-large</td>
+    <td>77.85</td>
+    <td>84.32</td>
+    <td><a href="https://arxiv.org/abs/1907.11692">Liu et al. '18</a></td>
+    <td><a href="https://arxiv.org/abs/2003.00744">Nguyen et al. '20</td>
+    <td><a href="https://github.com/VinAIResearch/PhoBERT">Official</a></td>
+  </tr>
+    <tr>
+    <td>Biaffine</td>
+    <td>74.99</td>
+    <td>81.19</td>
+    <td><a href="https://arxiv.org/abs/1611.01734">Dozat and Manning ICLR'17</a></td>
+    <td><a href="https://arxiv.org/pdf/1812.11459.pdf">Nguyen '18</td>
+    <td></td>
+  </tr>
+  </tr>
+    <tr>
+    <td>JointWPD</td>
+    <td>73.90</td>
+    <td>80.12</td>
+    <td><a href="https://arxiv.org/pdf/1812.11459.pdf">Nguyen '18</a></td>
+    <td></td>
+    <td></td>
+  </tr>
+  </tr>
+    <tr>
+    <td>jPTDP-v2</td>
+    <td>73.12</td>
+    <td>79.63</td>
+    <td><a href="https://www.aclweb.org/anthology/K18-2008/">Nguyen et al. CoNLL'18</a></td>
+    <td><a href="https://arxiv.org/pdf/1812.11459.pdf">Nguyen '18</td>
+    <td><a href="https://github.com/datquocnguyen/jPTDP">Official</a></td>
+  </tr>
+  </tr>
+    <tr>
+    <td>VnCoreNLP (unsegmented)</td>
+    <td>71.38</td>
+    <td>77.35</td>
+    <td><a href="https://www.aclweb.org/anthology/N18-5012/">Nguyen et al. NAACL'18</a></td>
+    <td><a href="https://arxiv.org/pdf/1812.11459.pdf">Nguyen '18</td>
+    <td><a href="https://github.com/vncorenlp/VnCoreNLP">Official</a></td>
+  </tr>
+</table>
+<table>
+  
+#### VnDT v1.0
 
 <table>
   <tr>
