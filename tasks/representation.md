@@ -2,6 +2,7 @@
 
 ## Word Embeddings
 
+* [fpt-corp/vELECTRA](https://github.com/fpt-corp/vELECTRA) - Pre-trained model for Vietnamese ELECTRA (vELECTRA)
 * [VinAIResearch/PhoBERT](https://github.com/VinAIResearch/PhoBERT) - Pre-trained language models for Vietnamese
 * [datquocnguyen/PhoW2V](https://github.com/datquocnguyen/PhoW2V) - Pre-trained Word2Vec syllable and word embeddings for Vietnamese
 * [nguyenvulebinh/vietnamese-electra](https://github.com/nguyenvulebinh/vietnamese-electra) - Electra pre-trained model using Vietnamese corpus
