@@ -3,6 +3,7 @@
 ## Word Embeddings
 
 * [VinAIResearch/PhoBERT](https://github.com/VinAIResearch/PhoBERT) - Pre-trained language models for Vietnamese
+* [datquocnguyen/PhoW2V](https://github.com/datquocnguyen/PhoW2V) - Pre-trained Word2Vec syllable and word embeddings for Vietnamese
 * [nguyenvulebinh/vietnamese-electra](https://github.com/nguyenvulebinh/vietnamese-electra) - Electra pre-trained model using Vietnamese corpus
 * [vietnlp/etnlp](https://github.com/vietnlp/etnlp) - A toolkit to evaluate, extract, and visualize multiple embeddings
 * [Kyubyong/wordvectors](https://github.com/Kyubyong/wordvectors) `resource`
