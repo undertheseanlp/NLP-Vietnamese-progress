@@ -152,6 +152,14 @@ Dataset
   </tr>
 </table>
 
+## Social Media Text
+
+:scroll: **Papers**
+
+* [Vietnamese POS Tagging for Social Media Text - Ngo et al. 2016](https://www.researchgate.net/publication/309176280_Vietnamese_POS_Tagging_for_Social_Media_Text)
+* [A POS Tagging Model for Vietnamese Social Media Text Using BiLSTM-CRF with Rich Features - Ngo et al. 2019](https://www.researchgate.net/publication/335361630_A_POS_Tagging_Model_for_Vietnamese_Social_Media_Text_Using_BiLSTM-CRF_with_Rich_Features)
+* [An Empirical Study on POS Tagging for Vietnamese Social Media Text - Ngo et al. 2017](https://www.researchgate.net/publication/321940724_An_Empirical_Study_on_POS_Tagging_for_Vietnamese_Social_Media_Text)
+
 ## Miscellaneous
 
 :scroll: **Papers**
@@ -162,7 +170,7 @@ Dataset
 * [Nguyen et al. 2014](http://www.aclweb.org/anthology/E14-2005),
 [Nguyen et al. 2011](https://link.springer.com/chapter/10.1007/978-3-642-19400-9_15),
 [Nguyen et al. 2011](http://ieeexplore.ieee.org/document/6063458/?reload=true), [Nguyen et al. 2010](http://www.aclweb.org/anthology/I11-1035)
-* [Tran et al. 2009](https://www.researchgate.net/publication/309176280_Vietnamese_POS_Tagging_for_Social_Media_Text),
+* [Ngo et al. 2016](https://www.researchgate.net/publication/309176280_Vietnamese_POS_Tagging_for_Social_Media_Text),
 [Phan et al. 2008](http://www.jaist.ac.jp/~bao/VLSP-text/ICTrda08/ICT08-VLSP-SP83.pdf),
 [Nguyen et al. 2006](http://www.vnulib.edu.vn:8000/dspace/bitstream/123456789/1801/1/sedev0206-02.pdf)
 * [Nguyen et al. 2003](http://www.vietlex.com/xu-li-ngon-ngu/50-A_Case_Study_in_POS_Tagging_of_Vietnamese_Texts)
