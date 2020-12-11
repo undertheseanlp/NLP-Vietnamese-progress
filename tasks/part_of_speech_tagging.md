@@ -25,7 +25,7 @@ Test data: 2120 test sentences from the VLSP 2013 POS tagging shared task.
     <td><a href="https://github.com/VinAIResearch/PhoBERT">Official</a></td>
   </tr>
   <tr>
-    <td>viBERT</td>
+    <td>vELECTRA</td>
     <td>96.77</td>
     <td><a href="https://arxiv.org/abs/2006.15994">Bui et al. ArXiv'20</a></td>
     <td></td>
