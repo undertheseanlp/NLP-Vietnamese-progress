@@ -207,4 +207,5 @@ Given an image of a handwritten line, participants are required to create an OCR
 
 :file_folder: **Open sources**
 
+* [pbcquoc/vietocr](https://github.com/pbcquoc/vietocr)
 * [miendinh/VietnameseOCR (2018)](https://github.com/miendinh/VietnameseOCR) `python,tensorflow`
