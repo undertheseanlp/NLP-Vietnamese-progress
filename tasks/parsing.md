@@ -39,7 +39,7 @@ Data Annatation
     <td></td>
   </tr>
   <tr>
-    <td></td>
+    <td>fastText Embed / Biaffine</td>
     <td>75.64</td>
     <td>84.08</td>
     <td></td>
