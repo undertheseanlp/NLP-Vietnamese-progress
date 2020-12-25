@@ -19,6 +19,43 @@ Data Annatation
 
 ### Leaderboard
 
+#### CONLLU
+
+<table>
+  <tr>
+    <th>Model</th>
+    <th>LAS</th>
+    <th>UAS</th>
+    <th>Method</th>
+    <th>Reference</th>
+    <th>Code</th>
+  </tr>
+  <tr>
+    <td></td>
+    <td>76.27</td>
+    <td>84.65</td>
+    <td></td>
+    <td><a href="https://drive.google.com/file/d/19fWjeVfKUB-oVQv57OydrFOFpckwhJ6N/view?usp=sharing">Doan VLSP'20</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>75.64</td>
+    <td>84.08</td>
+    <td></td>
+    <td><a href="https://drive.google.com/file/d/1BtQYQfS-LivnkFgIlG3i95o7qxOOG0eZ/view?usp=sharing">Nguyen VLSP'20</a></td>
+    <td></td>
+  </tr>
+   <tr>
+    <td></td>
+    <td>73.19</td>
+    <td>81.71</td>
+    <td></td>
+    <td><a href="https://drive.google.com/file/d/1Aegu_F6qpIm5SE8b_FANtMFzGDoeXgM_/view?usp=sharing">Nguyen et al. VLSP'20</a></td>
+    <td></td>
+  </tr>
+</table>
+
 #### Raw text
 
 <table>
