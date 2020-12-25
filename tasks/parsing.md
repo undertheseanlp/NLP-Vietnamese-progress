@@ -31,7 +31,7 @@ Data Annatation
     <th>Code</th>
   </tr>
   <tr>
-    <td>PhoBert + ELMO/Biaffine</td>
+    <td>PhoBert+ELMO / Biaffine</td>
     <td>76.27</td>
     <td>84.65</td>
     <td></td>
@@ -68,7 +68,7 @@ Data Annatation
     <th>Code</th>
   </tr>
   <tr>
-    <td>PhoBert + ELMO/Biaffine/VNCoreNLP</td>
+    <td>PhoBert+ELMO / Biaffine / VNCoreNLP</td>
     <td>67.32</td>
     <td>76.12</td>
     <td></td>
@@ -76,7 +76,7 @@ Data Annatation
     <td></td>
   </tr>
   <tr>
-    <td></td>
+    <td>fastText Embed / Biaffine / VNCoreNLP</td>
     <td>65.3</td>
     <td>74.47</td>
     <td></td>
