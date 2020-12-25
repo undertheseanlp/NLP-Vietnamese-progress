@@ -32,10 +32,26 @@ Data Annatation
   </tr>
   <tr>
     <td></td>
-    <td>69.21</td>
-    <td>78.45</td>
+    <td>67.32</td>
+    <td>76.12</td>
     <td></td>
+    <td><a href="https://drive.google.com/file/d/19fWjeVfKUB-oVQv57OydrFOFpckwhJ6N/view?usp=sharing">Doan VLSP'20</a></td>
     <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>65.3</td>
+    <td>74.47</td>
+    <td></td>
+    <td><a href="https://drive.google.com/file/d/1BtQYQfS-LivnkFgIlG3i95o7qxOOG0eZ/view?usp=sharing">Nguyen VLSP'20</a></td>
+    <td></td>
+  </tr>
+   <tr>
+    <td></td>
+    <td>64.35</td>
+    <td>72.85</td>
+    <td></td>
+    <td><a href="https://drive.google.com/file/d/1Aegu_F6qpIm5SE8b_FANtMFzGDoeXgM_/view?usp=sharing">Nguyen et al. VLSP'20</a></td>
     <td></td>
   </tr>
 </table>
