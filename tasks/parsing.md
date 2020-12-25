@@ -47,7 +47,7 @@ Data Annatation
     <td></td>
   </tr>
    <tr>
-    <td></td>
+    <td>Graph Neural Networks</td>
     <td>73.19</td>
     <td>81.71</td>
     <td></td>
@@ -84,7 +84,7 @@ Data Annatation
     <td></td>
   </tr>
    <tr>
-    <td></td>
+    <td>Graph Neural Networks</td>
     <td>64.35</td>
     <td>72.85</td>
     <td></td>
