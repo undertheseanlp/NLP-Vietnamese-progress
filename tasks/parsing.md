@@ -1,5 +1,45 @@
 # Parsing
 
+## VLSP 2020 Shared Task Dependency Parsing
+
+Data descriptions
+
+* Training data: 8152 sentences
+  * Training Data Package1: All sentences (5069) from DP-2019
+  * Training Data Package2: 3083 sentences remain from
+* Viettreebank Testing data: 1123 sentences
+  * 906 sentences from Viettreebank
+  * 217 sentences from vnexpress.vn
+
+Data Annatation
+
+* Word segmentation: Review and correct all word segmentation errors in all data sets
+* Part of speech tagging: Review and correct all POS errors in all data sets
+* Dependency labels set: 38 main labels 47 sub-labels
+
+### Leaderboard
+
+#### Raw text
+
+<table>
+  <tr>
+    <th>Model</th>
+    <th>LAS</th>
+    <th>UAS</th>
+    <th>Method</th>
+    <th>Reference</th>
+    <th>Code</th>
+  </tr>
+  <tr>
+    <td></td>
+    <td>69.21</td>
+    <td>78.45</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
+
 ## BkTreebank: A Vietnamese Dependency Treebank
 
 BKTreebank 1.0 contains 6,900 sentences annotated with POS tagging and dependency parsing for Vietnamese. The treebank was divided into a training set of 5639 sentences and a test set of 1270 sentences for learning and testing POS tagging and dependency parsing
