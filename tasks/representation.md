@@ -15,7 +15,7 @@
       Data: 10GB <br/>
       Domain: News <br/>
       Token: Subword <br/>
-      Vocab size: 38168
+      Vocab: 38168
     </td>
     <td><a href="https://arxiv.org/pdf/2006.15994.pdf">Bui et al. PACLIC'20</a></td>
     <td>
