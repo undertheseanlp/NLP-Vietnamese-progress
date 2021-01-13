@@ -79,7 +79,7 @@
     <td>20GB</td>
     <td>News</td>
     <td>Word</td>
-    <td></td>
+    <td>64000</td>
   </tr>
   <tr>
     <td>NlpHUST/vibert4news</td>
