@@ -39,14 +39,14 @@
     </td>
     <td>
       🤗<a href="https://huggingface.co/NlpHUST/vibert4news-base-cased"><code>NlpHUST/vibert4news-base-cased</code></a><br/>
-      <a href="https://github.com/bino282/bert4news">[github]</a>
+      💻<a href="https://github.com/bino282/bert4news"><code>bino282/bert4news</code></a>
     </td>
   </tr>
   <tr>
     <td>nguyenvulebinh/vietnamese-electra</td>
     <td></td>
     <td>
-      <a href="https://github.com/nguyenvulebinh/vietnamese-electra">[github]</a>
+      💻<a href="https://github.com/nguyenvulebinh/vietnamese-electra"><code>nguyenvulebinh/vietnamese-electra</code></a>
     </td>
   </tr>
 </table>
