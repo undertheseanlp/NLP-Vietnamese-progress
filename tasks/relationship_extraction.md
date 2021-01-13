@@ -1,6 +1,6 @@
 # Relationship Extraction
 
-## VLSP 2020 Relation Extraction Task
+## VLSP 2020 Shared Task Relation Extraction
 
 Data descriptions
 
