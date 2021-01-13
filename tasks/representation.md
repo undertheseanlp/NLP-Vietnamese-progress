@@ -2,11 +2,48 @@
 
 ## Word Embeddings
 
-* [fpt-corp/viBERT](https://github.com/fpt-corp/viBERT) - Pre-trained model for Vietnamese BERT (viBERT)
-* [fpt-corp/vELECTRA](https://github.com/fpt-corp/vELECTRA) - Pre-trained model for Vietnamese ELECTRA (vELECTRA)
-* [VinAIResearch/PhoBERT](https://github.com/VinAIResearch/PhoBERT) - Pre-trained language models for Vietnamese
-* [datquocnguyen/PhoW2V](https://github.com/datquocnguyen/PhoW2V) - Pre-trained Word2Vec syllable and word embeddings for Vietnamese
+### Pre-trained Transformer Model
+
 * [nguyenvulebinh/vietnamese-electra](https://github.com/nguyenvulebinh/vietnamese-electra) - Electra pre-trained model using Vietnamese corpus
+
+<table>
+  <tr>
+    <th>Model</td>
+    <th>References</td>
+    <th>Link</td>
+  </tr>
+  <tr>
+    <td>fpt-corp/viBERT</td>
+    <td><a href="https://arxiv.org/pdf/2006.15994.pdf">Bui et al. PACLIC'20</a></td>
+    <td>
+      <a href="https://github.com/fpt-corp/viBERT">[github]</a>
+    </td>
+  </tr>
+  <tr>
+    <td>fpt-corp/vELECTRA</td>
+    <td><a href="https://arxiv.org/pdf/2006.15994.pdf">Bui et al. PACLIC'20</a></td>
+    <td>
+      <a href="https://github.com/fpt-corp/viBERT">[github]</a>
+    </td>
+  </tr>
+  <tr>
+    <td>VinAIResearch/PhoBERT</td>
+    <td><a href="https://arxiv.org/pdf/2003.00744.pdf">Nguyen et al. EMNLP Findings'20</a></td>
+    <td>
+      <a href="https://github.com/VinAIResearch/PhoBERT">[github]</a>
+    </td>
+  </tr>
+  <tr>
+    <td>nguyenvulebinh/vietnamese-electra</td>
+    <td></td>
+    <td>
+      <a href="https://github.com/nguyenvulebinh/vietnamese-electra">[github]</a>
+    </td>
+  </tr>
+</table>
+
+### Word Vectors
+* [datquocnguyen/PhoW2V](https://github.com/datquocnguyen/PhoW2V) - Pre-trained Word2Vec syllable and word embeddings for Vietnamese
 * [vietnlp/etnlp](https://github.com/vietnlp/etnlp) - A toolkit to evaluate, extract, and visualize multiple embeddings
 * [Kyubyong/wordvectors](https://github.com/Kyubyong/wordvectors) `resource`
 * [facebookresearch/fastText](https://github.com/facebookresearch/fastText) `resource`
