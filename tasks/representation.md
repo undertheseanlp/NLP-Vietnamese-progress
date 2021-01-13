@@ -4,8 +4,6 @@
 
 ### Pre-trained Transformer Model
 
-* [nguyenvulebinh/vietnamese-electra](https://github.com/nguyenvulebinh/vietnamese-electra) - Electra pre-trained model using Vietnamese corpus
-
 <table>
   <tr>
     <th>Model</td>
