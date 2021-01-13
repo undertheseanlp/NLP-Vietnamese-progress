@@ -51,6 +51,32 @@
   </tr>
 </table>
 
+<b>Model Descriptions</b>
+
+<table>
+  <tr>
+    <th>Model</td>
+    <th>Data</td>
+    <th>Domain</td>
+    <th>Tokenization</td>
+    <th>Vocab Size</td>
+  </tr>
+  <tr>
+    <td>fpt-corp/viBERT</td>
+    <td>10GB</td>
+    <td>News</td>
+    <td>Subword</td>
+    <td>38168</td>
+  </tr>
+  <tr>
+    <td>NlpHUST/vibert4news</td>
+    <td>20GB</td>
+    <td>News</td>
+    <td>Syllable</td>
+    <td>62000</td>
+  </tr>
+</table>
+
 ## Word Vectors
 
 * [datquocnguyen/PhoW2V](https://github.com/datquocnguyen/PhoW2V) - Pre-trained Word2Vec syllable and word embeddings for Vietnamese
