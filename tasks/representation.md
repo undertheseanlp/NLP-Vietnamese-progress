@@ -5,7 +5,7 @@
 <table>
   <tr>
     <th>Model</td>
-    <th>Descriptions</th>
+    <th>Description</th>
     <th>References</td>
     <th>Link</td>
   </tr>
