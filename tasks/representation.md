@@ -57,7 +57,7 @@
   <tr>
     <th>Model</th>
     <th>#Params</th>
-    <th>Data</th>
+    <th>Training Data</th>
     <th>Domain</th>
     <th>Tokenization</th>
     <th>Vocab Size</th>
