@@ -2,7 +2,7 @@
 
 ## Word Embeddings
 
-### Pre-trained Transformer Model
+### Pre-trained Transformer Models
 
 <table>
   <tr>
