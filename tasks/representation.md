@@ -4,9 +4,9 @@
 
 <table>
   <tr>
-    <th>Model</td>
-    <th>References</td>
-    <th>Link</td>
+    <th>Model</th>
+    <th>References</th>
+    <th>Link</th>
   </tr>
   <tr>
     <td>fpt-corp/viBERT</td>
@@ -55,21 +55,35 @@
 
 <table>
   <tr>
-    <th>Model</td>
-    <th>Data</td>
-    <th>Domain</td>
-    <th>Tokenization</td>
-    <th>Vocab Size</td>
+    <th>Model</th>
+    <th>#params</th>
+    <th>Data</th>
+    <th>Domain</th>
+    <th>Tokenization</th>
+    <th>Vocab Size</th>
   </tr>
   <tr>
     <td>fpt-corp/viBERT</td>
+    <td></td>
     <td>10GB</td>
     <td>News</td>
     <td>Subword</td>
     <td>38168</td>
   </tr>
   <tr>
+    <td>VinAIResearch/PhoBERT</td>
+    <td>
+      135M (phobert-base)<br/>
+      370M (phobert-large)
+    </td>
+    <td>20GB</td>
+    <td>News</td>
+    <td>Word</td>
+    <td></td>
+  </tr>
+  <tr>
     <td>NlpHUST/vibert4news</td>
+    <td></td>
     <td>20GB</td>
     <td>News</td>
     <td>Syllable</td>
