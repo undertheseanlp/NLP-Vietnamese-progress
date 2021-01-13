@@ -12,7 +12,8 @@
     <td>fpt-corp/viBERT</td>
     <td><a href="https://arxiv.org/pdf/2006.15994.pdf">Bui et al. PACLIC'20</a></td>
     <td>
-      <a href="https://github.com/fpt-corp/viBERT">[github]</a>
+      <a href="https://github.com/fpt-corp/viBERT">[github]</a><br/>
+      🤗: <a href="https://huggingface.co/FPTAI/vibert-base-cased"><code>FPTAI/vibert-base-cased</code></a>, 
     </td>
   </tr>
   <tr>
