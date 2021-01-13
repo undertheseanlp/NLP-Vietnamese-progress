@@ -1,8 +1,6 @@
 # Representation
 
-## Word Embeddings
-
-### Pre-trained Transformer Models
+## Pre-trained Transformer Models
 
 <table>
   <tr>
@@ -40,7 +38,8 @@
   </tr>
 </table>
 
-### Word Vectors
+## Word Vectors
+
 * [datquocnguyen/PhoW2V](https://github.com/datquocnguyen/PhoW2V) - Pre-trained Word2Vec syllable and word embeddings for Vietnamese
 * [vietnlp/etnlp](https://github.com/vietnlp/etnlp) - A toolkit to evaluate, extract, and visualize multiple embeddings
 * [Kyubyong/wordvectors](https://github.com/Kyubyong/wordvectors) `resource`
