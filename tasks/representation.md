@@ -5,18 +5,11 @@
 <table>
   <tr>
     <th>Model</td>
-    <th>Description</th>
     <th>References</td>
     <th>Link</td>
   </tr>
   <tr>
     <td>fpt-corp/viBERT</td>
-    <td>
-      Data: 10GB <br/>
-      Domain: News <br/>
-      Token: Subword <br/>
-      Vocab: 38168
-    </td>
     <td><a href="https://arxiv.org/pdf/2006.15994.pdf">Bui et al. PACLIC'20</a></td>
     <td>
       🤗<a href="https://huggingface.co/FPTAI/vibert-base-cased"><code>FPTAI/vibert-base-cased</code></a><br/>
@@ -25,7 +18,6 @@
   </tr>
   <tr>
     <td>fpt-corp/vELECTRA</td>
-    <td>Data: </td>
     <td><a href="https://arxiv.org/pdf/2006.15994.pdf">Bui et al. PACLIC'20</a></td>
     <td>
       🤗<a href="https://huggingface.co/FPTAI/velectra-base-discriminator-cased"><code>FPTAI/velectra-base-discriminator-cased</code></a><br/>
@@ -34,7 +26,6 @@
   </tr>
   <tr>
     <td>VinAIResearch/PhoBERT</td>
-    <td>Data: </td>
     <td><a href="https://arxiv.org/pdf/2003.00744.pdf">Nguyen et al. EMNLP Findings'20</a></td>
     <td>
       🤗<a href="https://huggingface.co/vinai/phobert-base"><code>vinai/phobert-base</code></a><br/>
@@ -42,9 +33,17 @@
       <a href="https://github.com/VinAIResearch/PhoBERT">[github]</a>
     </td>
   </tr>
+   <tr>
+    <td>NlpHUST/vibert4news</td>
+    <td>
+    </td>
+    <td>
+      🤗<a href="https://huggingface.co/NlpHUST/vibert4news-base-cased"><code>NlpHUST/vibert4news-base-cased</code></a><br/>
+      <a href="https://github.com/bino282/bert4news">[github]</a>
+    </td>
+  </tr>
   <tr>
     <td>nguyenvulebinh/vietnamese-electra</td>
-    <td>Data: </td>
     <td></td>
     <td>
       <a href="https://github.com/nguyenvulebinh/vietnamese-electra">[github]</a>
