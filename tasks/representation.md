@@ -56,7 +56,7 @@
 <table>
   <tr>
     <th>Model</th>
-    <th>#params</th>
+    <th>#Params</th>
     <th>Data</th>
     <th>Domain</th>
     <th>Tokenization</th>
