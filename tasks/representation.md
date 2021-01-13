@@ -12,7 +12,7 @@
     <td>fpt-corp/viBERT</td>
     <td><a href="https://arxiv.org/pdf/2006.15994.pdf">Bui et al. PACLIC'20</a></td>
     <td>
-      🤗: <a href="https://huggingface.co/FPTAI/vibert-base-cased"><code>FPTAI/vibert-base-cased</code></a><br/>
+      🤗<a href="https://huggingface.co/FPTAI/vibert-base-cased"><code>FPTAI/vibert-base-cased</code></a><br/>
       <a href="https://github.com/fpt-corp/viBERT">[github]</a>
     </td>
   </tr>
@@ -20,7 +20,7 @@
     <td>fpt-corp/vELECTRA</td>
     <td><a href="https://arxiv.org/pdf/2006.15994.pdf">Bui et al. PACLIC'20</a></td>
     <td>
-      🤗: <a href="https://huggingface.co/FPTAI/velectra-base-discriminator-cased"><code>FPTAI/velectra-base-discriminator-cased</code></a><br/>
+      🤗<a href="https://huggingface.co/FPTAI/velectra-base-discriminator-cased"><code>FPTAI/velectra-base-discriminator-cased</code></a><br/>
       <a href="https://github.com/fpt-corp/viBERT">[github]</a>
     </td>
   </tr>
@@ -28,8 +28,8 @@
     <td>VinAIResearch/PhoBERT</td>
     <td><a href="https://arxiv.org/pdf/2003.00744.pdf">Nguyen et al. EMNLP Findings'20</a></td>
     <td>
-      🤗: <a href="https://huggingface.co/vinai/phobert-base"><code>vinai/phobert-base</code></a><br/>
-      🤗: <a href="https://huggingface.co/vinai/phobert-large"><code>vinai/phobert-large</code></a><br/>
+      🤗<a href="https://huggingface.co/vinai/phobert-base"><code>vinai/phobert-base</code></a><br/>
+      🤗<a href="https://huggingface.co/vinai/phobert-large"><code>vinai/phobert-large</code></a><br/>
       <a href="https://github.com/VinAIResearch/PhoBERT">[github]</a>
     </td>
   </tr>
