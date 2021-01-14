@@ -6,7 +6,7 @@ Data descriptions
 
 * Training data: 8152 sentences
   * Training Data Package1: All sentences (5069) from DP-2019
-  * Training Data Package2: 3083 sentences remain from
+  * Training Data Package2: 3083 sentences
 * Viettreebank Testing data: 1123 sentences
   * 906 sentences from Viettreebank
   * 217 sentences from vnexpress.vn
