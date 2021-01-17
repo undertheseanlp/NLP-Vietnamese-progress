@@ -3,7 +3,7 @@
 ## UIT-ViQuAD (version 1.0)
 
 * Website: https://sites.google.com/uit.edu.vn/uit-nlp/datasets-projects
-* Paper: [A Vietnamese Dataset for Evaluating Machine Reading Comprehension](https://www.aclweb.org/anthology/2020.coling-main.233/)
+* Paper: [A Vietnamese Dataset for Evaluating Machine Reading Comprehension, COLING'20](https://www.aclweb.org/anthology/2020.coling-main.233/)
 
 A Vietnamese Dataset for Evaluating Machine Reading Comprehension.
 
