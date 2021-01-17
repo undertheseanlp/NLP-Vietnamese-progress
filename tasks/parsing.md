@@ -242,6 +242,7 @@ Vietnamese dependency Treebank namely VnDT contains 10200 sentences. The VnDT Tr
 
 :file_folder: **Open sources**
 
+* [nlp-uoregon/trankit (2021)](https://github.com/nlp-uoregon/trankit) `python`
 * [VinAIResearch/PhoNLP (2021)](https://github.com/VinAIResearch/PhoNLP) `python`
 * [datquocnguyen/jPTDP (2017)](https://github.com/datquocnguyen/jPTDP) `java`
 * [phuonglh/vn.vitk (2016)](https://github.com/phuonglh/vn.vitk) `java`
