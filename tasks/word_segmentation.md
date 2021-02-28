@@ -72,6 +72,13 @@ The training set consists of 75k manually word-segmented sentences (about 23 wor
     <td></td>
     <td><a href="http://viet.jnlp.org/dongdu">Official</a></td>
   </tr>
+  <tr>
+    <td>UITws-v1</td>
+    <td>98.06</td>
+    <td></td>
+    <td></td>
+    <td><a href="https://github.com/ngannlt/UITws-v1">Official</a></td>
+  </tr>
 </table>
 
 ## VietTreeBank
