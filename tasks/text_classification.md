@@ -51,6 +51,11 @@ Level 2: 27 topics, 14375 documents for training and 12076 documents for testing
   </tr>
 </table>
 
+## Social Media Text
+
+* [UIT-VSMEC: Emotion Recognition for Vietnamese Social Media Text](https://www.researchgate.net/publication/342618463_Emotion_Recognition_for_Vietnamese_Social_Media_Text)
+
+
 ## Miscellaneous
 
 :scroll: **Papers**
