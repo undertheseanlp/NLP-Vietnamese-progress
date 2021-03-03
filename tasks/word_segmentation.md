@@ -15,6 +15,13 @@ The training set consists of 75k manually word-segmented sentences (about 23 wor
     <th>Code</th>
   </tr>
   <tr>
+    <td>UITws-v1</td>
+    <td>98.06</td>
+    <td></td>
+    <td></td>
+    <td><a href="https://github.com/ngannlt/UITws-v1">Official</a></td>
+  </tr>
+  <tr>
     <td>RDRsegmenter</td>
     <td>97.90</td>
     <td><a href="http://www.lrec-conf.org/proceedings/lrec2018/pdf/55.pdf">Nguyen et al. LREC'18</a></td>
@@ -71,13 +78,6 @@ The training set consists of 75k manually word-segmented sentences (about 23 wor
     <td></td>
     <td></td>
     <td><a href="http://viet.jnlp.org/dongdu">Official</a></td>
-  </tr>
-  <tr>
-    <td>UITws-v1</td>
-    <td>98.06</td>
-    <td></td>
-    <td></td>
-    <td><a href="https://github.com/ngannlt/UITws-v1">Official</a></td>
   </tr>
 </table>
 
