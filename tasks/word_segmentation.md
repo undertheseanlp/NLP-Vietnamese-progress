@@ -17,7 +17,7 @@ The training set consists of 75k manually word-segmented sentences (about 23 wor
   <tr>
     <td>UITws-v1</td>
     <td>98.06</td>
-    <td></td>
+    <td><a href="https://arxiv.org/abs/2006.07804">Nguyen et al. PACLING'19</a></td>
     <td></td>
     <td><a href="https://github.com/ngannlt/UITws-v1">Official</a></td>
   </tr>
