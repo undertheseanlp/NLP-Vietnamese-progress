@@ -4,7 +4,7 @@
 
 * :link: [VLSP 2020 Shared Task Dependency Parsing website](https://vlsp.org.vn/vlsp2020/eval/udp)
 
-Data descriptions
+Data description:
 
 * Training data: 8152 sentences
   * Training Data Package1: All sentences (5069) from DP-2019
