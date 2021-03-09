@@ -122,7 +122,7 @@ Data description:
     <td>70.96</td>
     <td></td>
     <td></td>
-    <td></td>
+    <td><a href="https://github.com/nlp-uoregon/trankit">Official</a></td>
   </tr>
   <tr>
     <td>Stanza v1.1.1</td>
@@ -130,7 +130,7 @@ Data description:
     <td>48.16</td>
     <td></td>
     <td></td>
-    <td></td>
+    <td><a href="https://github.com/stanfordnlp/stanza">Official</a></td>
   </tr>
 </table>
 
