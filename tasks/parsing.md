@@ -103,7 +103,7 @@ The Vietnamese UD treebank is a conversion of the constituent treebank created i
 
 Data description:
 
-* 3000 sentences and 43754 tokens.
+* 3000 sentences and 43754 tokens
 
 ### Leaderboard
 
