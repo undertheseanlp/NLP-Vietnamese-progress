@@ -3,7 +3,7 @@
 ## VLSP 2020 Shared Task Dependency Parsing
 
 * :link: [VLSP 2020 Shared Task Dependency Parsing website](https://vlsp.org.vn/vlsp2020/eval/udp)
-* 
+
 Data descriptions
 
 * Training data: 8152 sentences
@@ -97,13 +97,13 @@ Data Annatation
 
 ## UD Vietnamese VTB
 
+* :link: [UD_Vietnamese-VTB github](https://github.com/UniversalDependencies/UD_Vietnamese-VTB)
+
 The Vietnamese UD treebank is a conversion of the constituent treebank created in the VLSP project (https://vlsp.hpda.vn/).
 
 Data description:
 
 * 3000 sentences and 43754 tokens.
-
-* :link: [UD_Vietnamese-VTB github](https://github.com/UniversalDependencies/UD_Vietnamese-VTB)
 
 ### Leaderboard
 
