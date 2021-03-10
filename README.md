@@ -18,7 +18,7 @@ It aims to cover both traditional and core NLP tasks such as dependency parsing 
 * ![](resources/book.png) Knowledge Representation and Reasoning
 * ![](resources/chatbot.png) [Dialog Systems and Chatbots](tasks/chatbot.md) / Language Generation / [Question Answering](tasks/question_answering.md) 
 * ![](resources/speak.png) [Automatic Speech Recognition](tasks/automatic_speech_recognition.md) / [Text To Speech](tasks/text_to_speech.md) / [Speech Classification](tasks/speech_classification.md) / [Speech](tasks/speech.md)
-* ![](resources/ocr.png) [Optical Text Recognition](tasks/optical_text_recognition.md)
+* ![](resources/ocr.png) [Optical Text Recognition](tasks/optical_text_recognition.md)  / [Image Captioning](tasks/image_captioning.md)
 * ![](resources/resource.png) [Resources](tasks/resources.md)
 
 ### Contributing
