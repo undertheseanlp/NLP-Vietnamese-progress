@@ -110,7 +110,9 @@ and duplicate lines, there are 106758 pairs of sentences. The validation set use
     <td>
       <a href="https://blog.vietai.org/sat/">Chinh et al. '21</a>
     </td>
-    <td></td>
+    <td>
+      <a href="https://github.com/vietai/SAT">vietai/SAT</a>
+    </td>
   </tr>
   <tr>
     <td>PJAIT</td>
