@@ -184,6 +184,9 @@ and duplicate lines, there are 106758 pairs of sentences. The validation set use
   </tr>
 </table>
 
+More Information: <a href="https://paperswithcode.com/sota/machine-translation-on-iwslt2015-english-1">paperswithcode.com</a>
+
+
 **TED: MT Vietnamese-English**
 
 | Method    | BLEU   | NIST    | TER   | Year |
