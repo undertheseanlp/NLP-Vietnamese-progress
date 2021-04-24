@@ -103,6 +103,16 @@ and duplicate lines, there are 106758 pairs of sentences. The validation set use
     <th>Code</th>
   </tr>
   <tr>
+    <td>Tall Transformer with Style-Augmented Training</td>
+    <td>43.37</td>
+    <td></td>
+    <td></td>
+    <td>
+      <a href="https://blog.vietai.org/sat/">Chinh et al. '21</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
     <td>PJAIT</td>
     <td>28.39</td>
     <td>6.6650</td>
