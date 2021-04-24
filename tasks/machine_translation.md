@@ -96,6 +96,7 @@ and duplicate lines, there are 106758 pairs of sentences. The validation set use
 <table>
   <tr>
     <th>Method</th>
+    <th>External Training Data</th>
     <th>BLEU</th>
     <th>NIST</th>
     <th>TER</th>
@@ -104,6 +105,7 @@ and duplicate lines, there are 106758 pairs of sentences. The validation set use
   </tr>
   <tr>
     <td>Tall Transformer with Style-Augmented Training</td>
+    <td></td>
     <td>43.37</td>
     <td></td>
     <td></td>
@@ -126,6 +128,7 @@ and duplicate lines, there are 106758 pairs of sentences. The validation set use
   </tr>
   <tr>
     <td>JAIST</td>
+    <td></td>
     <td>28.17</td>
     <td>6.7092</td>
     <td>55.84</td>
@@ -136,6 +139,7 @@ and duplicate lines, there are 106758 pairs of sentences. The validation set use
   </tr>
   <tr>
     <td>KIT</td>
+    <td></td>
     <td>26.60</td>
     <td>6.4014</td>
     <td>58.26</td>
@@ -146,6 +150,7 @@ and duplicate lines, there are 106758 pairs of sentences. The validation set use
   </tr>
   <tr>
     <td>SU</td>
+    <td></td>
     <td>26.41</td>
     <td>6.5986</td>
     <td>55.60</td>
@@ -156,6 +161,7 @@ and duplicate lines, there are 106758 pairs of sentences. The validation set use
   </tr>
   <tr>
     <td>UNETI</td>
+    <td></td>
     <td>22.93</td>
     <td>6.0218</td>
     <td>60.33</td>
@@ -166,6 +172,7 @@ and duplicate lines, there are 106758 pairs of sentences. The validation set use
   </tr>
   <tr>
     <td>BASELINE</td>
+    <td></td>
     <td>27.01</td>
     <td>6.4716</td>
     <td>58.42</td>
