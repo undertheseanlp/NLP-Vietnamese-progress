@@ -118,7 +118,7 @@ and duplicate lines, there are 106758 pairs of sentences. The validation set use
   </tr>
   <tr>
     <td>PJAIT</td>
-    <td></td>
+    <td>✕</td>
     <td>28.39</td>
     <td>6.6650</td>
     <td>56.01</td>
