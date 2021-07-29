@@ -1,5 +1,22 @@
 # Representation
 
+## Pre-trained GPT Models
+
+<table>
+  <tr>
+    <th>Model</th>
+    <th>References</th>
+    <th>Link</th>
+  </tr>
+  <tr>
+    <td>imthanhlv/gpt2news</td>
+    <td></td>
+    <td>
+      🤗<a href="https://huggingface.co/FPTAI/vibert-base-cased"><code>imthanhlv/gpt2news</code></a><br/>
+    </td>
+  </tr>
+</table>
+    
 ## Pre-trained Transformer Models
 
 <table>
