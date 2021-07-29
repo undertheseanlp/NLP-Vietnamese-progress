@@ -12,7 +12,14 @@
     <td>imthanhlv/gpt2news</td>
     <td></td>
     <td>
-      🤗<a href="https://huggingface.co/FPTAI/vibert-base-cased"><code>imthanhlv/gpt2news</code></a><br/>
+      🤗<a href="https://huggingface.co/imthanhlv/gpt2news"><code>imthanhlv/gpt2news</code></a><br/>
+    </td>
+  </tr>
+  <tr>
+    <td>imthanhlv/vigpt2</td>
+    <td></td>
+    <td>
+      🤗<a href="https://huggingface.co/imthanhlv/vigpt2"><code>imthanhlv/vigpt2</code></a><br/>
     </td>
   </tr>
 </table>
