@@ -2,6 +2,8 @@
 
 ## UIT ABSA Datasets
 
+* :scroll: [Two New Large Corpora for Vietnamese Aspect-based Sentiment Analysis at Sentence Level](https://dl.acm.org/doi/abs/10.1145/3446678)
+* 
 **Hotel Dataset**: 7180 reviews (train), 795 reviews (development), 2030 reviews (test)
 
 ## AIVIVN 2019: Sentiment Analysis Challenge
