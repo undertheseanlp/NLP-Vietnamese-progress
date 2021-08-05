@@ -1,5 +1,9 @@
 # Sentiment Analysis
 
+## UIT ABSA Datasets
+
+**Hotel Dataset**: 7180 reviews (train), 795 reviews (development), 2030 reviews (test)
+
 ## AIVIVN 2019: Sentiment Analysis Challenge
 
 * :link: [AIVIVN 2019: Sentiment Analysis Challenge 2019  website](https://www.aivivn.com/contests/1)
