@@ -98,7 +98,7 @@ The size of VLSP 2018 dataset
 16,861 sentences for training and development from the VLSP 2016 NER shared task:
 
 * 14,861 sentences are used for training.
-* 2k sentences are used for development.
+* 2,000 sentences are used for development.
 
 Test data: 2,831 test sentences from the VLSP 2016 NER shared task.
 
