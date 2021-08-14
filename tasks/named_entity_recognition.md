@@ -95,12 +95,11 @@ The size of VLSP 2018 dataset
 * :link: [VLSP 2016 Shared Task: Named Entity Recognition Website](http://vlsp.org.vn/vlsp2016/eval/ner)
 * :scroll: [VLSP 2016 Shared Task: Named Entity Recognition Paper](https://drive.google.com/file/d/18FuXxRM0slTeReQUCOj8IiToB5eqVQCT/view?usp=sharing)
 
-16,861 sentences for training and development from the VLSP 2016 NER shared task:
+19,692 sentences 
 
 * 14,861 sentences are used for training.
 * 2,000 sentences are used for development.
-
-Test data: 2,831 test sentences from the VLSP 2016 NER shared task.
+* 2,831 sentences are used for testing.
 
 ### Leaderboard
 
