@@ -47,12 +47,12 @@ Speech Recognition System under Noisy Conditions](https://drive.google.com/file/
 
 :dizzy: **Libraries**
   
-* [vietai/ASR](https://github.com/vietai/ASR) - Vietnamese end-to-end speech recognition using wav2vec 2.0
+* 2021, [vietai/ASR](https://github.com/vietai/ASR) - Vietnamese end-to-end speech recognition using wav2vec 2.0
   
 :dizzy: **Services**
 
-* [vtcc.ai ASR (2018-)](https://vtcc.ai/asr)
-* [OpenFPT: Speech Recognition (2017-)](http://doc.openfpt.vn/#speech-recognition)
+* 2018, [vtcc.ai ASR](https://vtcc.ai/asr)
+* 2017, [OpenFPT: Speech Recognition](http://doc.openfpt.vn/#speech-recognition)
 
 :file_folder: **Dataset**
 
