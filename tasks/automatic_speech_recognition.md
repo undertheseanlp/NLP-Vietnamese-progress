@@ -45,6 +45,10 @@ The test set was composed of 796 continuous wav files of news speech for a total
 Speech Recognition System under Noisy Conditions](https://drive.google.com/file/d/1Vqxcy11o8_HY_xItrS416vvw-e1fm6uk/view?usp=sharing)
 * [Nguyen et al. O-COCOSDA'17. Development of a Vietnamese speech recognition system for Viettel call center](https://drive.google.com/file/d/1N_Q8Mq_ArKZQqP7gq3kCxGf9iQBazpci/view?usp=sharing)
 
+:dizzy: **Libraries**
+  
+* https://github.com/vietai/ASR
+  
 :dizzy: **Services**
 
 * [vtcc.ai ASR (2018-)](https://vtcc.ai/asr)
