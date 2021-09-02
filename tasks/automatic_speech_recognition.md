@@ -47,7 +47,7 @@ Speech Recognition System under Noisy Conditions](https://drive.google.com/file/
 
 :dizzy: **Libraries**
   
-* https://github.com/vietai/ASR
+* [vietai/ASR](https://github.com/vietai/ASR) - Vietnamese end-to-end speech recognition using wav2vec 2.0
   
 :dizzy: **Services**
 
