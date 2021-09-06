@@ -19,10 +19,12 @@
 <tr>
   <th>Corpus</th>
   <th>Descriptions</th>
+  <th>Link</th>
 </tr>
 <tr>
   <td>Vietlex Corpus</td>
   <td>80.000.000 tokens, 4.000.000 sentences</td>
+  <td>[url](http://www.vietlex.com/help/about_corpus.htm)</td>
 </tr>
 </table>
 
