@@ -24,7 +24,7 @@
 <tr>
   <td>Vietlex Corpus</td>
   <td>80.000.000 tokens, 4.000.000 sentences</td>
-  <td>[url](http://www.vietlex.com/help/about_corpus.htm)</td>
+  <td><a href="http://www.vietlex.com/help/about_corpus.htm">link</a></td>
 </tr>
 </table>
 
