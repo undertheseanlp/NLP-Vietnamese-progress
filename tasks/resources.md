@@ -19,12 +19,26 @@
 <tr>
   <th>Corpus</th>
   <th>Descriptions</th>
+  <th>Domain</th>
   <th>Year</th>
   <th>References</th>
 </tr>
 <tr>
+  <td>
+    GENLEX-VIET<br/>
+    SUBTLEX-VIET
+  </td>
+  <td>
+    80.000.000 tokens, 4.000.000 sentences<br/>
+  </td>
+  <td></td>
+  <td></td>
+  <td><a href="https://link.springer.com/article/10.1007/s10579-019-09451-x">paper</a></td>
+</tr>
+<tr>
   <td>Vietlex Corpus</td>
   <td>80.000.000 tokens, 4.000.000 sentences</td>
+  <td></td>
   <td></td>
   <td><a href="http://www.vietlex.com/help/about_corpus.htm">website</a></td>
 </tr>
