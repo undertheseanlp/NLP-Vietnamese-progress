@@ -20,13 +20,13 @@
   <th>Corpus</th>
   <th>Descriptions</th>
   <th>Year</th>
-  <th>Link</th>
+  <th>References</th>
 </tr>
 <tr>
   <td>Vietlex Corpus</td>
   <td>80.000.000 tokens, 4.000.000 sentences</td>
   <td></td>
-  <td><a href="http://www.vietlex.com/help/about_corpus.htm">link</a></td>
+  <td><a href="http://www.vietlex.com/help/about_corpus.htm">website</a></td>
 </tr>
 </table>
 
