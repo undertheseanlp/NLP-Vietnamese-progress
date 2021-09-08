@@ -29,7 +29,10 @@
     SUBTLEX-VIET
   </td>
   <td>
-    80.000.000 tokens, 4.000.000 sentences<br/>
+    82.263.474 words, 164.526 HTML files<br/>
+    79.757.504 words, 13.349 subtitle documents<br/>
+    Measures: frequence of occurrence, dispersion, Mutual Information, Inverse Document Frequence<br/>
+    Latent Semantic Analysis, Hyperspace Analogue to Language
   </td>
   <td></td>
   <td></td>
