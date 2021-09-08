@@ -31,11 +31,12 @@
   <td>
     82.263.474 words, 164.526 HTML files<br/>
     79.757.504 words, 13.349 subtitle documents<br/>
-    Measures: frequence of occurrence, dispersion, Mutual Information, Inverse Document Frequence<br/>
-    Latent Semantic Analysis, Hyperspace Analogue to Language
   </td>
-  <td></td>
-  <td></td>
+  <td>
+    News<br/>
+    Movie subtitles
+  </td>
+  <td>2019</td>
   <td><a href="https://link.springer.com/article/10.1007/s10579-019-09451-x">paper</a></td>
 </tr>
 <tr>
