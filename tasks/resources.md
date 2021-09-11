@@ -41,10 +41,17 @@
 </tr>
 <tr>
   <td>Vietlex Corpus</td>
-  <td>80.000.000 tokens, 4.000.000 sentences</td>
+  <td>129.781.089 tokens, 106.464.835 words</td>
   <td></td>
   <td></td>
   <td><a href="http://www.vietlex.com/help/about_corpus.htm">website</a></td>
+</tr>
+<tr>
+  <td>VietnameseWAC</td>
+  <td>80.000.000 tokens, 4.000.000 sentences</td>
+  <td></td>
+  <td></td>
+  <td><a href="https://xltiengviet.fandom.com/wiki/VietnameseWAC">website</a></td>
 </tr>
 </table>
 
