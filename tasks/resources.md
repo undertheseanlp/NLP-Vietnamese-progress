@@ -50,7 +50,7 @@
   <td>VietnameseWAC</td>
   <td>80.000.000 tokens, 4.000.000 sentences</td>
   <td></td>
-  <td></td>
+  <td>2012</td>
   <td><a href="https://xltiengviet.fandom.com/wiki/VietnameseWAC">website</a></td>
 </tr>
 </table>
