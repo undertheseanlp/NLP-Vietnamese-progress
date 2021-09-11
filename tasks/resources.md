@@ -41,7 +41,7 @@
 </tr>
 <tr>
   <td>Vietlex Corpus</td>
-  <td>129.781.089 tokens, 106.464.835 words</td>
+  <td>106.464.835 words, 129.781.089 tokens</td>
   <td></td>
   <td></td>
   <td><a href="http://www.vietlex.com/help/about_corpus.htm">website</a></td>
