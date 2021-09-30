@@ -33,6 +33,15 @@
     <th>Link</th>
   </tr>
   <tr>
+    <td>VinAIResearch/BARTpho</td>
+    <td><a href="https://arxiv.org/pdf/2109.09701.pdf">Tran et al. arXiv preprint'21</a></td>
+    <td>
+      🤗<a href="https://huggingface.co/vinai/bartpho-syllable"><code>vinai/bartpho-syllable</code></a><br/>
+      🤗<a href="https://huggingface.co/vinai/bartpho-word"><code>vinai/vinai/bartpho-word</code></a><br/>
+      💻<a href="https://github.com/VinAIResearch/BARTpho"><code>VinAIResearch/BARTpho</code></a>
+    </td>
+  </tr>
+  <tr>
     <td>fpt-corp/viBERT</td>
     <td><a href="https://arxiv.org/pdf/2006.15994.pdf">Bui et al. PACLIC'20</a></td>
     <td>
@@ -57,7 +66,7 @@
       💻<a href="https://github.com/VinAIResearch/PhoBERT"><code>VinAIResearch/PhoBERT</code></a>
     </td>
   </tr>
-   <tr>
+  <tr>
     <td>NlpHUST/vibert4news</td>
     <td>
     </td>
@@ -78,6 +87,7 @@
 <b>Model Descriptions</b>
 
 <table>
+  
   <tr>
     <th>Model</th>
     <th>#Params</th>
@@ -85,6 +95,19 @@
     <th>Domain</th>
     <th>Tokenization</th>
     <th>Vocab Size</th>
+  </tr>
+    <tr>
+    <td>VinAIResearch/BARTpho</td>
+    <td>
+      396M (bartpho-syllable)<br/>
+      420M (bartpho-word)
+    </td>
+    <td>20GB</td>
+    <td>News</td>
+    <td>Word (bartpho-word) <br/>
+        Syllable (bartpho-syllable)
+    </td>
+    <td>64000</td>
   </tr>
   <tr>
     <td>fpt-corp/viBERT</td>
