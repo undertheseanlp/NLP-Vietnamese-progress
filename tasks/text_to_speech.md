@@ -50,6 +50,7 @@ In order to evaluate the quality of TTS systems, the test set contains 30 number
 
 :file_folder: **Open sources**
 
+* https://github.com/TensorSpeech/TensorFlowTTS
 * https://github.com/NTT123/vietTTS
 * https://github.com/NTT123/Vietnamese-Text-To-Speech-Dataset
 * [Smart Meeting Diarization](http://quochoi.vietcap.org/) - Smart Meeting Diarization *by AILab (2017)* `demo`
