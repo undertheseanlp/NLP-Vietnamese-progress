@@ -50,6 +50,8 @@ In order to evaluate the quality of TTS systems, the test set contains 30 number
 
 :file_folder: **Open sources**
 
+* https://github.com/NTT123/vietTTS
+* https://github.com/NTT123/Vietnamese-Text-To-Speech-Dataset
 * [Smart Meeting Diarization](http://quochoi.vietcap.org/) - Smart Meeting Diarization *by AILab (2017)* `demo`
 * [VOS](http://ailab.hcmus.edu.vn/vosdemo) - Voice of Southern Vietnam *by AILab (2017)* `demo`
 * [vaisvn/hts_for_vietnamese](https://bitbucket.org/vaisvn/hts_for_vietnamese) - HTS for Vietnamese *by VAIS (2016)* `perl,bash` `data`
