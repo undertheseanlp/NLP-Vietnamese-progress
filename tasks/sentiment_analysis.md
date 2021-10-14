@@ -1,5 +1,13 @@
 # Sentiment Analysis
 
+## UIT-ViSFD: A Vietnamese Smartphone Feedback Dataset for Aspect-Based Sentiment Analysis
+
+UIT-ViSFD consists of 11,122 human-annotated comments for mobile e-commerce, which is freely available for research purposes: 
+
+* :scroll: [SA2SL: From Aspect-Based Sentiment Analysis to Social Listening System for Business Intelligence](https://link.springer.com/chapter/10.1007/978-3-030-82147-0_53)
+* :link: [Vietnamese Smartphone Feedback Dataset](https://github.com/LuongPhan/UIT-ViSFD)
+
+
 ## UIT ABSA Datasets
 
 * :scroll: [Two New Large Corpora for Vietnamese Aspect-based Sentiment Analysis at Sentence Level](https://dl.acm.org/doi/abs/10.1145/3446678)
