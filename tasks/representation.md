@@ -9,17 +9,25 @@
     <th>Link</th>
   </tr>
   <tr>
+    <td>VietAI/gpt-j-6B-vietnamese-news</td>
+    <td></td>
+    <td>
+      🤗<a href="https://huggingface.co/VietAI/gpt-j-6B-vietnamese-news"><code>VietAI/gpt-j-6B-vietnamese-news</code></a><br/>
+    </td>
+  </tr>
+  </tr>
+    <tr>
+    <td>VietAI/gpt-neo-1.3B-vietnamese-news</td>
+    <td></td>
+    <td>
+      🤗<a href="https://huggingface.co/VietAI/gpt-neo-1.3B-vietnamese-news"><code>VietAI/gpt-neo-1.3B-vietnamese-news</code></a><br/>
+    </td>
+  </tr>
+  <tr>
     <td>imthanhlv/gpt2news</td>
     <td></td>
     <td>
       🤗<a href="https://huggingface.co/imthanhlv/gpt2news"><code>imthanhlv/gpt2news</code></a><br/>
-    </td>
-  </tr>
-  <tr>
-    <td>imthanhlv/vigpt2</td>
-    <td></td>
-    <td>
-      🤗<a href="https://huggingface.co/imthanhlv/vigpt2"><code>imthanhlv/vigpt2</code></a><br/>
     </td>
   </tr>
 </table>
@@ -80,6 +88,13 @@
     <td></td>
     <td>
       💻<a href="https://github.com/nguyenvulebinh/vietnamese-electra"><code>nguyenvulebinh/vietnamese-electra</code></a>
+    </td>
+  </tr>
+  <tr>
+    <td>imthanhlv/imthanhlv/t5vi</td>
+    <td></td>
+    <td>
+      🤗<a href="https://huggingface.co/imthanhlv/t5vi"><code>imthanhlv/t5vi</code></a>
     </td>
   </tr>
 </table>
