@@ -67,4 +67,5 @@ In order to evaluate the quality of TTS systems, the test set contains 30 number
 :file_folder: **Dataset**
 
 * [VIVOS](http://ailab.hcmus.edu.vn/vivos/) - a free Vietnamese speech corpus consisting of 15 hours of recording speech *by AILab (2017)* `data`
+* [InfoRe1](https://drive.google.com/u/0/uc?id=1Pe-5lKT_lZsliv2WxQDai2mjhI9ZMFlj) - a public access speech corpus consisting of 25 hours of recording speech *by InfoRe (2019)* `data`
 
